@@ -1,17 +1,20 @@
-NAME:Mono Blue Mill SOI
+NAME:Standard Mono Blue Mill
 4 [BFZ:69] Anticipate
+2 [BFZ:226] Pilgrim's Eye
 4 [ORI:59] Hydrolash
-20 [SOI:286] Island
+4 [ORI:235] Prism Ring
+4 [ORI:76] Sphinx's Tutelage
+18 [SOI:286] Island
 4 [SOI:92] Thing in the Ice
 4 [OGW:56] Grip of the Roil
-4 [ORI:235] Prism Ring
 4 [SOI:88] Startled Awake
-4 [SOI:79] Pore Over the Pages
+2 [SOI:79] Pore Over the Pages
 4 [SOI:58] Engulf the Shore
 4 [EMN:76] Take Inventory
-4 [ORI:76] Sphinx's Tutelage
-SB: 3 [EMN:54] Curious Homunculus
-SB: 4 [BFZ:11] Oblivion Sower
-SB: 3 [ORI:48] Calculated Dismissal
-SB: 4 [OGW:59] Negate
+2 [EMN:201] Terrarion
+SB: 4 [EMN:54] Curious Homunculus
+SB: 2 [EMN:65] Imprisoned in the Moon
+SB: 2 [EMN:79] Unsubstantiate
+SB: 2 [OGW:60] Oath of Jace
 SB: 1 [SOI:83] Rise from the Tides
+SB: 4 [SOI:73] Manic Scribe
