@@ -1,0 +1,26 @@
+NAME:WR Vehicles
+10 [KLD:250] Plains
+4 [KLD:188] Veteran Motorist
+3 [KLD:178] Depala, Pilot Exemplar
+4 [KLD:32] Toolcraft Exemplar
+4 [OGW:175] Needle Spires
+3 [EMN:40] Selfless Spirit
+4 [SOI:12] Declaration in Stone
+2 [KLD:214] Fleetwheel Cruiser
+6 [KLD:259] Mountain
+2 [KLD:124] Pia Nalaar
+1 [KLD:234] Skysovereign, Consul Flagship
+4 [KLD:246] Inspiring Vantage
+4 [KLD:235] Smuggler's Copter
+4 [SOI:44] Thraben Inspector
+2 [BFZ:29] Gideon, Ally of Zendikar
+3 [KLD:117] Harnessed Lightning
+SB: 2 [KLD:14] Fragmentize
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 4 [EMN:129] Galvanic Bombardment
+SB: 2 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [KLD:117] Harnessed Lightning
+SB: 2 [KLD:29] Skywhaler's Shot
+SB: 3 [EMN:149] Weaver of Lightning
+LAYOUT MAIN:(2,6)(CMC,true)|()([SOI:44],[SOI:44],[SOI:44],[SOI:44],[KLD:32],[KLD:32],[KLD:32],[KLD:32])([EMN:40],[EMN:40],[EMN:40],[KLD:188],[KLD:188],[KLD:188],[KLD:188])([KLD:178],[KLD:178],[KLD:178],[KLD:124],[KLD:124])()()([KLD:246],[KLD:246],[KLD:246],[KLD:246],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[OGW:175],[OGW:175],[OGW:175],[OGW:175],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250])()([SOI:12],[SOI:12],[SOI:12],[SOI:12],[KLD:117],[KLD:117],[KLD:117],[KLD:235],[KLD:235],[KLD:235],[KLD:235])()([KLD:214],[KLD:214],[BFZ:29],[BFZ:29])([KLD:234])
+LAYOUT SIDEBOARD:(1,4)(CMC,false)|([KLD:14],[KLD:14],[EMN:129],[EMN:129],[EMN:129],[EMN:129])([KLD:117])([KLD:29],[KLD:29],[EMN:149],[EMN:149],[EMN:149])([KLD:110],[BFZ:29],[BFZ:29])

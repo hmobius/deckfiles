@@ -1,0 +1,26 @@
+NAME:WR Humans
+8 [KLD:250] Plains
+4 [KLD:120] Inventor's Apprentice
+1 [EMN:204] Hanweir Battlements
+4 [OGW:175] Needle Spires
+3 [EMN:40] Selfless Spirit
+4 [EMN:130] Hanweir Garrison
+4 [SOI:12] Declaration in Stone
+2 [KLD:214] Fleetwheel Cruiser
+7 [KLD:259] Mountain
+3 [KLD:124] Pia Nalaar
+4 [SOI:43] Thalia's Lieutenant
+4 [KLD:246] Inspiring Vantage
+4 [KLD:235] Smuggler's Copter
+4 [SOI:44] Thraben Inspector
+4 [KLD:117] Harnessed Lightning
+SB: 2 [SOI:1] Always Watching
+SB: 2 [KLD:14] Fragmentize
+SB: 1 [EMN:133] Incendiary Flow
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 2 [EMN:46] Thalia, Heretic Cathar
+SB: 2 [EMN:38] Repel the Abominable
+SB: 3 [BFZ:29] Gideon, Ally of Zendikar
+SB: 2 [KLD:29] Skywhaler's Shot
+LAYOUT MAIN:(2,5)(CMC,true)|()([KLD:120],[KLD:120],[KLD:120],[KLD:120],[SOI:44],[SOI:44],[SOI:44],[SOI:44])([EMN:40],[EMN:40],[EMN:40],[SOI:43],[SOI:43],[SOI:43],[SOI:43])([EMN:130],[EMN:130],[EMN:130],[EMN:130],[KLD:124],[KLD:124],[KLD:124])()([EMN:204],[KLD:246],[KLD:246],[KLD:246],[KLD:246],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[OGW:175],[OGW:175],[OGW:175],[OGW:175],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250])()([SOI:12],[SOI:12],[SOI:12],[SOI:12],[KLD:117],[KLD:117],[KLD:117],[KLD:117],[KLD:235],[KLD:235],[KLD:235],[KLD:235])()([KLD:214],[KLD:214])
+LAYOUT SIDEBOARD:(1,4)(CMC,false)|([KLD:14],[KLD:14])([EMN:133],[EMN:38],[EMN:38])([SOI:1],[SOI:1],[KLD:29],[KLD:29],[EMN:46],[EMN:46])([KLD:110],[BFZ:29],[BFZ:29],[BFZ:29])
