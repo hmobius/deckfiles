@@ -1,0 +1,27 @@
+NAME:PT KLD UR Spells
+1 [KLD:67] Torrential Gearhulk
+4 [SOI:170] Lightning Axe
+3 [KLD:242] Aether Hub
+6 [KLD:253] Island
+2 [KLD:49] Glimmer of Genius
+3 [EMN:129] Galvanic Bombardment
+4 [OGW:182] Wandering Fumarole
+4 [EMN:76] Take Inventory
+4 [SOI:156] Fiery Temper
+1 [SOI:277] Highland Lake
+6 [KLD:259] Mountain
+4 [BFZ:69] Anticipate
+4 [KLD:208] Dynavolt Tower
+4 [KLD:117] Harnessed Lightning
+3 [OGW:49] Void Shatter
+4 [KLD:249] Spirebluff Canal
+3 [SOI:186] Tormenting Voice
+SB: 1 [KLD:67] Torrential Gearhulk
+SB: 4 [SOI:92] Thing in the Ice
+SB: 4 [EMN:72] Niblis of Frost
+SB: 2 [OGW:59] Negate
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 1 [KLD:49] Glimmer of Genius
+SB: 1 [EMN:129] Galvanic Bombardment
+LAYOUT MAIN:(1,6)(CMC,false)|([KLD:242],[KLD:242],[KLD:242],[SOI:277],[OGW:182],[OGW:182],[OGW:182],[OGW:182],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253])([SOI:170],[SOI:170],[SOI:170],[SOI:170],[EMN:129],[EMN:129],[EMN:129])([SOI:186],[SOI:186],[SOI:186],[EMN:76],[EMN:76],[EMN:76],[EMN:76],[BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[KLD:117],[KLD:117],[KLD:117],[KLD:117])([SOI:156],[SOI:156],[SOI:156],[SOI:156],[OGW:49],[OGW:49],[OGW:49],[KLD:208],[KLD:208],[KLD:208],[KLD:208])([KLD:49],[KLD:49])([KLD:67])
+LAYOUT SIDEBOARD:(1,4)(CMC,false)|([EMN:129],[KLD:40],[KLD:40])([SOI:92],[SOI:92],[SOI:92],[SOI:92],[OGW:59],[OGW:59])([KLD:49],[EMN:72],[EMN:72],[EMN:72],[EMN:72])([KLD:67])
