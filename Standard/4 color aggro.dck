@@ -1,0 +1,32 @@
+NAME:4 color aggro
+1 [KLD:250] Plains
+4 [KLD:161] Longtusk Cub
+2 [KLD:172] Verdurous Gearhulk
+4 [KLD:189] Voltaic Brawler
+4 [KLD:145] Attune with Aether
+4 [KLD:244] Botanical Sanctum
+4 [KLD:242] Aether Hub
+4 [KLD:264] Forest
+1 [KLD:253] Island
+2 [OGW:157] Reflector Mage
+3 [KLD:190] Whirler Virtuoso
+4 [EMN:189] Spell Queller
+2 [SOI:233] Tireless Tracker
+4 [BFZ:198] Woodland Wanderer
+1 [KLD:259] Mountain
+4 [KLD:169] Servant of the Conduit
+3 [KLD:246] Inspiring Vantage
+1 [BFZ:236] Evolving Wilds
+3 [EMN:190] Tamiyo, Field Researcher
+2 [KLD:117] Harnessed Lightning
+3 [KLD:249] Spirebluff Canal
+SB: 2 [SOI:69] Jace, Unraveler of Secrets
+SB: 2 [SOI:233] Tireless Tracker
+SB: 3 [OGW:59] Negate
+SB: 1 [KLD:146] Blossoming Defense
+SB: 1 [OGW:157] Reflector Mage
+SB: 3 [KLD:40] Ceremonious Rejection
+SB: 1 [BFZ:236] Evolving Wilds
+SB: 2 [KLD:117] Harnessed Lightning
+LAYOUT MAIN:(1,6)(CMC,false,50)|([BFZ:236],[KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[KLD:246],[KLD:246],[KLD:246],[KLD:249],[KLD:249],[KLD:249],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:253],[KLD:250],[KLD:259])([KLD:145],[KLD:145],[KLD:145],[KLD:145])([KLD:161],[KLD:161],[KLD:161],[KLD:161],[KLD:169],[KLD:169],[KLD:169],[KLD:169],[KLD:189],[KLD:189],[KLD:189],[KLD:189],[KLD:117],[KLD:117])([SOI:233],[SOI:233],[OGW:157],[OGW:157],[EMN:189],[EMN:189],[EMN:189],[EMN:189],[KLD:190],[KLD:190],[KLD:190])([EMN:190],[EMN:190],[EMN:190],[BFZ:198],[BFZ:198],[BFZ:198],[BFZ:198])([KLD:172],[KLD:172])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([BFZ:236])([KLD:146],[KLD:40],[KLD:40],[KLD:40])([KLD:117],[KLD:117],[OGW:59],[OGW:59],[OGW:59])([SOI:233],[SOI:233],[OGW:157])([SOI:69],[SOI:69])

@@ -1,0 +1,24 @@
+NAME:WB Aggro
+3 [SOI:1] Always Watching
+4 [KLD:32] Toolcraft Exemplar
+14 [KLD:252] Plains
+4 [KLD:231] Scrapheap Scrounger
+3 [KLD:2] Aerial Responder
+4 [EMN:40] Selfless Spirit
+4 [BFZ:50] Stasis Snare
+2 [EMN:200] Stitcher's Graft
+4 [SOI:12] Declaration in Stone
+4 [KLD:245] Concealed Courtyard
+4 [SOI:44] Thraben Inspector
+4 [KLD:235] Smuggler's Copter
+2 [BFZ:29] Gideon, Ally of Zendikar
+4 [BFZ:244] Shambling Vent
+SB: 2 [SOI:290] Swamp
+SB: 2 [EMN:13] Blessed Alliance
+SB: 1 [KLD:2] Aerial Responder
+SB: 2 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 3 [SOI:5] Archangel Avacyn
+SB: 4 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(2,5)(CMC,true,50)|()([SOI:44],[SOI:44],[SOI:44],[SOI:44],[KLD:32],[KLD:32],[KLD:32],[KLD:32])([KLD:231],[KLD:231],[KLD:231],[KLD:231],[EMN:40],[EMN:40],[EMN:40],[EMN:40])([KLD:2],[KLD:2],[KLD:2])()([KLD:245],[KLD:245],[KLD:245],[KLD:245],[BFZ:244],[BFZ:244],[BFZ:244],[BFZ:244],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252],[KLD:252])([EMN:200],[EMN:200])([SOI:12],[SOI:12],[SOI:12],[SOI:12],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([SOI:1],[SOI:1],[SOI:1],[BFZ:50],[BFZ:50],[BFZ:50],[BFZ:50])([BFZ:29],[BFZ:29])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([SOI:290],[SOI:290])([EMN:13],[EMN:13],[BFZ:101],[BFZ:101],[BFZ:101],[BFZ:101])([KLD:2],[SOI:242])([BFZ:29],[BFZ:29])([SOI:5],[SOI:5],[SOI:5])

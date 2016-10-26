@@ -1,0 +1,36 @@
+1 [BFZ:239] Lumbering Falls
+1 [KLD:193] Aetherworks Marvel
+1 [KLD:244] Botanical Sanctum
+4 [KLD:242] Aether Hub
+9 [KLD:264] Forest
+7 [KLD:253] Island
+1 [EMN:6] Emrakul, the Promised End
+3 [SOI:70] Jace's Scrutiny
+4 [SOI:60] Erdwal Illuminator
+2 [SOI:207] Graf Mole
+1 [EMN:51] Coax from the Blind Eternities
+3 [SOI:80] Press for Answers
+1 [SOI:226] Seasons Past
+2 [BFZ:183] Plated Crusher
+2 [SOI:236] Ulvenwald Mysteries
+4 [SOI:233] Tireless Tracker
+1 [OGW:59] Negate
+4 [SOI:265] Tamiyo's Journal
+2 [BFZ:236] Evolving Wilds
+3 [SOI:195] Briarbridge Patrol
+4 [SOI:198] Confront the Unknown
+SB: 1 [OGW:72] Inverter of Truth
+SB: 1 [BFZ:3] Breaker of Armies
+SB: 1 [OGW:126] World Breaker
+SB: 2 [OGW:136] Natural State
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 2 [EMN:78] Turn Aside
+SB: 1 [OGW:25] Linvala, the Preserver
+SB: 1 [EMN:79] Unsubstantiate
+SB: 1 [BFZ:164] Brood Monitor
+SB: 1 [SOI:224] Root Out
+SB: 1 [BFZ:57] Drowner of Hope
+SB: 1 [SOI:250] Sigarda, Heron's Grace
+SB: 1 [BFZ:17] Void Winnower
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([KLD:193],[SOI:265],[SOI:265],[SOI:265],[SOI:265])([SOI:60],[SOI:60],[SOI:60],[SOI:60],[SOI:195],[SOI:195],[SOI:195],[SOI:207],[SOI:207],[BFZ:183],[BFZ:183],[SOI:233],[SOI:233],[SOI:233],[SOI:233],[EMN:6])([SOI:236],[SOI:236])([SOI:70],[SOI:70],[SOI:70],[OGW:59],[SOI:198],[SOI:198],[SOI:198],[SOI:198])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[BFZ:236],[BFZ:236],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[BFZ:239])([EMN:51],[SOI:80],[SOI:80],[SOI:80],[SOI:226])
+LAYOUT SIDEBOARD:(1,10)(CMC,false,50)|([OGW:136],[OGW:136],[EMN:78],[EMN:78])([EMN:79])([SOI:224])([OGW:72])([SOI:250])([BFZ:164],[BFZ:57],[OGW:25])([OGW:126])([BFZ:3])([BFZ:17])([EMN:6])
