@@ -1,0 +1,24 @@
+NAME:UW Pascal Prison
+1 [KLD:250] Plains
+4 [KLD:67] Torrential Gearhulk
+4 [SOI:58] Engulf the Shore
+14 [KLD:253] Island
+3 [KLD:242] Aether Hub
+4 [KLD:176] Cloudblazer
+4 [KLD:49] Glimmer of Genius
+2 [KLD:29] Skywhaler's Shot
+4 [BFZ:85] Scatter to the Winds
+4 [EMN:79] Unsubstantiate
+4 [BFZ:241] Prairie Stream
+4 [BFZ:69] Anticipate
+4 [BFZ:236] Evolving Wilds
+4 [KLD:208] Dynavolt Tower
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 2 [EMN:75] Summary Dismissal
+SB: 2 [BFZ:76] Dispel
+SB: 1 [SOI:12] Declaration in Stone
+SB: 3 [OGW:59] Negate
+SB: 3 [BFZ:59] Horribly Awry
+SB: 2 [KLD:40] Ceremonious Rejection
+LAYOUT MAIN:(2,6)(CMC,true,50)|()()()()([KLD:176],[KLD:176],[KLD:176],[KLD:176])([KLD:67],[KLD:67],[KLD:67],[KLD:67])([KLD:242],[KLD:242],[KLD:242],[BFZ:236],[BFZ:236],[BFZ:236],[BFZ:236],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:250],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241])([BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[EMN:79],[EMN:79],[EMN:79],[EMN:79])([KLD:208],[KLD:208],[KLD:208],[KLD:208],[BFZ:85],[BFZ:85],[BFZ:85],[BFZ:85],[KLD:29],[KLD:29])([SOI:58],[SOI:58],[SOI:58],[SOI:58],[KLD:49],[KLD:49],[KLD:49],[KLD:49])()()
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([BFZ:76],[BFZ:76],[KLD:40],[KLD:40],[KLD:5],[KLD:5])([OGW:59],[OGW:59],[OGW:59],[BFZ:59],[BFZ:59],[BFZ:59],[SOI:12])([EMN:75],[EMN:75])

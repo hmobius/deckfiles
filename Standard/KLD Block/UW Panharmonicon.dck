@@ -1,0 +1,31 @@
+NAME:UW Panharmonicon
+5 [KLD:250] Plains
+1 [BFZ:229] Blighted Cataract
+1 [SOI:281] Westvale Abbey
+4 [KLD:242] Aether Hub
+4 [KLD:176] Cloudblazer
+4 [KLD:253] Island
+3 [OGW:157] Reflector Mage
+1 [OGW:177] Sea Gate Wreckage
+1 [KLD:247] Inventors' Fair
+3 [SOI:12] Declaration in Stone
+4 [KLD:226] Panharmonicon
+2 [KLD:50] Glint-Nest Crane
+4 [BFZ:241] Prairie Stream
+1 [KLD:212] Filigree Familiar
+1 [KLD:234] Skysovereign, Consul Flagship
+3 [OGW:13] Eldrazi Displacer
+4 [SOI:278] Port Town
+2 [BFZ:57] Drowner of Hope
+4 [SOI:44] Thraben Inspector
+3 [KLD:235] Smuggler's Copter
+2 [KLD:229] Prophetic Prism
+3 [OGW:9] Thought-Knot Seer
+SB: 3 [KLD:14] Fragmentize
+SB: 3 [BFZ:76] Dispel
+SB: 2 [OGW:59] Negate
+SB: 2 [KLD:212] Filigree Familiar
+SB: 2 [KLD:179] Dovin Baan
+SB: 3 [OGW:8] Spatial Contortion
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:250],[KLD:250],[SOI:278],[BFZ:241],[SOI:281],[BFZ:229],[KLD:247],[KLD:250],[KLD:250],[KLD:250],[SOI:278],[SOI:278],[SOI:278],[BFZ:241],[BFZ:241],[BFZ:241],[OGW:177])([SOI:44],[SOI:44],[SOI:44],[SOI:44])([KLD:50],[KLD:50],[KLD:229],[KLD:229],[SOI:12],[SOI:12],[SOI:12],[KLD:235],[KLD:235],[KLD:235])([OGW:13],[OGW:157],[OGW:157],[OGW:157],[OGW:13],[OGW:13],[KLD:212])([KLD:226],[KLD:226],[KLD:226],[KLD:226],[OGW:9],[OGW:9],[OGW:9])([KLD:176],[KLD:176],[KLD:176],[KLD:176],[KLD:234])([BFZ:57],[BFZ:57])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:14],[BFZ:76],[BFZ:76],[BFZ:76],[KLD:14],[KLD:14])([OGW:59],[OGW:59],[OGW:8],[OGW:8],[OGW:8])([KLD:212],[KLD:212])([KLD:179],[KLD:179])

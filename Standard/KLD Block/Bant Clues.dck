@@ -1,0 +1,35 @@
+NAME:Bant Mill
+2 [BFZ:239] Lumbering Falls
+2 [SOI:19] Expose Evil
+2 [KLD:244] Botanical Sanctum
+2 [KLD:222] Metalwork Colossus
+4 [KLD:242] Aether Hub
+3 [SOI:60] Erdwal Illuminator
+2 [SOI:207] Graf Mole
+2 [SOI:80] Press for Answers
+3 [SOI:233] Tireless Tracker
+5 [SOI:288] Island
+2 [SOI:12] Declaration in Stone
+3 [SOI:265] Tamiyo's Journal
+2 [OGW:26] Make a Stand
+2 [KLD:146] Blossoming Defense
+2 [BFZ:241] Prairie Stream
+4 [SOI:44] Thraben Inspector
+2 [KLD:235] Smuggler's Copter
+2 [BFZ:236] Evolving Wilds
+2 [SOI:195] Briarbridge Patrol
+2 [EMN:190] Tamiyo, Field Researcher
+1 [BFZ:234] Canopy Vista
+5 [SOI:297] Forest
+3 [SOI:198] Confront the Unknown
+1 [SOI:285] Plains
+SB: 3 [OGW:61] Overwhelming Denial
+SB: 2 [OGW:150] Void Grafter
+SB: 1 [BFZ:183] Plated Crusher
+SB: 3 [OGW:59] Negate
+SB: 1 [SOI:265] Tamiyo's Journal
+SB: 1 [SOI:53] Confirm Suspicions
+SB: 2 [EMN:5] Elder Deep-Fiend
+SB: 2 [SOI:62] Fleeting Memories
+LAYOUT MAIN:(2,7)(CMC,true,50)|()([SOI:44],[SOI:44],[SOI:44],[SOI:44])([SOI:60],[SOI:60],[SOI:60])([SOI:207],[SOI:207],[SOI:233],[SOI:233],[SOI:233])([SOI:195],[SOI:195])()([KLD:222],[KLD:222])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[KLD:244],[BFZ:234],[BFZ:236],[BFZ:236],[SOI:297],[SOI:297],[SOI:297],[SOI:297],[SOI:297],[SOI:288],[SOI:288],[SOI:288],[SOI:288],[SOI:288],[BFZ:239],[SOI:285],[BFZ:241],[BFZ:241],[BFZ:239])([KLD:146],[KLD:146],[SOI:198],[SOI:198],[SOI:198])([SOI:12],[SOI:12],[SOI:19],[SOI:19],[SOI:80],[SOI:80],[KLD:235],[KLD:235])([OGW:26],[OGW:26])([EMN:190],[EMN:190])([SOI:265],[SOI:265],[SOI:265])()
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([OGW:59],[OGW:59],[OGW:59])([OGW:150],[OGW:150],[SOI:62],[SOI:62])([OGW:61],[OGW:61],[OGW:61])([SOI:53],[SOI:265])([BFZ:183])([EMN:5],[EMN:5])

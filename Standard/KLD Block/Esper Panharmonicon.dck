@@ -1,0 +1,41 @@
+1 [KLD:185] Restoration Gearsmith
+1 [BFZ:249] Sunken Hollow
+3 [BFZ:226] Pilgrim's Eye
+1 [SOI:281] Westvale Abbey
+4 [KLD:242] Aether Hub
+1 [OGW:183] Wastes
+4 [KLD:226] Panharmonicon
+4 [KLD:50] Glint-Nest Crane
+1 [BFZ:230] Blighted Fen
+1 [OGW:13] Eldrazi Displacer
+1 [SOI:278] Port Town
+1 [SOI:251] Sorin, Grim Nemesis
+4 [KLD:229] Prophetic Prism
+4 [BFZ:236] Evolving Wilds
+2 [SOI:61] Essence Flux
+2 [KLD:250] Plains
+3 [KLD:96] Noxious Gearhulk
+2 [KLD:176] Cloudblazer
+4 [KLD:253] Island
+3 [OGW:157] Reflector Mage
+1 [EMN:3] Distended Mindbender
+1 [EMN:5] Elder Deep-Fiend
+1 [OGW:25] Linvala, the Preserver
+1 [BFZ:242] Sanctum of Ugin
+1 [BFZ:241] Prairie Stream
+2 [KLD:256] Swamp
+1 [BFZ:57] Drowner of Hope
+3 [OGW:9] Thought-Knot Seer
+2 [BFZ:244] Shambling Vent
+SB: 1 [KLD:14] Fragmentize
+SB: 1 [KLD:15] Fumigate
+SB: 2 [BFZ:151] Radiant Flames
+SB: 3 [OGW:20] Immolating Glare
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [EMN:3] Distended Mindbender
+SB: 1 [OGW:9] Thought-Knot Seer
+SB: 2 [SOI:242] Anguished Unmaking
+SB: 2 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(2,8)(CMC,true,50)|()()([KLD:50],[KLD:50],[KLD:50],[KLD:50])([OGW:13],[BFZ:226],[BFZ:226],[BFZ:226],[OGW:157],[OGW:157],[OGW:157])([KLD:185],[OGW:9],[OGW:9],[OGW:9])([KLD:176],[KLD:176])([BFZ:57],[OGW:25],[KLD:96],[KLD:96],[KLD:96])([EMN:3],[EMN:5])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[BFZ:230],[BFZ:236],[BFZ:236],[BFZ:236],[BFZ:236],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:250],[KLD:250],[SOI:278],[BFZ:241],[BFZ:242],[BFZ:244],[BFZ:244],[BFZ:249],[KLD:256],[KLD:256],[OGW:183],[SOI:281])([SOI:61],[SOI:61])([KLD:229],[KLD:229],[KLD:229],[KLD:229])()([KLD:226],[KLD:226],[KLD:226],[KLD:226])()([SOI:251])()
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([KLD:14])([OGW:20],[OGW:20],[OGW:20],[BFZ:101],[BFZ:101])([OGW:157],[SOI:242],[SOI:242],[BFZ:151],[BFZ:151])([OGW:9])([KLD:15],[KLD:234])([EMN:3])

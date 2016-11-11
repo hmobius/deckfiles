@@ -1,0 +1,21 @@
+NAME:KLD Mono Blue Mil
+4 [KLD:57] Minister of Inquiries
+3 [BFZ:226] Pilgrim's Eye
+4 [SOI:58] Engulf the Shore
+2 [SOI:69] Jace, Unraveler of Secrets
+4 [KLD:242] Aether Hub
+16 [KLD:253] Island
+2 [SOI:59] Epiphany at the Drownyard
+4 [KLD:49] Glimmer of Genius
+4 [EMN:76] Take Inventory
+2 [KLD:212] Filigree Familiar
+4 [KLD:202] Consulate Skygate
+4 [BFZ:236] Evolving Wilds
+4 [SOI:73] Manic Scribe
+SB: 2 [EMN:75] Summary Dismissal
+SB: 3 [BFZ:76] Dispel
+SB: 3 [OGW:59] Negate
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 4 [OGW:49] Void Shatter
+LAYOUT MAIN:(2,6)(CMC,true,50)|()([KLD:57],[KLD:57],[KLD:57],[KLD:57])([SOI:73],[SOI:73],[SOI:73],[SOI:73],[KLD:202],[KLD:202],[KLD:202],[KLD:202])([BFZ:226],[BFZ:226],[BFZ:226],[KLD:212],[KLD:212])()()([BFZ:236],[BFZ:236],[BFZ:236],[BFZ:236],[KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253])([SOI:59],[SOI:59])([EMN:76],[EMN:76],[EMN:76],[EMN:76])()([SOI:58],[SOI:58],[SOI:58],[SOI:58],[KLD:49],[KLD:49],[KLD:49],[KLD:49])([SOI:69],[SOI:69])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:40],[KLD:40],[BFZ:76],[BFZ:76],[BFZ:76])([OGW:59],[OGW:59],[OGW:59])([OGW:49],[OGW:49],[OGW:49],[OGW:49])([EMN:75],[EMN:75])
