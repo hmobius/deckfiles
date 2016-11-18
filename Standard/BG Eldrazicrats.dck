@@ -1,0 +1,27 @@
+2 [BFZ:4] Conduit of Ruin
+5 [SOI:290] Swamp
+4 [BFZ:106] Carrier Thrall
+2 [OGW:70] Flaying Tendrils
+4 [KLD:243] Blooming Marsh
+4 [OGW:75] Oblivion Strike
+2 [OGW:126] World Breaker
+4 [OGW:141] Pulse of Murasa
+1 [BFZ:180] Nissa's Renewal
+4 [OGW:171] Hissing Quagmire
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+4 [BFZ:163] Blisterpod
+2 [BFZ:240] Mortuary Mire
+4 [BFZ:126] Zulaport Cutthroat
+4 [BFZ:8] Endless One
+1 [BFZ:7] Eldrazi Devastator
+4 [BFZ:223] Hedron Archive
+2 [BFZ:245] Shrine of the Forsaken Gods
+1 [BFZ:17] Void Winnower
+5 [SOI:296] Forest
+SB: 3 [BFZ:105] Bone Splinters
+SB: 2 [KLD:85] Harsh Scrutiny
+SB: 3 [KLD:146] Blossoming Defense
+SB: 4 [BFZ:124] Vampiric Rites
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,10)(CMC,false,50)|([BFZ:8],[BFZ:8],[BFZ:8],[BFZ:8],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[OGW:171],[OGW:171],[OGW:171],[OGW:171],[BFZ:240],[BFZ:240],[BFZ:245],[BFZ:245],[SOI:290],[SOI:290],[SOI:290],[SOI:290],[SOI:290],[SOI:296],[SOI:296],[SOI:296],[SOI:296],[SOI:296])([BFZ:163],[BFZ:163],[BFZ:163],[BFZ:163])([BFZ:106],[BFZ:106],[BFZ:106],[BFZ:106],[BFZ:126],[BFZ:126],[BFZ:126],[BFZ:126])([OGW:141],[OGW:141],[OGW:141],[OGW:141],[OGW:70],[OGW:70])([BFZ:223],[BFZ:223],[BFZ:223],[BFZ:223],[OGW:75],[OGW:75],[OGW:75],[OGW:75])([BFZ:4],[BFZ:4],[BFZ:180])([OGW:126],[OGW:126])([BFZ:7])([BFZ:17])([BFZ:15])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([KLD:85],[KLD:85],[KLD:146],[KLD:146],[KLD:146],[BFZ:105],[BFZ:105],[BFZ:105],[BFZ:124],[BFZ:124],[BFZ:124],[BFZ:124])([BFZ:101],[BFZ:101],[BFZ:101])

@@ -1,0 +1,26 @@
+NAME:Give me a Hand
+2 [BFZ:119] Ob Nixilis Reignited
+4 [KLD:85] Harsh Scrutiny
+4 [KLD:242] Aether Hub
+3 [KLD:88] Lost Legacy
+3 [EMN:3] Distended Mindbender
+2 [EMN:203] Geier Reach Sanitarium
+2 [OGW:174] Mirrorpool
+3 [EMN:85] Collective Brutality
+2 [SOI:98] Alms of the Vein
+4 [KLD:212] Filigree Familiar
+2 [KLD:94] Morbid Curiosity
+15 [KLD:256] Swamp
+4 [SOI:99] Asylum Visitor
+3 [KLD:235] Smuggler's Copter
+4 [OGW:9] Thought-Knot Seer
+3 [BFZ:101] Transgress the Mind
+SB: 2 [EMN:93] Liliana, the Last Hope
+SB: 1 [OGW:70] Flaying Tendrils
+SB: 3 [OGW:85] Grasp of Darkness
+SB: 3 [SOI:129] Pick the Brain
+SB: 3 [SOI:106] Dead Weight
+SB: 2 [SOI:139] To the Slaughter
+SB: 1 [SOI:144] Vessel of Malignity
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KLD:242],[KLD:242],[KLD:242],[KLD:242],[EMN:203],[EMN:203],[OGW:174],[OGW:174],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256])([KLD:85],[KLD:85],[KLD:85],[KLD:85])([SOI:99],[SOI:99],[SOI:99],[SOI:99],[EMN:85],[EMN:85],[EMN:85],[KLD:235],[KLD:235],[KLD:235],[BFZ:101],[BFZ:101],[BFZ:101])([SOI:98],[SOI:98],[KLD:212],[KLD:212],[KLD:212],[KLD:212],[KLD:88],[KLD:88],[KLD:88],[KLD:94],[KLD:94])([OGW:9],[OGW:9],[OGW:9],[OGW:9])([BFZ:119],[BFZ:119])([EMN:3],[EMN:3],[EMN:3])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([SOI:106],[SOI:106],[SOI:106])([OGW:85],[OGW:85],[OGW:85],[SOI:144])([OGW:70],[EMN:93],[EMN:93],[SOI:129],[SOI:129],[SOI:129],[SOI:139],[SOI:139])
