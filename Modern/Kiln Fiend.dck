@@ -1,0 +1,32 @@
+NAME:UR Kiln Fiend
+4 [ROE:153] Kiln Fiend
+4 [SHM:211] Manamorphose
+2 [KLD:253] Island
+4 [M11:149] Lightning Bolt
+3 [KTK:118] Monastery Swiftspear
+2 [NPH:2] Apostle's Blessing
+4 [5DN:36] Serum Visions
+4 [FRF:116] Temur Battle Rage
+2 [EMN:118] Bedlam Reveler
+4 [SOI:92] Thing in the Ice
+4 [NPH:116] Mutagenic Growth
+4 [ZEN:223] Scalding Tarn
+4 [RTR:247] Steam Vents
+2 [DKA:87] Faithless Looting
+4 [NPH:35] Gitaxian Probe
+1 [KLD:259] Mountain
+2 [9ED:99] Sleight of Hand
+3 [KLD:249] Spirebluff Canal
+3 [ISD:248] Sulfur Falls
+SB: 1 [ISD:78] Snapcaster Mage
+SB: 1 [DST:21] Echoing Truth
+SB: 1 [RTR:111] Vandalblast
+SB: 1 [M15:237] Tormod's Crypt
+SB: 3 [9ED:176] Blood Moon
+SB: 2 [KTK:56] Stubborn Denial
+SB: 1 [RTR:153] Counterflux
+SB: 1 [RTR:173] Izzet Staticaster
+SB: 3 [M14:163] Young Pyromancer
+SB: 1 [M15:82] Void Snare
+LAYOUT MAIN:(1,4)(CMC,false,50)|([KLD:259],[KLD:253],[KLD:253],[KLD:249],[KLD:249],[KLD:249],[ISD:248],[ISD:248],[ISD:248],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:247],[RTR:247],[RTR:247],[RTR:247])([KTK:118],[KTK:118],[KTK:118],[M11:149],[M11:149],[M11:149],[M11:149],[NPH:116],[NPH:116],[NPH:116],[NPH:116],[DKA:87],[DKA:87],[9ED:99],[9ED:99],[NPH:35],[NPH:35],[NPH:35],[NPH:35],[5DN:36],[5DN:36],[5DN:36],[5DN:36])([ROE:153],[ROE:153],[ROE:153],[ROE:153],[SOI:92],[SOI:92],[SOI:92],[SOI:92],[NPH:2],[NPH:2],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[FRF:116],[FRF:116],[FRF:116],[FRF:116])([EMN:118],[EMN:118])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([M15:237])([M15:82],[RTR:111],[KTK:56],[KTK:56])([ISD:78],[DST:21],[M14:163],[M14:163],[M14:163])([RTR:173],[RTR:153],[9ED:176],[9ED:176],[9ED:176])

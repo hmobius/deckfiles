@@ -1,0 +1,29 @@
+NAME:RW Vehicles
+4 [KLD:250] Plains
+4 [KLD:188] Veteran Motorist
+2 [KLD:178] Depala, Pilot Exemplar
+4 [KLD:120] Inventor's Apprentice
+4 [KLD:32] Toolcraft Exemplar
+4 [KLD:242] Aether Hub
+4 [KLD:231] Scrapheap Scrounger
+3 [KLD:187] Unlicensed Disintegration
+2 [OGW:175] Needle Spires
+3 [KLD:203] Cultivator's Caravan
+4 [KLD:259] Mountain
+4 [KLD:245] Concealed Courtyard
+1 [KLD:124] Pia Nalaar
+4 [KLD:246] Inspiring Vantage
+4 [SOI:44] Thraben Inspector
+4 [KLD:235] Smuggler's Copter
+3 [KLD:117] Harnessed Lightning
+2 [BFZ:29] Gideon, Ally of Zendikar
+SB: 2 [KLD:14] Fragmentize
+SB: 2 [KLD:110] Chandra, Torch of Defiance
+SB: 1 [KLD:187] Unlicensed Disintegration
+SB: 1 [SOI:12] Declaration in Stone
+SB: 2 [EMN:46] Thalia, Heretic Cathar
+SB: 2 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [KLD:117] Harnessed Lightning
+SB: 4 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([KLD:231],[KLD:231],[KLD:231],[KLD:231])([KLD:203],[KLD:203],[KLD:203],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([KLD:178],[KLD:178],[KLD:120],[KLD:120],[KLD:120],[KLD:120],[KLD:124],[SOI:44],[SOI:44],[SOI:44],[SOI:44],[KLD:32],[KLD:32],[KLD:32],[KLD:32],[KLD:188],[KLD:188],[KLD:188],[KLD:188])([KLD:117],[KLD:117],[KLD:117],[KLD:187],[KLD:187],[KLD:187])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[KLD:246],[KLD:246],[KLD:246],[KLD:246],[OGW:175],[OGW:175],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:250],[KLD:250],[KLD:250],[KLD:250])([BFZ:29],[BFZ:29])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:14],[KLD:14])([SOI:12],[KLD:117],[BFZ:101],[BFZ:101],[BFZ:101],[BFZ:101])([EMN:46],[EMN:46],[KLD:187])([KLD:110],[KLD:110],[BFZ:29],[BFZ:29])

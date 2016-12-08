@@ -1,0 +1,33 @@
+NAME:Jeskai Ascendancy
+4 [ALA:43] Fatestitcher
+1 [KLD:253] Island
+4 [5DN:36] Serum Visions
+4 [FUT:156] Glittering Wish
+4 [KTK:249] Wooded Foothills
+4 [M12:165] Birds of Paradise
+3 [KTK:233] Flooded Strand
+4 [TSB:119] Gemstone Mine
+2 [M12:80] Visions of Beyond
+1 [RTR:248] Temple Garden
+1 [RTR:247] Steam Vents
+4 [DKA:52] Thought Scour
+1 [GTC:247] Stomping Ground
+4 [DKA:87] Faithless Looting
+4 [NPH:35] Gitaxian Probe
+3 [KTK:180] Jeskai Ascendancy
+1 [GTC:245] Sacred Foundry
+4 [9ED:99] Sleight of Hand
+2 [CSP:138] Mishra's Bauble
+4 [THS:180] Sylvan Caryatid
+1 [GTC:240] Breeding Pool
+SB: 3 [CON:15] Path to Exile
+SB: 2 [NPH:86] Gut Shot
+SB: 3 [FRF:20] Monastery Mentor
+SB: 1 [DGM:128] Flesh // Blood
+SB: 1 [KTK:180] Jeskai Ascendancy
+SB: 2 [ARB:76] Reborn Hope
+SB: 1 [SHM:175] Scarscale Ritual
+SB: 1 [DGM:135] Wear // Tear
+SB: 1 [RTR:141] Abrupt Decay
+LAYOUT MAIN:(1,5)(CMC,false,50)|([GTC:240],[KTK:233],[KTK:233],[KTK:233],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[GTC:245],[RTR:247],[GTC:247],[RTR:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[KLD:253],[CSP:138],[CSP:138])([M12:165],[M12:165],[M12:165],[M12:165],[DKA:87],[DKA:87],[DKA:87],[DKA:87],[NPH:35],[NPH:35],[NPH:35],[NPH:35],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[9ED:99],[9ED:99],[9ED:99],[9ED:99],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[M12:80],[M12:80])([THS:180],[THS:180],[THS:180],[THS:180],[FUT:156],[FUT:156],[FUT:156],[FUT:156])([KTK:180],[KTK:180],[KTK:180])([ALA:43],[ALA:43],[ALA:43],[ALA:43])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([NPH:86],[NPH:86],[CON:15],[CON:15],[CON:15])([DGM:135])([RTR:141],[ARB:76],[ARB:76],[SHM:175])([KTK:180],[FRF:20],[FRF:20],[FRF:20])([DGM:128])
