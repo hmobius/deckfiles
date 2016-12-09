@@ -1,0 +1,27 @@
+NAME:GP Denver Grixis Fevered Zombies
+4 [SOI:170] Lightning Axe
+4 [BFZ:249] Sunken Hollow
+1 [SOI:270] Choked Estuary
+4 [KLD:231] Scrapheap Scrounger
+3 [KLD:253] Island
+4 [EMN:92] Haunted Dead
+4 [EMN:5] Elder Deep-Fiend
+4 [SOI:249] Prized Amalgam
+4 [SOI:156] Fiery Temper
+4 [SOI:244] Fevered Visions
+5 [KLD:259] Mountain
+2 [KLD:256] Swamp
+4 [SOI:168] Insolent Neonate
+4 [KLD:235] Smuggler's Copter
+1 [KLD:109] Cathartic Reunion
+4 [SOI:272] Foreboding Ruins
+4 [KLD:249] Spirebluff Canal
+SB: 2 [EMN:85] Collective Brutality
+SB: 4 [OGW:98] Kozilek's Return
+SB: 1 [KLD:187] Unlicensed Disintegration
+SB: 2 [KLD:110] Chandra, Torch of Defiance
+SB: 3 [OGW:59] Negate
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 1 [KLD:109] Cathartic Reunion
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KLD:249],[KLD:249],[KLD:249],[KLD:249],[SOI:272],[SOI:272],[SOI:272],[SOI:272],[SOI:270],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:253],[KLD:253],[KLD:253],[KLD:256],[KLD:256],[BFZ:249],[BFZ:249],[BFZ:249],[BFZ:249])([SOI:168],[SOI:168],[SOI:168],[SOI:168],[SOI:170],[SOI:170],[SOI:170],[SOI:170])([KLD:231],[KLD:231],[KLD:231],[KLD:231],[KLD:109],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([SOI:249],[SOI:249],[SOI:249],[SOI:249],[SOI:156],[SOI:156],[SOI:156],[SOI:156],[SOI:244],[SOI:244],[SOI:244],[SOI:244])([EMN:92],[EMN:92],[EMN:92],[EMN:92])([EMN:5],[EMN:5],[EMN:5],[EMN:5])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:40],[KLD:40])([KLD:109],[OGW:59],[OGW:59],[OGW:59],[EMN:85],[EMN:85])([KLD:187],[OGW:98],[OGW:98],[OGW:98],[OGW:98])([KLD:110],[KLD:110])

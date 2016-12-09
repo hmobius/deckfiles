@@ -1,0 +1,30 @@
+NAME:GP Denver UW Panharmonicon
+9 [KLD:250] Plains
+1 [BFZ:226] Pilgrim's Eye
+2 [SOI:281] Westvale Abbey
+4 [KLD:176] Cloudblazer
+5 [KLD:253] Island
+4 [OGW:157] Reflector Mage
+2 [BFZ:50] Stasis Snare
+1 [OGW:183] Wastes
+4 [KLD:226] Panharmonicon
+4 [KLD:50] Glint-Nest Crane
+2 [KLD:234] Skysovereign, Consul Flagship
+4 [BFZ:241] Prairie Stream
+4 [SOI:44] Thraben Inspector
+2 [BFZ:57] Drowner of Hope
+3 [OGW:13] Eldrazi Displacer
+4 [KLD:235] Smuggler's Copter
+4 [BFZ:236] Evolving Wilds
+1 [OGW:9] Thought-Knot Seer
+SB: 3 [KLD:14] Fragmentize
+SB: 2 [KLD:36] Aether Meltdown
+SB: 1 [EMN:75] Summary Dismissal
+SB: 2 [BFZ:66] Spell Shrivel
+SB: 1 [OGW:20] Immolating Glare
+SB: 2 [OGW:25] Linvala, the Preserver
+SB: 1 [OGW:59] Negate
+SB: 2 [KLD:212] Filigree Familiar
+SB: 1 [OGW:9] Thought-Knot Seer
+LAYOUT MAIN:(1,7)(CMC,false,50)|([BFZ:236],[BFZ:236],[BFZ:236],[BFZ:236],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241],[OGW:183],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[SOI:281],[SOI:281])([SOI:44],[SOI:44],[SOI:44],[SOI:44])([KLD:50],[KLD:50],[KLD:50],[KLD:50],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([OGW:157],[OGW:157],[OGW:157],[OGW:157],[BFZ:226],[OGW:13],[OGW:13],[OGW:13],[BFZ:50],[BFZ:50])([OGW:9],[KLD:226],[KLD:226],[KLD:226],[KLD:226])([KLD:176],[KLD:176],[KLD:176],[KLD:176],[KLD:234],[KLD:234])([BFZ:57],[BFZ:57])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:14],[KLD:14],[KLD:14])([OGW:20],[KLD:36],[KLD:36],[OGW:59])([BFZ:66],[BFZ:66],[KLD:212],[KLD:212])([OGW:9],[EMN:75])([OGW:25],[OGW:25])

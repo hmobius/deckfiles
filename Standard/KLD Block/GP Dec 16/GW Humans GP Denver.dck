@@ -1,0 +1,24 @@
+NAME:GW Humans GP Denver
+9 [KLD:250] Plains
+1 [SOI:281] Westvale Abbey
+7 [KLD:264] Forest
+3 [BFZ:50] Stasis Snare
+4 [SOI:203] Duskwatch Recruiter
+4 [EMN:185] Heron's Grace Champion
+2 [EMN:46] Thalia, Heretic Cathar
+3 [SOI:233] Tireless Tracker
+3 [SOI:12] Declaration in Stone
+4 [SOI:43] Thalia's Lieutenant
+2 [BFZ:24] Expedition Envoy
+4 [SOI:44] Thraben Inspector
+4 [KLD:235] Smuggler's Copter
+4 [BFZ:234] Canopy Vista
+4 [SOI:274] Fortified Village
+SB: 1 [BFZ:50] Stasis Snare
+SB: 3 [EMN:40] Selfless Spirit
+SB: 3 [KLD:14] Fragmentize
+SB: 1 [SOI:233] Tireless Tracker
+SB: 3 [KLD:169] Servant of the Conduit
+SB: 4 [BFZ:29] Gideon, Ally of Zendikar
+LAYOUT MAIN:(1,5)(CMC,false,50)|([BFZ:234],[BFZ:234],[BFZ:234],[BFZ:234],[SOI:274],[SOI:274],[SOI:274],[SOI:274],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[SOI:281])([BFZ:24],[BFZ:24],[SOI:44],[SOI:44],[SOI:44],[SOI:44])([SOI:43],[SOI:43],[SOI:43],[SOI:43],[SOI:203],[SOI:203],[SOI:203],[SOI:203],[SOI:12],[SOI:12],[SOI:12],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([EMN:46],[EMN:46],[SOI:233],[SOI:233],[SOI:233],[BFZ:50],[BFZ:50],[BFZ:50])([EMN:185],[EMN:185],[EMN:185],[EMN:185])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([KLD:14],[KLD:14],[KLD:14])([EMN:40],[EMN:40],[EMN:40],[KLD:169],[KLD:169],[KLD:169])([BFZ:50],[SOI:233])([BFZ:29],[BFZ:29],[BFZ:29],[BFZ:29])

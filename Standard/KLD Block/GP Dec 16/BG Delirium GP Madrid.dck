@@ -1,0 +1,34 @@
+NAME:BG Delirium GP madrid
+1 [BFZ:226] Pilgrim's Eye
+1 [KLD:96] Noxious Gearhulk
+4 [KLD:243] Blooming Marsh
+4 [OGW:85] Grasp of Darkness
+5 [KLD:264] Forest
+4 [EMN:93] Liliana, the Last Hope
+1 [EMN:6] Emrakul, the Promised End
+4 [OGW:171] Hissing Quagmire
+2 [EMN:97] Murder
+3 [SOI:237] Vessel of Nascency
+4 [EMN:184] Grim Flayer
+2 [SOI:233] Tireless Tracker
+3 [EMN:162] Ishkanah, Grafwidow
+3 [EMN:160] Grapple with the Past
+7 [KLD:256] Swamp
+2 [SOI:124] Mindwrack Demon
+4 [SOI:234] Traverse the Ulvenwald
+3 [BFZ:236] Evolving Wilds
+1 [BFZ:123] Ruinous Path
+2 [BFZ:101] Transgress the Mind
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [KLD:141] Appetite for the Unnatural
+SB: 2 [SOI:129] Pick the Brain
+SB: 1 [SOI:139] To the Slaughter
+SB: 2 [KLD:88] Lost Legacy
+SB: 2 [SOI:106] Dead Weight
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [SOI:233] Tireless Tracker
+SB: 2 [OGW:136] Natural State
+SB: 1 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,8)(CMC,false,50)|([KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[OGW:171],[OGW:171],[OGW:171],[OGW:171],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[BFZ:236],[BFZ:236],[BFZ:236])([SOI:234],[SOI:234],[SOI:234],[SOI:234],[SOI:237],[SOI:237],[SOI:237])([EMN:184],[EMN:184],[EMN:184],[EMN:184],[BFZ:101],[BFZ:101],[EMN:160],[EMN:160],[EMN:160],[OGW:85],[OGW:85],[OGW:85],[OGW:85])([EMN:93],[EMN:93],[EMN:93],[EMN:93],[SOI:233],[SOI:233],[BFZ:226],[BFZ:123],[EMN:97],[EMN:97])([SOI:124],[SOI:124])([EMN:162],[EMN:162],[EMN:162])([KLD:96])([EMN:6])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([OGW:136],[OGW:136],[SOI:106],[SOI:106])([BFZ:101])([SOI:233],[SOI:129],[SOI:129],[SOI:139],[KLD:141],[KLD:88],[KLD:88])([OGW:86])([BFZ:119])([EMN:6])

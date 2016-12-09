@@ -1,0 +1,28 @@
+NAME:GP Denver RW Aggro
+10 [KLD:250] Plains
+2 [SOI:1] Always Watching
+4 [KLD:188] Veteran Motorist
+4 [KLD:178] Depala, Pilot Exemplar
+4 [KLD:32] Toolcraft Exemplar
+1 [SOI:5] Archangel Avacyn
+4 [OGW:175] Needle Spires
+3 [EMN:40] Selfless Spirit
+3 [BFZ:50] Stasis Snare
+6 [KLD:259] Mountain
+2 [KLD:124] Pia Nalaar
+4 [SOI:44] Thraben Inspector
+4 [KLD:235] Smuggler's Copter
+4 [KLD:246] Inspiring Vantage
+3 [BFZ:29] Gideon, Ally of Zendikar
+2 [KLD:117] Harnessed Lightning
+SB: 1 [BFZ:50] Stasis Snare
+SB: 2 [KLD:14] Fragmentize
+SB: 2 [KLD:110] Chandra, Torch of Defiance
+SB: 2 [OGW:116] Reckless Bushwhacker
+SB: 1 [EMN:13] Blessed Alliance
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 4 [EMN:129] Galvanic Bombardment
+SB: 1 [BFZ:29] Gideon, Ally of Zendikar
+SB: 1 [KLD:29] Skywhaler's Shot
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KLD:246],[KLD:246],[KLD:246],[KLD:246],[OGW:175],[OGW:175],[OGW:175],[OGW:175],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250])([SOI:44],[SOI:44],[SOI:44],[SOI:44],[KLD:32],[KLD:32],[KLD:32],[KLD:32])([EMN:40],[EMN:40],[EMN:40],[KLD:188],[KLD:188],[KLD:188],[KLD:188],[KLD:117],[KLD:117],[KLD:235],[KLD:235],[KLD:235],[KLD:235])([KLD:178],[KLD:178],[KLD:178],[KLD:178],[KLD:124],[KLD:124],[SOI:1],[SOI:1],[BFZ:50],[BFZ:50],[BFZ:50])([BFZ:29],[BFZ:29],[BFZ:29])([SOI:5])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([EMN:129],[EMN:129],[EMN:129],[EMN:129],[KLD:14],[KLD:14])([EMN:13])([BFZ:50],[OGW:116],[OGW:116],[KLD:29])([BFZ:29],[KLD:110],[KLD:110])([KLD:234])
