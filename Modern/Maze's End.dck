@@ -1,0 +1,30 @@
+NAME:Maze's End
+3 [WWK:121] Amulet of Vigor
+4 [M14:171] Fog
+3 [KTK:57] Taigam's Scheming
+4 [CHK:9] Ethereal Haze
+4 [10E:21] Holy Day
+2 [DGM:153] Orzhov Guildgate
+4 [RTR:124] Gatecreeper Vine
+4 [DGM:152] Maze's End
+3 [DGM:155] Selesnya Guildgate
+2 [DGM:154] Rakdos Guildgate
+4 [EMN:52] Contingency Plan
+4 [M12:192] Rites of Flourishing
+2 [DGM:151] Izzet Guildgate
+2 [DGM:150] Gruul Guildgate
+2 [SOI:78] Pieces of the Puzzle
+2 [DGM:149] Golgari Guildgate
+2 [EMN:171] Splendid Reclamation
+2 [DGM:146] Azorius Guildgate
+3 [DGM:156] Simic Guildgate
+2 [DGM:148] Dimir Guildgate
+2 [DGM:147] Boros Guildgate
+SB: 4 [OGW:141] Pulse of Murasa
+SB: 3 [SOI:237] Vessel of Nascency
+SB: 1 [WWK:121] Amulet of Vigor
+SB: 2 [EMN:171] Splendid Reclamation
+SB: 4 [EMN:160] Grapple with the Past
+SB: 1 [KTK:57] Taigam's Scheming
+LAYOUT MAIN:(1,5)(CMC,false,50)|([DGM:146],[DGM:146],[DGM:147],[DGM:147],[DGM:148],[DGM:148],[DGM:149],[DGM:149],[DGM:150],[DGM:150],[DGM:151],[DGM:151],[DGM:153],[DGM:153],[DGM:154],[DGM:154],[DGM:155],[DGM:155],[DGM:152],[DGM:152],[DGM:152],[DGM:152],[DGM:155],[DGM:156],[DGM:156],[DGM:156])([CHK:9],[CHK:9],[CHK:9],[CHK:9],[M14:171],[M14:171],[M14:171],[M14:171],[10E:21],[10E:21],[10E:21],[10E:21],[WWK:121],[WWK:121],[WWK:121])([RTR:124],[RTR:124],[RTR:124],[RTR:124],[EMN:52],[EMN:52],[EMN:52],[EMN:52],[KTK:57],[KTK:57],[KTK:57])([SOI:78],[SOI:78],[M12:192],[M12:192],[M12:192],[M12:192])([EMN:171],[EMN:171])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([WWK:121],[SOI:237],[SOI:237],[SOI:237])([EMN:160],[EMN:160],[EMN:160],[EMN:160],[KTK:57])([OGW:141],[OGW:141],[OGW:141],[OGW:141])([EMN:171],[EMN:171])
