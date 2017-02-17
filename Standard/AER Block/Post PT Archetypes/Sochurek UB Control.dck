@@ -1,0 +1,28 @@
+NAME:Sochurek UB Control
+4 [KLD:67] Torrential Gearhulk
+4 [BFZ:249] Sunken Hollow
+4 [SOI:270] Choked Estuary
+3 [AER:57] Fatal Push
+4 [OGW:85] Grasp of Darkness
+1 [SOI:69] Jace, Unraveler of Secrets
+7 [KLD:253] Island
+3 [OGW:86] Kalitas, Traitor of Ghet
+4 [KLD:49] Glimmer of Genius
+2 [EMN:97] Murder
+4 [AER:31] Disallow
+1 [BFZ:230] Blighted Fen
+7 [KLD:256] Swamp
+4 [BFZ:69] Anticipate
+3 [BFZ:236] Evolving Wilds
+3 [AER:40] Negate
+2 [BFZ:123] Ruinous Path
+SB: 2 [SOI:92] Thing in the Ice
+SB: 4 [OGW:70] Flaying Tendrils
+SB: 1 [AER:57] Fatal Push
+SB: 1 [SOI:69] Jace, Unraveler of Secrets
+SB: 4 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [AER:40] Negate
+SB: 1 [BFZ:101] Transgress the Mind
+SB: 1 [BFZ:123] Ruinous Path
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([KLD:67],[KLD:67],[KLD:67],[KLD:67])([OGW:86],[OGW:86],[OGW:86])([AER:57],[AER:57],[AER:57],[KLD:49],[KLD:49],[KLD:49],[KLD:49],[BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[OGW:85],[OGW:85],[OGW:85],[OGW:85],[AER:31],[AER:31],[AER:31],[AER:31],[AER:40],[AER:40],[AER:40],[EMN:97],[EMN:97])([BFZ:230],[SOI:270],[SOI:270],[SOI:270],[SOI:270],[BFZ:249],[BFZ:249],[BFZ:249],[BFZ:249],[BFZ:236],[BFZ:236],[BFZ:236],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253])([SOI:69])([BFZ:123],[BFZ:123])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([AER:57])([AER:62],[AER:62],[AER:62],[AER:62],[BFZ:101],[AER:40],[SOI:92],[SOI:92])([OGW:70],[OGW:70],[OGW:70],[OGW:70],[BFZ:123])([SOI:69])

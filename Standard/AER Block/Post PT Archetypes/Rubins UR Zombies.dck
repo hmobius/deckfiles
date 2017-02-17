@@ -1,0 +1,29 @@
+NAME:Rubins uR Zombies
+3 [SOI:170] Lightning Axe
+4 [OGW:98] Kozilek's Return
+5 [KLD:253] Island
+4 [EMN:5] Elder Deep-Fiend
+4 [SOI:90] Stitchwing Skaab
+4 [OGW:182] Wandering Fumarole
+4 [SOI:249] Prized Amalgam
+2 [SOI:277] Highland Lake
+3 [SOI:156] Fiery Temper
+4 [SOI:244] Fevered Visions
+2 [BFZ:242] Sanctum of Ugin
+6 [KLD:259] Mountain
+4 [EMN:49] Advanced Stitchwing
+4 [KLD:109] Cathartic Reunion
+4 [KLD:249] Spirebluff Canal
+3 [SOI:186] Tormenting Voice
+SB: 1 [SOI:170] Lightning Axe
+SB: 2 [EMN:137] Nahiri's Wrath
+SB: 2 [BFZ:66] Spell Shrivel
+SB: 1 [BFZ:76] Dispel
+SB: 2 [KLD:220] Key to the City
+SB: 2 [EMN:12] Wretched Gryff
+SB: 1 [SOI:156] Fiery Temper
+SB: 1 [KLD:212] Filigree Familiar
+SB: 2 [AER:40] Negate
+SB: 1 [AER:96] Release the Gremlins
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([SOI:249],[SOI:249],[SOI:249],[SOI:249],[EMN:5],[EMN:5],[EMN:5],[EMN:5],[EMN:49],[EMN:49],[EMN:49],[EMN:49],[SOI:90],[SOI:90],[SOI:90],[SOI:90])([SOI:244],[SOI:244],[SOI:244],[SOI:244])([SOI:170],[SOI:170],[SOI:170],[SOI:156],[SOI:156],[SOI:156],[OGW:98],[OGW:98],[OGW:98],[OGW:98])([OGW:182],[OGW:182],[OGW:182],[OGW:182],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[BFZ:242],[BFZ:242],[SOI:277],[SOI:277],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259])([SOI:186],[SOI:186],[SOI:186],[KLD:109],[KLD:109],[KLD:109],[KLD:109])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([SOI:170],[AER:96],[BFZ:76])([KLD:220],[KLD:220],[AER:40],[AER:40])([SOI:156],[KLD:212],[EMN:137],[EMN:137],[BFZ:66],[BFZ:66])([EMN:12],[EMN:12])

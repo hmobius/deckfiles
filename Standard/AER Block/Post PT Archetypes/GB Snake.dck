@@ -1,0 +1,32 @@
+NAME:GB Snake
+4 [AER:181] Walking Ballista
+4 [AER:140] Winding Constrictor
+2 [KLD:172] Verdurous Gearhulk
+4 [KLD:243] Blooming Marsh
+4 [AER:57] Fatal Push
+1 [OGW:85] Grasp of Darkness
+6 [KLD:264] Forest
+3 [KLD:231] Scrapheap Scrounger
+3 [OGW:138] Nissa, Voice of Zendikar
+3 [EMN:159] Gnarlwood Dryad
+4 [OGW:171] Hissing Quagmire
+1 [EMN:97] Murder
+4 [EMN:184] Grim Flayer
+3 [SOI:233] Tireless Tracker
+4 [KLD:256] Swamp
+3 [SOI:234] Traverse the Ulvenwald
+4 [BFZ:236] Evolving Wilds
+2 [AER:122] Rishkar, Peema Renegade
+1 [BFZ:123] Ruinous Path
+SB: 2 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [OGW:85] Grasp of Darkness
+SB: 1 [SOI:106] Dead Weight
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 1 [AER:118] Natural Obsolescence
+SB: 1 [SOI:233] Tireless Tracker
+SB: 2 [OGW:136] Natural State
+SB: 2 [KLD:84] Gonti, Lord of Luxury
+SB: 3 [BFZ:101] Transgress the Mind
+SB: 1 [BFZ:123] Ruinous Path
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([AER:181],[AER:181],[AER:181],[AER:181],[KLD:172],[KLD:172],[KLD:231],[KLD:231],[KLD:231])([AER:140],[AER:140],[AER:140],[AER:140],[EMN:184],[EMN:184],[EMN:184],[EMN:184],[AER:122],[AER:122],[SOI:233],[SOI:233],[SOI:233],[EMN:159],[EMN:159],[EMN:159])([AER:57],[AER:57],[AER:57],[AER:57],[OGW:85],[EMN:97])([BFZ:236],[BFZ:236],[BFZ:236],[BFZ:236],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[OGW:171],[OGW:171],[OGW:171],[OGW:171],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264])([OGW:138],[OGW:138],[OGW:138])([SOI:234],[SOI:234],[SOI:234],[BFZ:123])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([OGW:136],[OGW:136],[SOI:106])([OGW:85],[BFZ:101],[BFZ:101],[BFZ:101],[AER:118])([SOI:233],[BFZ:123])([KLD:84],[KLD:84],[OGW:86])([BFZ:119],[BFZ:119])

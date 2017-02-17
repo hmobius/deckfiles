@@ -1,0 +1,26 @@
+NAME:Hendriks UR Control
+4 [KLD:67] Torrential Gearhulk
+3 [KLD:36] Aether Meltdown
+4 [KLD:242] Aether Hub
+9 [KLD:253] Island
+4 [KLD:49] Glimmer of Genius
+4 [OGW:182] Wandering Fumarole
+4 [AER:31] Disallow
+5 [KLD:259] Mountain
+4 [AER:98] Shock
+4 [BFZ:69] Anticipate
+3 [KLD:208] Dynavolt Tower
+1 [SOI:53] Confirm Suspicions
+4 [KLD:249] Spirebluff Canal
+3 [AER:40] Negate
+4 [KLD:117] Harnessed Lightning
+SB: 4 [SOI:92] Thing in the Ice
+SB: 1 [KLD:41] Confiscation Coup
+SB: 2 [EMN:133] Incendiary Flow
+SB: 1 [SOI:69] Jace, Unraveler of Secrets
+SB: 3 [BFZ:76] Dispel
+SB: 2 [BFZ:144] Dragonmaster Outcast
+SB: 1 [AER:40] Negate
+SB: 1 [AER:96] Release the Gremlins
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([KLD:67],[KLD:67],[KLD:67],[KLD:67])([KLD:208],[KLD:208],[KLD:208])([KLD:36],[KLD:36],[KLD:36])([BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[AER:40],[AER:40],[AER:40],[KLD:117],[KLD:117],[KLD:117],[KLD:117],[AER:98],[AER:98],[AER:98],[AER:98],[AER:31],[AER:31],[AER:31],[AER:31],[KLD:49],[KLD:49],[KLD:49],[KLD:49],[SOI:53])([KLD:249],[KLD:249],[KLD:249],[KLD:249],[KLD:242],[KLD:242],[KLD:242],[KLD:242],[OGW:182],[OGW:182],[OGW:182],[OGW:182],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([BFZ:144],[BFZ:144],[AER:96],[BFZ:76],[BFZ:76],[BFZ:76])([AER:40],[EMN:133],[EMN:133],[SOI:92],[SOI:92],[SOI:92],[SOI:92])([KLD:41],[SOI:69])
