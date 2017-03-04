@@ -1,0 +1,37 @@
+NAME:Bant Eldrazi Feb 2017
+4 [ROE:174] Ancient Stirrings
+1 [KLD:264] Forest
+4 [KTK:248] Windswept Heath
+2 [10E:349] Brushland
+4 [CON:15] Path to Exile
+3 [AVR:226] Cavern of Souls
+4 [OGW:13] Eldrazi Displacer
+1 [GTC:240] Breeding Pool
+1 [KLD:250] Plains
+1 [KLD:253] Island
+4 [ROE:227] Eldrazi Temple
+1 [5DN:118] Engineered Explosives
+1 [RTR:241] Hallowed Fountain
+1 [NPH:159] Spellskite
+1 [EMN:5] Elder Deep-Fiend
+2 [OGW:6] Matter Reshaper
+1 [TSP:274] Gemstone Caverns
+4 [CON:87] Noble Hierarch
+1 [NPH:42] Phyrexian Metamorph
+3 [BFZ:58] Eldrazi Skyspawner
+3 [BFZ:57] Drowner of Hope
+4 [OGW:7] Reality Smasher
+2 [MRD:256] Talisman of Progress
+3 [ORI:252] Yavimaya Coast
+4 [OGW:9] Thought-Knot Seer
+SB: 4 [MRD:150] Chalice of the Void
+SB: 2 [ISD:36] Stony Silence
+SB: 1 [BFZ:76] Dispel
+SB: 1 [NPH:57] Dismember
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [DTK:221] Dromoka's Command
+SB: 1 [KTK:56] Stubborn Denial
+SB: 2 [RTR:18] Rest in Peace
+SB: 1 [AER:40] Negate
+LAYOUT MAIN:(1,8)(CMC,false,50)|([GTC:240],[10E:349],[10E:349],[AVR:226],[AVR:226],[AVR:226],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[5DN:118],[KLD:264],[TSP:274],[RTR:241],[KLD:253],[KLD:250],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[ORI:252],[ORI:252],[ORI:252])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[CON:87],[CON:87],[CON:87],[CON:87],[CON:15],[CON:15],[CON:15],[CON:15])([NPH:159],[MRD:256],[MRD:256])([OGW:13],[OGW:13],[OGW:13],[OGW:13],[BFZ:58],[BFZ:58],[BFZ:58],[OGW:6],[OGW:6])([NPH:42],[OGW:9],[OGW:9],[OGW:9],[OGW:9])([OGW:7],[OGW:7],[OGW:7],[OGW:7])([BFZ:57],[BFZ:57],[BFZ:57])([EMN:5])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([5DN:118],[5DN:118],[MRD:150],[MRD:150],[MRD:150],[MRD:150])([BFZ:76],[KTK:56])([DTK:221],[ISD:36],[ISD:36],[RTR:18],[RTR:18],[AER:40])([NPH:57])

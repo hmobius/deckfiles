@@ -1,0 +1,29 @@
+NAME:Revolt Zoo Feb 2017
+4 [ALA:152] Wild Nacatl
+4 [GTC:119] Experiment One
+4 [GTC:216] Burning-Tree Emissary
+1 [KLD:264] Forest
+4 [M11:149] Lightning Bolt
+4 [OGW:116] Reckless Bushwhacker
+1 [ZEN:220] Misty Rainforest
+2 [9ED:199] Kird Ape
+4 [KTK:248] Windswept Heath
+4 [ZEN:211] Arid Mesa
+4 [KTK:249] Wooded Foothills
+3 [M13:185] Rancor
+4 [AER:117] Narnam Renegade
+4 [DTK:213] Atarka's Command
+1 [RTR:248] Temple Garden
+4 [ZEN:126] Goblin Guide
+1 [GTC:247] Stomping Ground
+1 [GTC:245] Sacred Foundry
+2 [PLC:122] Simian Spirit Guide
+4 [AER:110] Hidden Herbalists
+SB: 2 [GPT:78] Tin Street Hooligan
+SB: 3 [CON:15] Path to Exile
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 2 [ISD:36] Stony Silence
+SB: 2 [ROE:146] Forked Bolt
+SB: 4 [FUT:153] Tarmogoyf
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([AER:110],[AER:110],[AER:110],[AER:110],[AER:117],[AER:117],[AER:117],[AER:117],[OGW:116],[OGW:116],[OGW:116],[OGW:116],[GTC:119],[GTC:119],[GTC:119],[GTC:119],[GTC:216],[GTC:216],[GTC:216],[GTC:216],[ZEN:126],[ZEN:126],[ZEN:126],[ZEN:126],[ALA:152],[ALA:152],[ALA:152],[ALA:152],[PLC:122],[PLC:122],[9ED:199],[9ED:199])([M13:185],[M13:185],[M13:185])([DTK:213],[DTK:213],[DTK:213],[DTK:213],[M11:149],[M11:149],[M11:149],[M11:149])([ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[ZEN:220],[GTC:247],[GTC:245],[RTR:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KLD:264])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DKA:149],[DKA:149],[ISD:36],[ISD:36],[ROE:146],[ROE:146],[CON:15],[CON:15],[CON:15],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[GPT:78],[GPT:78])

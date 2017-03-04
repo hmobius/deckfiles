@@ -1,0 +1,31 @@
+NAME:Eldrazi Tron Feb 2017
+4 [AER:181] Walking Ballista
+2 [WWK:122] Basilisk Collar
+4 [ROE:227] Eldrazi Temple
+1 [NPH:130] Batterskull
+1 [OGW:177] Sea Gate Wreckage
+2 [NPH:1] Karn Liberated
+2 [ROE:1] All Is Dust
+3 [OGW:3] Endbringer
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+2 [OGW:183] Wastes
+4 [OGW:6] Matter Reshaper
+4 [ZEN:201] Expedition Map
+1 [AVR:226] Cavern of Souls
+1 [FRF:1] Ugin, the Spirit Dragon
+4 [ISD:240] Ghost Quarter
+3 [NPH:57] Dismember
+2 [OGW:12] Warping Wail
+4 [OGW:7] Reality Smasher
+4 [OGW:9] Thought-Knot Seer
+SB: 2 [RTR:231] Pithing Needle
+SB: 2 [NPH:74] Surgical Extraction
+SB: 4 [MRD:150] Chalice of the Void
+SB: 2 [M14:215] Ratchet Bomb
+SB: 1 [10E:319] Crucible of Worlds
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 3 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,9)(CMC,false,50)|([AER:181],[AER:181],[AER:181],[AER:181],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[OGW:183],[OGW:183],[AVR:226],[OGW:177],[ISD:240],[ISD:240],[ISD:240],[ISD:240])([WWK:122],[WWK:122],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201])([OGW:12],[OGW:12])([OGW:6],[OGW:6],[OGW:6],[OGW:6],[NPH:57],[NPH:57],[NPH:57])([OGW:9],[OGW:9],[OGW:9],[OGW:9])([OGW:7],[OGW:7],[OGW:7],[OGW:7],[NPH:130])([OGW:3],[OGW:3],[OGW:3])([NPH:1],[NPH:1],[ROE:1],[ROE:1])([FRF:1])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([MRD:150],[MRD:150],[MRD:150],[MRD:150])([ALA:218],[ALA:218],[ALA:218],[RTR:231],[RTR:231],[NPH:74],[NPH:74])([M14:215],[M14:215])([10E:319])([BFZ:15])

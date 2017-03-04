@@ -1,0 +1,24 @@
+NAME:UG Paradox Combo
+4 [KLD:57] Minister of Inquiries
+4 [AER:162] Lifecrafter's Bestiary
+3 [AER:184] Spire of Industry
+4 [KLD:244] Botanical Sanctum
+2 [KLD:134] Spontaneous Artist
+4 [KLD:242] Aether Hub
+7 [KLD:264] Forest
+4 [AER:107] Greenbelt Rampager
+4 [SOI:216] Loam Dryad
+4 [SOI:200] Cryptolith Rite
+4 [AER:167] Ornithopter
+3 [KLD:50] Glint-Nest Crane
+4 [AER:169] Paradox Engine
+4 [KLD:169] Servant of the Conduit
+3 [AER:163] Merchant's Dockhand
+2 [AER:122] Rishkar, Peema Renegade
+SB: 4 [KLD:5] Authority of the Consuls
+SB: 1 [AER:184] Spire of Industry
+SB: 2 [AER:142] Aethersphere Harvester
+SB: 4 [OGW:7] Reality Smasher
+SB: 4 [OGW:9] Thought-Knot Seer
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([AER:163],[AER:163],[AER:163])([AER:162],[AER:162],[AER:162],[AER:162],[AER:169],[AER:169],[AER:169],[AER:169])([AER:167],[AER:167],[AER:167],[AER:167])([KLD:50],[KLD:50],[KLD:50],[AER:107],[AER:107],[AER:107],[AER:107],[SOI:216],[SOI:216],[SOI:216],[SOI:216],[KLD:57],[KLD:57],[KLD:57],[KLD:57],[AER:122],[AER:122],[KLD:169],[KLD:169],[KLD:169],[KLD:169],[KLD:134],[KLD:134])([SOI:200],[SOI:200],[SOI:200],[SOI:200])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[AER:184],[AER:184],[AER:184])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([AER:184])([KLD:5],[KLD:5],[KLD:5],[KLD:5])([AER:142],[AER:142])([OGW:9],[OGW:9],[OGW:9],[OGW:9])([OGW:7],[OGW:7],[OGW:7],[OGW:7])

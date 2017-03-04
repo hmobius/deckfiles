@@ -1,0 +1,35 @@
+NAME:Lantern Control Feb 2017
+4 [ROE:174] Ancient Stirrings
+2 [AER:184] Spire of Industry
+4 [MRD:281] Glimmervoid
+4 [KLD:243] Blooming Marsh
+1 [THS:220] Pyxis of Pandemonium
+4 [5DN:135] Lantern of Insight
+4 [8ED:300] Ensnaring Bridge
+2 [TSP:269] Academy Ruins
+4 [ROE:115] Inquisition of Kozilek
+2 [THS:107] Thoughtseize
+2 [RTR:141] Abrupt Decay
+1 [DIS:46] Infernal Tutor
+2 [EMN:85] Collective Brutality
+2 [NPH:74] Surgical Extraction
+3 [RTR:231] Pithing Needle
+3 [ISD:240] Ghost Quarter
+2 [KLD:247] Inventors' Fair
+3 [ISD:224] Ghoulcaller's Bell
+1 [KLD:256] Swamp
+4 [RTR:228] Codex Shredder
+2 [CSP:138] Mishra's Bauble
+4 [SOM:179] Mox Opal
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [EMN:85] Collective Brutality
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 1 [KLD:88] Lost Legacy
+SB: 3 [M11:21] Leyline of Sanctity
+SB: 2 [MRD:274] Welding Jar
+SB: 1 [PLC:153] Seal of Primordium
+SB: 1 [ORI:148] Ghirapur Aether Grid
+SB: 1 [WWK:108] Nature's Claim
+SB: 2 [NPH:159] Spellskite
+LAYOUT MAIN:(1,4)(CMC,false,50)|([CSP:138],[CSP:138],[SOM:179],[SOM:179],[SOM:179],[SOM:179],[MRD:281],[MRD:281],[MRD:281],[MRD:281],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[TSP:269],[TSP:269],[KLD:247],[KLD:247],[AER:184],[AER:184],[KLD:256],[ISD:240],[ISD:240],[ISD:240])([ROE:115],[ROE:115],[ROE:115],[ROE:115],[THS:107],[THS:107],[ROE:174],[ROE:174],[ROE:174],[ROE:174],[NPH:74],[NPH:74],[5DN:135],[5DN:135],[5DN:135],[5DN:135],[RTR:228],[RTR:228],[RTR:228],[RTR:228],[ISD:224],[ISD:224],[ISD:224],[THS:220],[RTR:231],[RTR:231],[RTR:231])([EMN:85],[EMN:85],[DIS:46],[RTR:141],[RTR:141])([8ED:300],[8ED:300],[8ED:300],[8ED:300])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([MRD:274],[MRD:274])([RTR:231],[WWK:108],[DKA:149],[DKA:149])([EMN:85],[NPH:159],[NPH:159],[PLC:153])([KLD:88],[ORI:148])([M11:21],[M11:21],[M11:21])

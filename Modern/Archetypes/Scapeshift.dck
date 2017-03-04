@@ -1,0 +1,27 @@
+NAME:Scapeshift
+4 [MOR:136] Scapeshift
+3 [KLD:264] Forest
+4 [M11:149] Lightning Bolt
+3 [KTK:248] Windswept Heath
+3 [ZEN:167] Khalni Heart Expedition
+4 [TSP:216] Search for Tomorrow
+4 [KTK:249] Wooded Foothills
+4 [M12:188] Primeval Titan
+4 [ZEN:228] Valakut, the Molten Pinnacle
+2 [BNG:119] Courser of Kruphix
+2 [M13:170] Farseek
+2 [FUT:139] Summoner's Pact
+2 [GTC:247] Stomping Ground
+4 [WWK:99] Explore
+7 [KLD:259] Mountain
+4 [CHK:239] Sakura-Tribe Elder
+4 [BFZ:235] Cinder Glade
+SB: 2 [MRD:150] Chalice of the Void
+SB: 2 [THS:112] Anger of the Gods
+SB: 3 [M11:188] Obstinate Baloth
+SB: 3 [5DN:118] Engineered Explosives
+SB: 2 [WWK:108] Nature's Claim
+SB: 2 [TSP:179] Sudden Shock
+SB: 1 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([M12:188],[M12:188],[M12:188],[M12:188],[CHK:239],[CHK:239],[CHK:239],[CHK:239])([BNG:119],[BNG:119])([ZEN:167],[ZEN:167],[ZEN:167])([FUT:139],[FUT:139],[M11:149],[M11:149],[M11:149],[M11:149])([BFZ:235],[BFZ:235],[BFZ:235],[BFZ:235],[ZEN:228],[ZEN:228],[ZEN:228],[ZEN:228],[GTC:247],[GTC:247],[KTK:249],[KTK:249],[KTK:249],[KTK:249],[KTK:248],[KTK:248],[KTK:248],[KLD:264],[KLD:264],[KLD:264],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259])([WWK:99],[WWK:99],[WWK:99],[WWK:99],[MOR:136],[MOR:136],[MOR:136],[MOR:136],[TSP:216],[TSP:216],[TSP:216],[TSP:216],[M13:170],[M13:170])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THS:112],[THS:112],[M11:188],[M11:188],[M11:188],[WWK:108],[WWK:108],[TSP:179],[TSP:179],[ISD:127],[5DN:118],[5DN:118],[5DN:118],[MRD:150],[MRD:150])

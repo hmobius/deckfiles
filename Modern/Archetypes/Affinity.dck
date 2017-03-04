@@ -1,0 +1,33 @@
+NAME:Affinity Feb 2017
+3 [SOM:154] Etched Champion
+2 [SOM:174] Memnite
+1 [AER:184] Spire of Industry
+3 [MRD:281] Glimmervoid
+4 [M11:214] Steel Overseer
+4 [5DN:113] Cranial Plating
+4 [DST:163] Blinkmoth Nexus
+2 [ALA:49] Master of Etherium
+4 [DST:100] Arcbound Ravager
+4 [M15:242] Darksteel Citadel
+4 [NPH:76] Vault Skirge
+1 [MRD:274] Welding Jar
+4 [AER:167] Ornithopter
+4 [MBS:145] Inkmoth Nexus
+1 [KLD:259] Mountain
+4 [MBS:131] Signal Pest
+4 [SOM:179] Mox Opal
+4 [BNG:162] Springleaf Drum
+3 [SOM:91] Galvanic Blast
+SB: 2 [ZEN:67] Spell Pierce
+SB: 1 [ALA:10] Ethersworn Canonist
+SB: 2 [9ED:176] Blood Moon
+SB: 1 [NPH:57] Dismember
+SB: 1 [ORI:148] Ghirapur Aether Grid
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [DGM:135] Wear // Tear
+SB: 2 [THS:107] Thoughtseize
+SB: 1 [NPH:159] Spellskite
+SB: 2 [ISD:127] Ancient Grudge
+SB: 1 [NPH:102] Whipflare
+LAYOUT MAIN:(1,4)(CMC,false,50)|([AER:167],[AER:167],[AER:167],[AER:167],[SOM:174],[SOM:174],[SOM:179],[SOM:179],[SOM:179],[SOM:179],[MRD:274],[M15:242],[M15:242],[M15:242],[M15:242],[DST:163],[DST:163],[DST:163],[DST:163],[MBS:145],[MBS:145],[MBS:145],[MBS:145],[MRD:281],[MRD:281],[MRD:281],[AER:184],[KLD:259])([MBS:131],[MBS:131],[MBS:131],[MBS:131],[SOM:91],[SOM:91],[SOM:91],[BNG:162],[BNG:162],[BNG:162],[BNG:162])([M11:214],[M11:214],[M11:214],[M11:214],[NPH:76],[NPH:76],[NPH:76],[NPH:76],[DST:100],[DST:100],[DST:100],[DST:100],[5DN:113],[5DN:113],[5DN:113],[5DN:113])([SOM:154],[SOM:154],[SOM:154],[ALA:49],[ALA:49])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([THS:107],[THS:107],[ZEN:67],[ZEN:67],[ALA:218])([ISD:127],[ISD:127],[ALA:10],[NPH:159],[NPH:102])([9ED:176],[9ED:176],[NPH:57],[ORI:148],[DGM:135])

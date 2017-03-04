@@ -1,0 +1,31 @@
+NAME:Goryo's Vengeance Feb 2017
+1 [SHM:211] Manamorphose
+2 [CHK:163] Desperate Ritual
+4 [CHK:193] Through the Breach
+4 [BOK:137] Nourishing Shoal
+4 [RTR:140] Worldspine Wurm
+2 [EMN:85] Collective Brutality
+4 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+4 [5DN:55] Night's Whisper
+4 [AVR:106] Griselbrand
+4 [BNG:164] Temple of Malice
+2 [GTC:147] Borborygmos Enraged
+4 [DKA:87] Faithless Looting
+4 [BOK:67] Goryo's Vengeance
+3 [KLD:259] Mountain
+5 [KLD:256] Swamp
+4 [PLC:122] Simian Spirit Guide
+2 [SOM:224] Blackcleave Cliffs
+2 [KLD:109] Cathartic Reunion
+SB: 2 [FUT:42] Pact of Negation
+SB: 2 [AER:57] Fatal Push
+SB: 1 [CHK:273] Boseiju, Who Shelters All
+SB: 2 [GPT:75] Shattering Spree
+SB: 2 [9ED:176] Blood Moon
+SB: 1 [ROE:4] Emrakul, the Aeons Torn
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [THS:107] Thoughtseize
+SB: 2 [M11:154] Pyroclasm
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([GTC:147],[GTC:147],[RTR:140],[RTR:140],[RTR:140],[RTR:140],[AVR:106],[AVR:106],[AVR:106],[AVR:106],[PLC:122],[PLC:122],[PLC:122],[PLC:122])([SHM:211],[BOK:137],[BOK:137],[BOK:137],[BOK:137],[BOK:67],[BOK:67],[BOK:67],[BOK:67],[CHK:193],[CHK:193],[CHK:193],[CHK:193],[CHK:163],[CHK:163])([BNG:164],[BNG:164],[BNG:164],[BNG:164],[SOM:224],[SOM:224],[RTR:238],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:259],[KLD:259],[KLD:259])([KLD:109],[KLD:109],[EMN:85],[EMN:85],[DKA:87],[DKA:87],[DKA:87],[DKA:87],[5DN:55],[5DN:55],[5DN:55],[5DN:55])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:57],[AER:57],[ROE:4],[THS:107],[FUT:42],[FUT:42],[GPT:75],[GPT:75],[CHK:273],[5DN:118],[5DN:118],[M11:154],[M11:154],[9ED:176],[9ED:176])

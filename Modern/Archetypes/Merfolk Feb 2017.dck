@@ -1,0 +1,30 @@
+NAME:Merfolk Feb 2017
+1 [CHK:279] Minamo, School at Water's Edge
+4 [TSB:24] Lord of Atlantis
+2 [LRW:280] Wanderwine Hub
+4 [M13:59] Master of the Pearl Trident
+10 [KLD:253] Island
+4 [ZEN:70] Spreading Seas
+4 [SHM:34] Cursecatcher
+2 [AVR:226] Cavern of Souls
+3 [ORI:58] Harbinger of the Tides
+2 [NPH:57] Dismember
+4 [M14:228] Mutavault
+4 [DST:91] Aether Vial
+3 [NPH:48] Vapor Snag
+4 [LRW:86] Silvergill Adept
+3 [LRW:74] Merrow Reejerey
+4 [THS:53] Master of Waves
+1 [BOK:40] Kira, Great Glass-Spinner
+1 [SOK:164] Oboro, Palace in the Clouds
+SB: 2 [ZEN:67] Spell Pierce
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 2 [MRD:150] Chalice of the Void
+SB: 1 [BFZ:76] Dispel
+SB: 2 [M14:73] Tidebinder Mage
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 2 [NPH:159] Spellskite
+SB: 1 [BOK:40] Kira, Great Glass-Spinner
+SB: 3 [10E:88] Hurkyl's Recall
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([DST:91],[DST:91],[DST:91],[DST:91])([ORI:58],[ORI:58],[ORI:58],[THS:53],[THS:53],[THS:53],[THS:53],[M13:59],[M13:59],[M13:59],[M13:59],[SHM:34],[SHM:34],[SHM:34],[SHM:34],[LRW:74],[LRW:74],[LRW:74],[LRW:86],[LRW:86],[LRW:86],[LRW:86],[BOK:40],[TSB:24],[TSB:24],[TSB:24],[TSB:24])([ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70])([NPH:48],[NPH:48],[NPH:48],[NPH:57],[NPH:57])([AVR:226],[AVR:226],[M14:228],[M14:228],[M14:228],[M14:228],[LRW:280],[LRW:280],[SOK:164],[CHK:279],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M14:73],[M14:73],[DKA:149],[NPH:159],[NPH:159],[BFZ:76],[ZEN:67],[ZEN:67],[ALA:218],[BOK:40],[MRD:150],[MRD:150],[10E:88],[10E:88],[10E:88])

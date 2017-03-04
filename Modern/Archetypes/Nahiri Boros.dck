@@ -1,0 +1,33 @@
+NAME:Boros Nahiri Feb 2016
+9 [KLD:250] Plains
+1 [ALA:154] Ajani Vengeant
+4 [RAV:213] Lightning Helix
+3 [EVE:178] Rugged Prairie
+4 [MRD:150] Chalice of the Void
+2 [KLD:110] Chandra, Torch of Defiance
+2 [M12:16] Gideon Jura
+3 [THS:112] Anger of the Gods
+2 [JOU:5] Banishing Light
+2 [10E:61] Wrath of God
+4 [9ED:176] Blood Moon
+1 [ROE:4] Emrakul, the Aeons Torn
+4 [ZEN:211] Arid Mesa
+4 [THS:228] Temple of Triumph
+1 [ZEN:14] Journey to Nowhere
+2 [TSP:274] Gemstone Caverns
+4 [SOI:247] Nahiri, the Harbinger
+1 [EMN:13] Blessed Alliance
+1 [KLD:259] Mountain
+2 [GTC:245] Sacred Foundry
+4 [PLC:122] Simian Spirit Guide
+SB: 3 [ISD:36] Stony Silence
+SB: 1 [THS:112] Anger of the Gods
+SB: 2 [EMN:13] Blessed Alliance
+SB: 1 [10E:61] Wrath of God
+SB: 3 [M11:21] Leyline of Sanctity
+SB: 1 [M11:7] Baneslayer Angel
+SB: 1 [M12:11] Celestial Purge
+SB: 1 [THS:9] Elspeth, Sun's Champion
+SB: 2 [RTR:18] Rest in Peace
+LAYOUT MAIN:(1,6)(CMC,false,50)|([MRD:150],[MRD:150],[MRD:150],[MRD:150],[ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[TSP:274],[TSP:274],[KLD:259],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[KLD:250],[EVE:178],[EVE:178],[EVE:178],[GTC:245],[GTC:245],[THS:228],[THS:228],[THS:228],[THS:228])([EMN:13],[RAV:213],[RAV:213],[RAV:213],[RAV:213],[ZEN:14])([PLC:122],[PLC:122],[PLC:122],[PLC:122],[THS:112],[THS:112],[THS:112],[JOU:5],[JOU:5],[9ED:176],[9ED:176],[9ED:176],[9ED:176])([ALA:154],[KLD:110],[KLD:110],[SOI:247],[SOI:247],[SOI:247],[SOI:247],[10E:61],[10E:61])([M12:16],[M12:16])([ROE:4])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([EMN:13],[EMN:13],[M12:11],[RTR:18],[RTR:18],[ISD:36],[ISD:36],[ISD:36])([THS:112])([10E:61],[M11:21],[M11:21],[M11:21])([M11:7])([THS:9])

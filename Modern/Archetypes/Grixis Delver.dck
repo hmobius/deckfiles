@@ -1,0 +1,38 @@
+NAME:Grixis Delver Feb 2017
+4 [M11:149] Lightning Bolt
+2 [ARB:46] Terminate
+4 [ISD:78] Snapcaster Mage
+1 [EMN:85] Collective Brutality
+4 [ZEN:223] Scalding Tarn
+2 [DTK:224] Kolaghan's Command
+1 [FRF:72] Gurmag Angler
+4 [DKA:52] Thought Scour
+2 [RTR:247] Steam Vents
+4 [ISD:51] Delver of Secrets
+1 [KLD:249] Spirebluff Canal
+4 [AER:57] Fatal Push
+1 [GTC:249] Watery Grave
+2 [KLD:253] Island
+4 [5DN:36] Serum Visions
+4 [KTK:239] Polluted Delta
+3 [DIS:33] Spell Snare
+1 [MOR:55] Vendilion Clique
+1 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+3 [FRF:87] Tasigur, the Golden Fang
+1 [KLD:259] Mountain
+2 [SOM:226] Darkslick Shores
+1 [KLD:256] Swamp
+3 [M12:63] Mana Leak
+SB: 2 [CON:103] Countersquall
+SB: 1 [BFZ:128] Crumble to Dust
+SB: 1 [RTR:111] Vandalblast
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [NPH:74] Surgical Extraction
+SB: 2 [SHM:188] Fulminator Mage
+SB: 1 [BFZ:76] Dispel
+SB: 2 [BFZ:120] Painful Truths
+SB: 2 [5DN:118] Engineered Explosives
+SB: 1 [RTR:173] Izzet Staticaster
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([FRF:72],[FRF:87],[FRF:87],[FRF:87],[ISD:78],[ISD:78],[ISD:78],[ISD:78],[ISD:51],[ISD:51],[ISD:51],[ISD:51],[MOR:55])([AER:57],[AER:57],[AER:57],[AER:57],[DTK:224],[DTK:224],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[DIS:33],[DIS:33],[DIS:33],[ARB:46],[ARB:46],[M12:63],[M12:63],[M12:63],[M11:149],[M11:149],[M11:149],[M11:149])([KLD:249],[SOM:226],[SOM:226],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:238],[RTR:247],[RTR:247],[GTC:249],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[KTK:230],[KLD:253],[KLD:253],[KLD:256],[KLD:259])([EMN:85],[5DN:36],[5DN:36],[5DN:36],[5DN:36])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EMN:85],[EMN:85],[BFZ:120],[BFZ:120],[BFZ:128],[RTR:111],[RTR:173],[NPH:74],[BFZ:76],[CON:103],[CON:103],[SHM:188],[SHM:188],[5DN:118],[5DN:118])

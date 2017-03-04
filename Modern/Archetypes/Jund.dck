@@ -1,0 +1,38 @@
+NAME:Jund Feb 2017
+3 [WWK:141] Raging Ravine
+1 [KLD:243] Blooming Marsh
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [KLD:264] Forest
+4 [M11:149] Lightning Bolt
+3 [ARB:46] Terminate
+4 [ROE:115] Inquisition of Kozilek
+2 [KTK:249] Wooded Foothills
+2 [THS:107] Thoughtseize
+4 [FUT:153] Tarmogoyf
+4 [ZEN:229] Verdant Catacombs
+2 [RTR:243] Overgrown Tomb
+2 [DTK:224] Kolaghan's Command
+1 [GTC:247] Stomping Ground
+2 [DKA:140] Huntmaster of the Fells
+4 [ISD:105] Liliana of the Veil
+4 [RAV:81] Dark Confidant
+2 [RTR:141] Abrupt Decay
+3 [M14:195] Scavenging Ooze
+1 [EVE:180] Twilight Mire
+1 [ARB:92] Maelstrom Pulse
+2 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+2 [KLD:256] Swamp
+4 [SOM:224] Blackcleave Cliffs
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 1 [EMN:85] Collective Brutality
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 3 [SHM:188] Fulminator Mage
+SB: 1 [CHK:133] Night of Souls' Betrayal
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [SHM:229] Kitchen Finks
+SB: 1 [PLC:85] Damnation
+SB: 1 [ISD:127] Ancient Grudge
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([OGW:86],[DKA:140],[DKA:140],[M14:195],[M14:195],[M14:195],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[RAV:81],[RAV:81],[RAV:81],[RAV:81])([DTK:224],[DTK:224],[RTR:141],[RTR:141],[ARB:46],[ARB:46],[ARB:46],[M11:149],[M11:149],[M11:149],[M11:149])([KLD:243],[SOM:224],[SOM:224],[SOM:224],[SOM:224],[WWK:141],[WWK:141],[WWK:141],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[EVE:180],[RTR:238],[GTC:247],[RTR:243],[RTR:243],[KTK:230],[KTK:230],[KTK:249],[KTK:249],[KLD:256],[KLD:256],[KLD:264])([ISD:105],[ISD:105],[ISD:105],[ISD:105])([ROE:115],[ROE:115],[ROE:115],[ROE:115],[ARB:92],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([EMN:85],[EMN:93],[THS:112],[THS:112],[DKA:149],[NPH:74],[NPH:74],[SHM:229],[SHM:229],[SHM:188],[SHM:188],[SHM:188],[PLC:85],[ISD:127],[CHK:133])

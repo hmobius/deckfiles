@@ -1,0 +1,25 @@
+NAME:Mono Blue Summonings
+1 [KLD:67] Torrential Gearhulk
+4 [KLD:56] Metallurgic Summonings
+2 [KLD:63] Select for Inspection
+2 [SOI:69] Jace, Unraveler of Secrets
+4 [SOI:58] Engulf the Shore
+1 [OGW:53] Crush of Tentacles
+25 [KLD:253] Island
+4 [BFZ:80] Part the Waterveil
+2 [BFZ:85] Scatter to the Winds
+2 [EMN:73] Scour the Laboratory
+4 [SOI:78] Pieces of the Puzzle
+3 [OGW:59] Negate
+3 [BFZ:69] Anticipate
+3 [OGW:56] Grip of the Roil
+SB: 3 [SOI:92] Thing in the Ice
+SB: 2 [EMN:75] Summary Dismissal
+SB: 1 [OGW:53] Crush of Tentacles
+SB: 2 [SOI:68] Invasive Surgery
+SB: 3 [KLD:212] Filigree Familiar
+SB: 2 [KLD:61] Revolutionary Rebuff
+SB: 1 [KLD:40] Ceremonious Rejection
+SB: 1 [SOI:83] Rise from the Tides
+LAYOUT MAIN:(2,7)(CMC,true,50)|()()()()()()([KLD:67])([KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253],[KLD:253])([KLD:63],[KLD:63])([BFZ:69],[BFZ:69],[BFZ:69],[OGW:59],[OGW:59],[OGW:59])([OGW:56],[OGW:56],[OGW:56],[SOI:78],[SOI:78],[SOI:78],[SOI:78],[BFZ:85],[BFZ:85])([SOI:58],[SOI:58],[SOI:58],[SOI:58])([SOI:69],[SOI:69],[KLD:56],[KLD:56],[KLD:56],[KLD:56])([OGW:53],[BFZ:80],[BFZ:80],[BFZ:80],[BFZ:80],[EMN:73],[EMN:73])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([SOI:68],[SOI:68],[KLD:40])([SOI:92],[SOI:92],[SOI:92],[KLD:61],[KLD:61])([KLD:212],[KLD:212],[KLD:212])([EMN:75],[EMN:75])([SOI:83],[OGW:53])

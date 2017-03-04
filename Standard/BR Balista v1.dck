@@ -1,0 +1,28 @@
+NAME:BR Ballista v1
+3 [AER:184] Spire of Industry
+4 [BFZ:204] Forerunner of Slaughter
+3 [KLD:199] Bomat Courier
+3 [AER:57] Fatal Push
+4 [KLD:120] Inventor's Apprentice
+4 [KLD:231] Scrapheap Scrounger
+3 [KLD:110] Chandra, Torch of Defiance
+4 [KLD:187] Unlicensed Disintegration
+4 [AER:139] Weldfast Engineer
+2 [KLD:214] Fleetwheel Cruiser
+5 [KLD:259] Mountain
+5 [KLD:256] Swamp
+3 [KLD:124] Pia Nalaar
+1 [KLD:234] Skysovereign, Consul Flagship
+4 [BFZ:247] Smoldering Marsh
+4 [AER:153] Heart of Kiran
+4 [SOI:272] Foreboding Ruins
+SB: 2 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [AER:57] Fatal Push
+SB: 2 [EMN:97] Murder
+SB: 2 [OGW:116] Reckless Bushwhacker
+SB: 1 [AER:98] Shock
+SB: 2 [KLD:117] Harnessed Lightning
+SB: 2 [AER:96] Release the Gremlins
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,6)(CMC,false,50)|([SOI:272],[SOI:272],[SOI:272],[SOI:272],[BFZ:247],[BFZ:247],[BFZ:247],[BFZ:247],[AER:184],[AER:184],[AER:184],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:259],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256])([KLD:199],[KLD:199],[KLD:199],[KLD:120],[KLD:120],[KLD:120],[KLD:120],[AER:57],[AER:57],[AER:57])([BFZ:204],[BFZ:204],[BFZ:204],[BFZ:204],[KLD:231],[KLD:231],[KLD:231],[KLD:231],[AER:153],[AER:153],[AER:153],[AER:153])([KLD:124],[KLD:124],[KLD:124],[AER:139],[AER:139],[AER:139],[AER:139],[KLD:187],[KLD:187],[KLD:187],[KLD:187])([KLD:110],[KLD:110],[KLD:110],[KLD:214],[KLD:214])([KLD:234])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:57],[KLD:117],[KLD:117],[BFZ:119],[BFZ:119],[OGW:116],[OGW:116],[AER:96],[AER:96],[AER:98],[BFZ:101],[BFZ:101],[BFZ:101],[EMN:97],[EMN:97])

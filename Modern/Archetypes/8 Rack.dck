@@ -1,0 +1,26 @@
+NAME:Eight Rack Feb 2017
+2 [FUT:63] Augur of Skulls
+4 [RTR:76] Shrieking Affliction
+4 [EVE:41] Raven's Crime
+4 [TSB:44] Funeral Charm
+2 [8ED:300] Ensnaring Bridge
+4 [ROE:115] Inquisition of Kozilek
+2 [THS:107] Thoughtseize
+2 [9ED:115] Blackmail
+1 [NPH:74] Surgical Extraction
+4 [M15:248] Urborg, Tomb of Yawgmoth
+2 [ISD:240] Ghost Quarter
+4 [TSB:113] The Rack
+2 [M14:228] Mutavault
+4 [MRD:84] Wrench Mind
+15 [KLD:256] Swamp
+2 [SOI:99] Asylum Visitor
+2 [ISD:105] Liliana of the Veil
+SB: 1 [NPH:74] Surgical Extraction
+SB: 3 [AER:57] Fatal Push
+SB: 3 [M12:108] Smallpox
+SB: 3 [RTR:73] Pack Rat
+SB: 3 [M11:101] Leyline of the Void
+SB: 2 [BNG:65] Drown in Sorrow
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([8ED:300],[8ED:300],[TSB:113],[TSB:113],[TSB:113],[TSB:113])([SOI:99],[SOI:99],[FUT:63],[FUT:63])([RTR:76],[RTR:76],[RTR:76],[RTR:76])([NPH:74],[TSB:44],[TSB:44],[TSB:44],[TSB:44])([M14:228],[M14:228],[M15:248],[M15:248],[M15:248],[M15:248],[ISD:240],[ISD:240],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256])([ISD:105],[ISD:105])([ROE:115],[ROE:115],[ROE:115],[ROE:115],[EVE:41],[EVE:41],[EVE:41],[EVE:41],[THS:107],[THS:107],[MRD:84],[MRD:84],[MRD:84],[MRD:84],[9ED:115],[9ED:115])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:57],[AER:57],[AER:57],[BNG:65],[BNG:65],[RTR:73],[RTR:73],[RTR:73],[NPH:74],[M12:108],[M12:108],[M12:108],[M11:101],[M11:101],[M11:101])

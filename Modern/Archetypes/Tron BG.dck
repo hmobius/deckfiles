@@ -1,0 +1,32 @@
+NAME:BG Tron Feb 2017
+4 [ROE:174] Ancient Stirrings
+1 [ORI:248] Llanowar Wastes
+3 [KLD:243] Blooming Marsh
+4 [MRD:151] Chromatic Sphere
+1 [KLD:264] Forest
+2 [OGW:126] World Breaker
+4 [NPH:1] Karn Liberated
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [10E:314] Chromatic Star
+4 [9ED:329] Urza's Tower
+4 [EMN:85] Collective Brutality
+4 [ZEN:201] Expedition Map
+2 [FRF:1] Ugin, the Spirit Dragon
+4 [BFZ:192] Sylvan Scrying
+1 [ISD:240] Ghost Quarter
+2 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [BFZ:242] Sanctum of Ugin
+2 [ALA:218] Relic of Progenitus
+3 [MRD:222] Oblivion Stone
+2 [SOM:223] Wurmcoil Engine
+SB: 2 [NPH:74] Surgical Extraction
+SB: 2 [M13:193] Thragtusk
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 1 [ISD:240] Ghost Quarter
+SB: 1 [10E:319] Crucible of Worlds
+SB: 2 [5DN:118] Engineered Explosives
+SB: 3 [OGW:12] Warping Wail
+SB: 3 [WWK:108] Nature's Claim
+LAYOUT MAIN:(1,8)(CMC,false,50)|([BFZ:242],[KLD:264],[ORI:248],[KLD:243],[KLD:243],[KLD:243],[ISD:240],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:327],[9ED:327],[9ED:327],[9ED:327])([ROE:174],[ROE:174],[ROE:174],[ROE:174],[ALA:218],[ALA:218],[MRD:151],[MRD:151],[MRD:151],[MRD:151],[10E:314],[10E:314],[10E:314],[10E:314],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201])([BFZ:192],[BFZ:192],[BFZ:192],[BFZ:192],[EMN:85],[EMN:85],[EMN:85],[EMN:85])([MRD:222],[MRD:222],[MRD:222])([SOM:223],[SOM:223])([NPH:1],[NPH:1],[NPH:1],[NPH:1],[OGW:126],[OGW:126])([FRF:1],[FRF:1])([BFZ:15],[BFZ:15])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ISD:240],[5DN:118],[5DN:118])([NPH:74],[NPH:74],[DKA:149],[WWK:108],[WWK:108],[WWK:108])([OGW:12],[OGW:12],[OGW:12])([10E:319])([M13:193],[M13:193])

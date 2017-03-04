@@ -1,0 +1,37 @@
+NAME:Living End Feb 2016
+2 [TSB:55] Avalanche Riders
+2 [KLD:264] Forest
+2 [9ED:176] Blood Moon
+3 [TSP:115] Living End
+4 [ARB:43] Monstrous Carabid
+2 [KTK:249] Wooded Foothills
+2 [NPH:103] Beast Within
+2 [FUT:176] Grove of the Burnwillows
+1 [FUT:174] Dryad Arbor
+4 [ZEN:229] Verdant Catacombs
+1 [RTR:243] Overgrown Tomb
+4 [ARB:63] Violent Outburst
+1 [GTC:247] Stomping Ground
+1 [AER:88] Kari Zev's Expertise
+3 [PLC:122] Simian Spirit Guide
+4 [SHM:188] Fulminator Mage
+2 [SHM:66] Faerie Macabre
+3 [ARB:38] Demonic Dread
+4 [ARB:52] Deadshot Minotaur
+2 [ARB:74] Pale Recluse
+1 [RTR:238] Blood Crypt
+1 [TSB:50] Twisted Abomination
+1 [KLD:259] Mountain
+2 [KLD:256] Swamp
+2 [SOM:224] Blackcleave Cliffs
+4 [FUT:90] Street Wraith
+SB: 2 [OGW:141] Pulse of Murasa
+SB: 2 [M14:167] Brindle Boar
+SB: 2 [LRW:180] Ingot Chewer
+SB: 2 [THS:112] Anger of the Gods
+SB: 2 [WWK:87] Ricochet Trap
+SB: 2 [SHM:66] Faerie Macabre
+SB: 2 [RTR:197] Slaughter Games
+SB: 1 [TSP:202] Krosan Grip
+LAYOUT MAIN:(1,5)(CMC,false,50)|([FUT:174],[TSP:115],[TSP:115],[TSP:115],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249],[SOM:224],[SOM:224],[FUT:176],[FUT:176],[KLD:256],[KLD:256],[KLD:264],[KLD:264],[KLD:259],[RTR:238],[GTC:247],[RTR:243])([SHM:188],[SHM:188],[SHM:188],[SHM:188],[PLC:122],[PLC:122],[PLC:122],[SHM:66],[SHM:66],[ARB:38],[ARB:38],[ARB:38],[AER:88],[ARB:63],[ARB:63],[ARB:63],[ARB:63],[NPH:103],[NPH:103],[9ED:176],[9ED:176])([TSB:55],[TSB:55])([ARB:43],[ARB:43],[ARB:43],[ARB:43],[FUT:90],[FUT:90],[FUT:90],[FUT:90],[ARB:52],[ARB:52],[ARB:52],[ARB:52])([ARB:74],[ARB:74],[TSB:50])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([SHM:66],[SHM:66],[OGW:141],[OGW:141],[M14:167],[M14:167],[TSP:202],[THS:112],[THS:112])([RTR:197],[RTR:197],[WWK:87],[WWK:87])([LRW:180],[LRW:180])

@@ -1,0 +1,34 @@
+NAME:RG Land Destruction Feb 2017
+1 [THS:143] Stormbreath Dragon
+3 [TSP:207] Mwonvuli Acid-Moss
+1 [KLD:110] Chandra, Torch of Defiance
+9 [KLD:264] Forest
+4 [9ED:176] Blood Moon
+1 [OGW:104] Chandra, Flamecaller
+3 [M12:147] Inferno Titan
+4 [9ED:221] Stone Rain
+2 [M11:188] Obstinate Baloth
+4 [KTK:248] Windswept Heath
+1 [MBS:92] Thrun, the Last Troll
+4 [KTK:249] Wooded Foothills
+2 [NPH:103] Beast Within
+2 [M12:165] Birds of Paradise
+4 [DIS:99] Utopia Sprawl
+4 [M13:160] Arbor Elf
+2 [M13:193] Thragtusk
+3 [AVR:129] Bonfire of the Damned
+3 [GTC:247] Stomping Ground
+1 [KLD:259] Mountain
+2 [LRW:233] Primal Command
+SB: 1 [SHM:227] Fracturing Gust
+SB: 1 [DKA:149] Grafdigger's Cage
+SB: 2 [THS:112] Anger of the Gods
+SB: 1 [NPH:57] Dismember
+SB: 1 [MBS:92] Thrun, the Last Troll
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [WWK:108] Nature's Claim
+SB: 3 [SHM:229] Kitchen Finks
+SB: 2 [ISD:127] Ancient Grudge
+SB: 2 [TSP:179] Sudden Shock
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KTK:249],[KTK:249],[KTK:249],[KTK:249],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[GTC:247],[GTC:247],[GTC:247],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:259])([M13:160],[M13:160],[M13:160],[M13:160],[M12:165],[M12:165],[AVR:129],[AVR:129],[AVR:129],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([9ED:221],[9ED:221],[9ED:221],[9ED:221],[NPH:103],[NPH:103],[9ED:176],[9ED:176],[9ED:176],[9ED:176])([KLD:110],[M11:188],[M11:188],[MBS:92],[TSP:207],[TSP:207],[TSP:207])([M13:193],[M13:193],[THS:143],[LRW:233],[LRW:233])([OGW:104],[M12:147],[M12:147],[M12:147])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([DKA:149],[ALA:218],[WWK:108])([ISD:127],[ISD:127],[TSP:179],[TSP:179])([THS:112],[THS:112],[NPH:57],[SHM:229],[SHM:229],[SHM:229])([MBS:92])([SHM:227])

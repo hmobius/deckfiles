@@ -1,0 +1,40 @@
+NAME:Copy Cat Combo Feb 2017
+1 [M12:39] Sun Titan
+4 [KLD:186] Saheeli Rai
+4 [M11:149] Lightning Bolt
+4 [ZEN:70] Spreading Seas
+1 [M13:225] Glacial Fortress
+4 [ISD:78] Snapcaster Mage
+1 [RTR:201] Supreme Verdict
+4 [CON:15] Path to Exile
+4 [ZEN:223] Scalding Tarn
+2 [RTR:247] Steam Vents
+1 [AVR:227] Desolate Lighthouse
+1 [GTC:245] Sacred Foundry
+2 [ISD:248] Sulfur Falls
+1 [KLD:250] Plains
+4 [AER:19] Felidar Guardian
+4 [RAV:63] Remand
+3 [KLD:253] Island
+4 [5DN:36] Serum Visions
+1 [ZEN:211] Arid Mesa
+2 [RTR:241] Hallowed Fountain
+1 [NPH:159] Spellskite
+4 [KTK:233] Flooded Strand
+1 [MOR:55] Vendilion Clique
+1 [ORI:157] Pia and Kiran Nalaar
+1 [KLD:259] Mountain
+SB: 1 [RTR:201] Supreme Verdict
+SB: 1 [RAV:213] Lightning Helix
+SB: 2 [ISD:36] Stony Silence
+SB: 2 [BFZ:76] Dispel
+SB: 1 [THS:112] Anger of the Gods
+SB: 1 [EMN:13] Blessed Alliance
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [RTR:44] Jace, Architect of Thought
+SB: 1 [DGM:135] Wear // Tear
+SB: 2 [RTR:18] Rest in Peace
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [DIS:33] Spell Snare
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[ZEN:211],[RTR:247],[RTR:247],[RTR:241],[RTR:241],[GTC:245],[ISD:248],[ISD:248],[M13:225],[KLD:253],[KLD:253],[KLD:253],[KLD:250],[KLD:259],[AVR:227])([5DN:36],[5DN:36],[5DN:36],[5DN:36],[CON:15],[CON:15],[CON:15],[CON:15],[M11:149],[M11:149],[M11:149],[M11:149])([ISD:78],[ISD:78],[ISD:78],[ISD:78],[NPH:159],[RAV:63],[RAV:63],[RAV:63],[RAV:63],[ZEN:70],[ZEN:70],[ZEN:70],[ZEN:70])([KLD:186],[KLD:186],[KLD:186],[KLD:186],[MOR:55])([ORI:157],[AER:19],[AER:19],[AER:19],[AER:19],[RTR:201])([M12:39])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([5DN:118])([BFZ:76],[BFZ:76],[DIS:33])([RTR:18],[RTR:18],[ISD:36],[ISD:36],[RAV:213],[EMN:13])([DGM:135],[THS:112],[M12:40])([RTR:201],[RTR:44])
