@@ -1,0 +1,31 @@
+NAME:Mill Fuse April FNM
+1 [KLD:250] Plains
+1 [BFZ:249] Sunken Hollow
+4 [AER:57] Fatal Push
+2 [GTC:249] Watery Grave
+2 [KLD:253] Island
+4 [KTK:239] Polluted Delta
+2 [RTR:241] Hallowed Fountain
+3 [KTK:233] Flooded Strand
+4 [ROE:53] Wall of Omens
+4 [ZEN:47] Hedron Crab
+4 [M12:80] Visions of Beyond
+2 [ZEN:219] Marsh Flats
+4 [CON:15] Path to Exile
+4 [ZEN:41] Archive Trap
+3 [DGM:23] Crypt Incursion
+2 [AER:75] Yahenni's Expertise
+1 [SOM:226] Darkslick Shores
+4 [RAV:208] Glimpse the Unthinkable
+2 [KLD:256] Swamp
+3 [DGM:124] Breaking // Entering
+1 [GTC:242] Godless Shrine
+3 [MRD:204] Mesmeric Orb
+SB: 3 [NPH:74] Surgical Extraction
+SB: 3 [TSB:6] Disenchant
+SB: 1 [ISD:36] Stony Silence
+SB: 3 [ISD:240] Ghost Quarter
+SB: 2 [AER:75] Yahenni's Expertise
+SB: 3 [M11:101] Leyline of the Void
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([MRD:204],[MRD:204],[MRD:204])([ZEN:47],[ZEN:47],[ZEN:47],[ZEN:47],[ROE:53],[ROE:53],[ROE:53],[ROE:53])([AER:57],[AER:57],[AER:57],[AER:57],[CON:15],[CON:15],[CON:15],[CON:15],[M12:80],[M12:80],[M12:80],[M12:80])([KTK:233],[KTK:233],[KTK:233],[ZEN:219],[ZEN:219],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[GTC:242],[RTR:241],[RTR:241],[KLD:253],[KLD:253],[KLD:250],[KLD:256],[KLD:256],[GTC:249],[GTC:249],[SOM:226],[BFZ:249])([RAV:208],[RAV:208],[RAV:208],[RAV:208],[DGM:124],[DGM:124],[DGM:124],[ZEN:41],[ZEN:41],[ZEN:41],[ZEN:41],[DGM:23],[DGM:23],[DGM:23],[AER:75],[AER:75])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([ISD:240],[ISD:240],[ISD:240])([TSB:6],[TSB:6],[TSB:6],[ISD:36])([AER:75],[AER:75],[M11:101],[M11:101],[M11:101])([NPH:74],[NPH:74],[NPH:74])

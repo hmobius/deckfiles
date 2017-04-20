@@ -1,0 +1,40 @@
+NAME:Wall Mill
+1 [8ED:300] Ensnaring Bridge
+1 [KLD:264] Forest
+4 [ZEN:220] Misty Rainforest
+4 [KTK:248] Windswept Heath
+3 [M15:172] Chord of Calling
+1 [NPH:103] Beast Within
+4 [AVR:226] Cavern of Souls
+1 [RTR:248] Temple Garden
+2 [ISD:240] Ghost Quarter
+1 [GTC:247] Stomping Ground
+1 [TSB:84] Spike Feeder
+1 [GTC:240] Breeding Pool
+1 [MOR:147] Murmuring Bosk
+1 [KLD:250] Plains
+1 [5DN:156] Staff of Domination
+3 [WWK:16] Perimeter Captain
+4 [TSB:89] Wall of Roots
+1 [M14:5] Archangel of Thune
+1 [KLD:253] Island
+4 [RAV:46] Drift of Phantasms
+4 [ROE:203] Overgrown Battlement
+1 [RTR:241] Hallowed Fountain
+3 [ARB:16] Wall of Denial
+3 [RTR:115] Axebane Guardian
+3 [M14:41] Wall of Swords
+4 [DTK:177] Collected Company
+1 [DTK:173] Assault Formation
+1 [BNG:152] Phenax, God of Deception
+SB: 1 [DST:11] Pulse of the Fields
+SB: 4 [NPH:74] Surgical Extraction
+SB: 1 [SOK:14] Kataki, War's Wage
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 2 [ISD:240] Ghost Quarter
+SB: 1 [JOU:10] Eidolon of Rhetoric
+SB: 3 [NPH:103] Beast Within
+SB: 1 [NPH:159] Spellskite
+SB: 1 [RTR:173] Izzet Staticaster
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([8ED:300],[5DN:156])([BNG:152])([M14:5],[RTR:115],[RTR:115],[RTR:115],[RAV:46],[RAV:46],[RAV:46],[RAV:46],[ROE:203],[ROE:203],[ROE:203],[ROE:203],[WWK:16],[WWK:16],[WWK:16],[TSB:84],[ARB:16],[ARB:16],[ARB:16],[TSB:89],[TSB:89],[TSB:89],[TSB:89],[M14:41],[M14:41],[M14:41])([DTK:173])([NPH:103],[M15:172],[M15:172],[M15:172],[DTK:177],[DTK:177],[DTK:177],[DTK:177])([GTC:240],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[KLD:264],[ISD:240],[ISD:240],[RTR:241],[KLD:253],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[MOR:147],[KLD:250],[GTC:247],[RTR:248],[KTK:248],[KTK:248],[KTK:248],[KTK:248])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([ISD:240],[ISD:240])([NPH:74],[NPH:74],[NPH:74],[NPH:74])([SOK:14],[M15:225],[NPH:159])([NPH:103],[NPH:103],[NPH:103],[JOU:10],[RTR:173],[DST:11])

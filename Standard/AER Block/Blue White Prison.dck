@@ -1,0 +1,27 @@
+NAME:Blue White Prison
+4 [AER:28] Baral, Chief of Compliance
+4 [KLD:67] Torrential Gearhulk
+2 [KLD:15] Fumigate
+4 [SOI:58] Engulf the Shore
+4 [KLD:49] Glimmer of Genius
+2 [BFZ:80] Part the Waterveil
+2 [OGW:174] Mirrorpool
+2 [BFZ:85] Scatter to the Winds
+4 [EMN:79] Unsubstantiate
+2 [OGW:59] Negate
+4 [BFZ:69] Anticipate
+4 [BFZ:241] Prairie Stream
+2 [OGW:56] Grip of the Roil
+3 [SOI:278] Port Town
+1 [BFZ:254b] Plains
+4 [KLD:208] Dynavolt Tower
+12 [BFZ:256b] Island
+SB: 4 [KLD:56] Metallurgic Summonings
+SB: 2 [OGW:60] Oath of Jace
+SB: 2 [BFZ:226] Pilgrim's Eye
+SB: 2 [EMN:65] Imprisoned in the Moon
+SB: 2 [SOI:79] Pore Over the Pages
+SB: 2 [OGW:56] Grip of the Roil
+SB: 1 [SOI:83] Rise from the Tides
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([KLD:67],[KLD:67],[KLD:67],[KLD:67],[AER:28],[AER:28],[AER:28],[AER:28])([KLD:208],[KLD:208],[KLD:208],[KLD:208])([OGW:59],[OGW:59])([OGW:174],[OGW:174],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241],[SOI:278],[SOI:278],[SOI:278],[BFZ:254b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b],[BFZ:256b])([BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[KLD:49],[KLD:49],[KLD:49],[KLD:49])([SOI:58],[SOI:58],[SOI:58],[SOI:58],[EMN:79],[EMN:79],[EMN:79],[EMN:79],[OGW:56],[OGW:56])([BFZ:80],[BFZ:80],[BFZ:85],[BFZ:85],[KLD:15],[KLD:15])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([OGW:56],[OGW:56],[EMN:65],[EMN:65],[OGW:60],[OGW:60],[BFZ:226],[BFZ:226])([KLD:56],[KLD:56],[KLD:56],[KLD:56],[SOI:79],[SOI:79])([SOI:83])
