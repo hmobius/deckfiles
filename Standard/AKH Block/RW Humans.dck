@@ -1,0 +1,19 @@
+NAME:RW Humans
+4 [SOI:1] Always Watching
+3 [SOI:39] Stern Constable
+3 [OGW:175] Needle Spires
+4 [AKH:16] Glory-Bound Initiate
+3 [EMN:130] Hanweir Garrison
+2 [SOI:12] Declaration in Stone
+4 [AKH:200] Honored Crop-Captain
+4 [SOI:46] Town Gossipmonger
+4 [SOI:43] Thalia's Lieutenant
+4 [KLD:246] Inspiring Vantage
+1 [AKH:125] Combat Celebrant
+4 [SOI:44] Thraben Inspector
+4 [BFZ:24] Expedition Envoy
+3 [AKH:120] Bloodlust Inciter
+5 [SOI:294] Mountain
+8 [SOI:285] Plains
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,70)|([SOI:43],[SOI:43],[SOI:43],[SOI:43],[AKH:200],[AKH:200],[AKH:200],[AKH:200],[AKH:16],[AKH:16],[AKH:16],[AKH:16],[EMN:130],[EMN:130],[EMN:130],[AKH:125],[SOI:46],[SOI:46],[SOI:46],[SOI:46],[SOI:44],[SOI:44],[SOI:44],[SOI:44],[BFZ:24],[BFZ:24],[BFZ:24],[BFZ:24],[AKH:120],[AKH:120],[AKH:120],[SOI:39],[SOI:39],[SOI:39])([SOI:1],[SOI:1],[SOI:1],[SOI:1])([SOI:294],[SOI:294],[SOI:294],[SOI:294],[SOI:294],[SOI:285],[SOI:285],[SOI:285],[SOI:285],[SOI:285],[SOI:285],[SOI:285],[SOI:285],[OGW:175],[OGW:175],[OGW:175],[KLD:246],[KLD:246],[KLD:246],[KLD:246])([SOI:12],[SOI:12])
+LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|

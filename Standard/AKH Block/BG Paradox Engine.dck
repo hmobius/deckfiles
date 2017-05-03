@@ -1,0 +1,26 @@
+NAME:Paradox Combo
+3 [AKH:192] Vizier of the Menagerie
+1 [AER:162] Lifecrafter's Bestiary
+2 [SOI:281] Westvale Abbey
+4 [KLD:243] Blooming Marsh
+3 [OGW:171] Hissing Quagmire
+2 [AKH:205] Samut, Voice of Dissent
+4 [SOI:203] Duskwatch Recruiter
+1 [AKH:239] Canyon Slough
+4 [SOI:216] Loam Dryad
+3 [SOI:200] Cryptolith Rite
+4 [BFZ:163] Blisterpod
+3 [AER:169] Paradox Engine
+3 [AKH:252] Swamp
+4 [BFZ:126] Zulaport Cutthroat
+10 [AKH:254] Forest
+4 [AKH:177] Oashra Cultivator
+4 [BFZ:201] Catacomb Sifter
+1 [AER:74] Yahenni, Undying Partisan
+SB: 3 [EMN:93] Liliana, the Last Hope
+SB: 2 [AER:162] Lifecrafter's Bestiary
+SB: 4 [AER:57] Fatal Push
+SB: 4 [SOI:233] Tireless Tracker
+SB: 2 [AKH:96] Lay Bare the Heart
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,70)|([AER:162],[AER:169],[AER:169],[AER:169])([BFZ:163],[BFZ:163],[BFZ:163],[BFZ:163],[SOI:216],[SOI:216],[SOI:216],[SOI:216],[AKH:177],[AKH:177],[AKH:177],[AKH:177],[BFZ:126],[BFZ:126],[BFZ:126],[BFZ:126],[BFZ:201],[BFZ:201],[BFZ:201],[BFZ:201],[AKH:192],[AKH:192],[AKH:192],[AER:74],[AKH:205],[AKH:205],[SOI:203],[SOI:203],[SOI:203],[SOI:203])([SOI:200],[SOI:200],[SOI:200])([KLD:243],[KLD:243],[KLD:243],[KLD:243],[OGW:171],[OGW:171],[OGW:171],[AKH:239],[AKH:252],[AKH:252],[AKH:252],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[AKH:254],[SOI:281],[SOI:281])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([AER:57],[AER:57],[AER:57],[AER:57])([AKH:96],[AKH:96])([SOI:233],[SOI:233],[SOI:233],[SOI:233],[AER:162],[AER:162],[EMN:93],[EMN:93],[EMN:93])

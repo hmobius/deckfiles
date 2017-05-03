@@ -1,0 +1,21 @@
+NAME:Mono Black Aggro
+4 [AKH:81] Bone Picker
+4 [AER:181] Walking Ballista
+4 [AER:57] Fatal Push
+4 [OGW:85] Grasp of Darkness
+2 [KLD:242] Aether Hub
+4 [KLD:231] Scrapheap Scrounger
+4 [AKH:88] Dread Wanderer
+3 [EMN:93] Liliana, the Last Hope
+2 [EMN:85] Collective Brutality
+3 [AKH:212] Never // Return
+4 [KLD:95] Night Market Lookout
+18 [AKH:252] Swamp
+4 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 4 [AKH:106] Scarab Feast
+SB: 3 [KLD:85] Harsh Scrutiny
+SB: 4 [AER:61] Gifted Aetherborn
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,6)(CMC,false,60)|([KLD:242],[KLD:242],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AKH:252],[AER:181],[AER:181],[AER:181],[AER:181])([AKH:88],[AKH:88],[AKH:88],[AKH:88],[KLD:95],[KLD:95],[KLD:95],[KLD:95],[AER:57],[AER:57],[AER:57],[AER:57])([KLD:231],[KLD:231],[KLD:231],[KLD:231],[AER:62],[AER:62],[AER:62],[AER:62],[OGW:85],[OGW:85],[OGW:85],[OGW:85],[EMN:85],[EMN:85])([EMN:93],[EMN:93],[EMN:93])([AKH:81],[AKH:81],[AKH:81],[AKH:81])([AKH:212],[AKH:212],[AKH:212])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([AKH:106],[AKH:106],[AKH:106],[AKH:106],[KLD:85],[KLD:85],[KLD:85])([AER:61],[AER:61],[AER:61],[AER:61],[BFZ:101],[BFZ:101],[BFZ:101])([EMN:93])

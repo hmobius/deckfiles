@@ -1,0 +1,24 @@
+NAME:RB Drake
+4 [SOI:170] Lightning Axe
+4 [AKH:151] Tormenting Voice
+2 [EMN:118] Bedlam Reveler
+4 [AKH:51] Drake Haven
+2 [AKH:239] Canyon Slough
+4 [AKH:57] Hieroglyphic Illumination
+4 [AKH:46] Censor
+4 [SOI:156] Fiery Temper
+4 [AER:98] Shock
+2 [BFZ:69] Anticipate
+5 [AKH:251] Island
+4 [KLD:109] Cathartic Reunion
+4 [KLD:249] Spirebluff Canal
+2 [AKH:243] Fetid Pools
+7 [AKH:253] Mountain
+4 [AKH:198] Enigma Drake
+SB: 4 [EMN:72] Niblis of Frost
+SB: 4 [AKH:149] Sweltering Suns
+SB: 3 [BFZ:76] Dispel
+SB: 2 [AER:31] Disallow
+SB: 2 [AER:40] Negate
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KLD:249],[KLD:249],[KLD:249],[KLD:249],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:253],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:239],[AKH:239],[AKH:243],[AKH:243])([AER:98],[AER:98],[AER:98],[AER:98],[SOI:170],[SOI:170],[SOI:170],[SOI:170])([BFZ:69],[BFZ:69],[KLD:109],[KLD:109],[KLD:109],[KLD:109],[AKH:151],[AKH:151],[AKH:151],[AKH:151],[AKH:46],[AKH:46],[AKH:46],[AKH:46])([AKH:198],[AKH:198],[AKH:198],[AKH:198],[AKH:51],[AKH:51],[AKH:51],[AKH:51],[SOI:156],[SOI:156],[SOI:156],[SOI:156])([AKH:57],[AKH:57],[AKH:57],[AKH:57])([EMN:118],[EMN:118])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,50)|([EMN:72],[EMN:72],[EMN:72],[EMN:72])([AER:40],[AER:40],[AER:31],[AER:31],[BFZ:76],[BFZ:76],[BFZ:76])([AKH:149],[AKH:149],[AKH:149],[AKH:149])
