@@ -1,0 +1,27 @@
+NAME:UW Control
+4 [KLD:67] Torrential Gearhulk
+4 [SOI:58] Engulf the Shore
+3 [OGW:20] Immolating Glare
+1 [AKH:4] Approach of the Second Sun
+4 [AKH:65] Pull from Tomorrow
+2 [AKH:52] Essence Scatter
+4 [AKH:46] Censor
+4 [AKH:57] Hieroglyphic Illumination
+4 [AKH:245] Irrigated Farmland
+2 [AER:31] Disallow
+3 [AKH:211] Commit // Memory
+4 [BFZ:241] Prairie Stream
+4 [SOI:278] Port Town
+14 [AKH:251] Island
+1 [AER:40] Negate
+2 [OGW:49] Void Shatter
+SB: 2 [KLD:15] Fumigate
+SB: 2 [BFZ:76] Dispel
+SB: 1 [OGW:63] Sphinx of the Final Word
+SB: 2 [BFZ:59] Horribly Awry
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 4 [SOI:88] Startled Awake
+SB: 1 [AKH:52] Essence Scatter
+SB: 2 [AER:40] Negate
+LAYOUT MAIN:(1,7)(CMC,false,40)|([AKH:245],[AKH:245],[AKH:245],[AKH:245],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241],[SOI:278],[SOI:278],[SOI:278],[SOI:278],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251])([OGW:20],[OGW:20],[OGW:20],[AKH:52],[AKH:52],[AER:40],[AKH:46],[AKH:46],[AKH:46],[AKH:46],[AKH:65],[AKH:65],[AKH:65],[AKH:65])([AER:31],[AER:31],[OGW:49],[OGW:49])([AKH:57],[AKH:57],[AKH:57],[AKH:57],[SOI:58],[SOI:58],[SOI:58],[SOI:58])([KLD:67],[KLD:67],[KLD:67],[KLD:67])([AKH:4])([AKH:211],[AKH:211],[AKH:211])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,40)|([BFZ:76],[BFZ:76])([AER:40],[AER:40],[BFZ:59],[BFZ:59],[AKH:52])([SOI:88],[SOI:88],[SOI:88],[SOI:88])([KLD:15],[KLD:15])([OGW:63])([BFZ:15])

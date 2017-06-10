@@ -1,0 +1,42 @@
+NAME:Modern Saheeli Evolution
+2 [AKH:250] Plains
+4 [KLD:186] Saheeli Rai
+2 [ZEN:220] Misty Rainforest
+4 [KTK:248] Windswept Heath
+2 [KTK:249] Wooded Foothills
+4 [OGW:140] Oath of Nissa
+3 [CON:15] Path to Exile
+1 [RTR:248] Temple Garden
+1 [GTC:247] Stomping Ground
+1 [SOI:233] Tireless Tracker
+1 [GTC:245] Sacred Foundry
+1 [AKH:251] Island
+2 [AKH:254] Forest
+1 [GTC:240] Breeding Pool
+2 [AVR:32] Restoration Angel
+4 [AER:19] Felidar Guardian
+2 [OGW:157] Reflector Mage
+1 [RTR:241] Hallowed Fountain
+4 [M12:165] Birds of Paradise
+1 [M14:195] Scavenging Ooze
+3 [KTK:233] Flooded Strand
+3 [ROE:53] Wall of Omens
+3 [EMN:155] Eldritch Evolution
+1 [CON:87] Noble Hierarch
+1 [5DN:86] Eternal Witness
+1 [ISD:239] Gavony Township
+2 [M12:63] Mana Leak
+3 [DGM:114] Voice of Resurgence
+SB: 2 [ISD:36] Stony Silence
+SB: 1 [EMN:13] Blessed Alliance
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [JOU:10] Eidolon of Rhetoric
+SB: 1 [SOI:233] Tireless Tracker
+SB: 2 [LRW:248] Gaddock Teeg
+SB: 1 [M11:188] Obstinate Baloth
+SB: 1 [M15:194] Reclamation Sage
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [RTR:173] Izzet Staticaster
+SB: 1 [AER:40] Negate
+LAYOUT MAIN:(1,5)(CMC,false,40)|([GTC:240],[KTK:233],[KTK:233],[KTK:233],[AKH:254],[AKH:254],[ISD:239],[RTR:241],[AKH:251],[ZEN:220],[ZEN:220],[AKH:250],[AKH:250],[GTC:245],[GTC:247],[RTR:248],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249])([M12:165],[M12:165],[M12:165],[M12:165],[CON:87],[OGW:140],[OGW:140],[OGW:140],[OGW:140],[CON:15],[CON:15],[CON:15])([M12:63],[M12:63],[M14:195],[DGM:114],[DGM:114],[DGM:114],[ROE:53],[ROE:53],[ROE:53])([EMN:155],[EMN:155],[EMN:155],[5DN:86],[OGW:157],[OGW:157],[KLD:186],[KLD:186],[KLD:186],[KLD:186],[SOI:233])([AER:19],[AER:19],[AER:19],[AER:19],[AVR:32],[AVR:32])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,40)|([EMN:13],[LRW:248],[LRW:248],[AER:40],[M14:195],[ISD:36],[ISD:36])([9ED:176],[9ED:176],[JOU:10],[JOU:10],[RTR:173],[M15:194],[SOI:233])([M11:188])

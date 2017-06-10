@@ -1,0 +1,24 @@
+NAME:Mono Blue Engulf
+4 [KLD:67] Torrential Gearhulk
+4 [SOI:58] Engulf the Shore
+1 [SOI:69] Jace, Unraveler of Secrets
+3 [AKH:65] Pull from Tomorrow
+4 [AKH:52] Essence Scatter
+1 [AKH:49] Curator of Mysteries
+4 [AKH:46] Censor
+4 [AKH:57] Hieroglyphic Illumination
+4 [AKH:245] Irrigated Farmland
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+4 [AKH:211] Commit // Memory
+2 [BFZ:241] Prairie Stream
+16 [AKH:251] Island
+4 [AKH:243] Fetid Pools
+4 [OGW:49] Void Shatter
+SB: 2 [OGW:63] Sphinx of the Final Word
+SB: 2 [BFZ:76] Dispel
+SB: 2 [AKH:4] Approach of the Second Sun
+SB: 3 [BFZ:59] Horribly Awry
+SB: 2 [SOI:68] Invasive Surgery
+SB: 4 [AER:40] Negate
+LAYOUT MAIN:(1,7)(CMC,false,60)|([AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[AKH:243],[AKH:243],[AKH:243],[AKH:243],[BFZ:241],[BFZ:241])([AKH:52],[AKH:52],[AKH:52],[AKH:52],[AKH:65],[AKH:65],[AKH:65],[AKH:46],[AKH:46],[AKH:46],[AKH:46])([OGW:49],[OGW:49],[OGW:49],[OGW:49])([SOI:58],[SOI:58],[SOI:58],[SOI:58],[AKH:57],[AKH:57],[AKH:57],[AKH:57],[AKH:49])([SOI:69])([KLD:67],[KLD:67],[KLD:67],[KLD:67])([BFZ:15],[AKH:211],[AKH:211],[AKH:211],[AKH:211])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([SOI:68],[SOI:68],[BFZ:76],[BFZ:76])([BFZ:59],[BFZ:59],[BFZ:59],[AER:40],[AER:40],[AER:40],[AER:40])([OGW:63],[AKH:4],[AKH:4],[OGW:63])

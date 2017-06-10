@@ -1,0 +1,30 @@
+NAME:Mill with Cycle Lands
+1 [KLD:250] Plains
+3 [AER:57] Fatal Push
+2 [KLD:253] Island
+4 [KTK:239] Polluted Delta
+4 [KTK:233] Flooded Strand
+4 [ROE:53] Wall of Omens
+3 [ARB:26] Mind Funeral
+4 [ZEN:47] Hedron Crab
+4 [M12:80] Visions of Beyond
+1 [ZEN:219] Marsh Flats
+4 [CON:15] Path to Exile
+4 [ZEN:41] Archive Trap
+3 [DGM:23] Crypt Incursion
+3 [AER:75] Yahenni's Expertise
+2 [AKH:245] Irrigated Farmland
+4 [RAV:208] Glimpse the Unthinkable
+2 [KLD:256] Swamp
+1 [GTC:242] Godless Shrine
+4 [AKH:243] Fetid Pools
+3 [MRD:204] Mesmeric Orb
+SB: 3 [NPH:74] Surgical Extraction
+SB: 3 [TSB:6] Disenchant
+SB: 1 [ISD:240] Ghost Quarter
+SB: 3 [8ED:300] Ensnaring Bridge
+SB: 1 [DKA:76] Tragic Slip
+SB: 1 [PLC:85] Damnation
+SB: 3 [10E:88] Hurkyl's Recall
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,70)|([MRD:204],[MRD:204],[MRD:204])([ZEN:47],[ZEN:47],[ZEN:47],[ZEN:47],[ROE:53],[ROE:53],[ROE:53],[ROE:53])([ZEN:41],[ZEN:41],[ZEN:41],[ZEN:41],[DGM:23],[DGM:23],[DGM:23],[AER:57],[AER:57],[AER:57],[CON:15],[CON:15],[CON:15],[CON:15],[M12:80],[M12:80],[M12:80],[M12:80])([AKH:243],[AKH:243],[AKH:243],[AKH:243],[AKH:245],[AKH:245])([RAV:208],[RAV:208],[RAV:208],[RAV:208],[ARB:26],[ARB:26],[ARB:26],[AER:75],[AER:75],[AER:75])([KLD:250],[KLD:253],[KLD:253],[KLD:256],[KLD:256],[GTC:242],[ZEN:219],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[KTK:239],[KTK:239],[KTK:239],[KTK:239])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ISD:240])([NPH:74],[NPH:74],[NPH:74])([TSB:6],[TSB:6],[TSB:6],[10E:88],[10E:88],[10E:88])([8ED:300],[8ED:300],[8ED:300])([PLC:85],[DKA:76])
