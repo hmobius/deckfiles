@@ -1,0 +1,31 @@
+NAME:BG Constrictor
+4 [AER:181] Walking Ballista
+4 [AER:140] Winding Constrictor
+2 [KLD:172] Verdurous Gearhulk
+4 [KLD:243] Blooming Marsh
+4 [AER:57] Fatal Push
+2 [OGW:85] Grasp of Darkness
+2 [OGW:86] Kalitas, Traitor of Ghet
+3 [OGW:138] Nissa, Voice of Zendikar
+2 [EMN:93] Liliana, the Last Hope
+4 [OGW:171] Hissing Quagmire
+4 [EMN:184] Grim Flayer
+3 [SOI:233] Tireless Tracker
+4 [SOI:234] Traverse the Ulvenwald
+2 [AKH:164] Dissenter's Deliverance
+5 [SOI:297] Forest
+1 [HOU:177] Hashep Oasis
+1 [AER:122] Rishkar, Peema Renegade
+3 [AKH:242] Evolving Wilds
+6 [HOU:187] Swamp
+SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [HOU:62] Doomfall
+SB: 1 [OGW:85] Grasp of Darkness
+SB: 2 [AKH:212] Never // Return
+SB: 1 [EMN:162] Ishkanah, Grafwidow
+SB: 1 [SOI:233] Tireless Tracker
+SB: 3 [AKH:86] Dispossess
+SB: 2 [KLD:84] Gonti, Lord of Luxury
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,10)|([KLD:172],[KLD:172],[AER:181],[AER:181],[AER:181],[AER:181])([EMN:184],[EMN:184],[EMN:184],[EMN:184],[OGW:86],[OGW:86],[AER:122],[SOI:233],[SOI:233],[SOI:233],[AER:140],[AER:140],[AER:140],[AER:140])([OGW:85],[OGW:85],[AER:57],[AER:57],[AER:57],[AER:57],[AKH:164],[AKH:164])([KLD:243],[KLD:243],[KLD:243],[KLD:243],[AKH:242],[AKH:242],[AKH:242],[SOI:297],[SOI:297],[SOI:297],[SOI:297],[SOI:297],[HOU:177],[OGW:171],[OGW:171],[OGW:171],[OGW:171],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187])([OGW:138],[OGW:138],[OGW:138],[EMN:93],[EMN:93])([SOI:234],[SOI:234],[SOI:234],[SOI:234])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,20)|([AKH:86],[AKH:86],[AKH:86],[HOU:62],[OGW:85],[AKH:212],[AKH:212],[BFZ:101],[BFZ:101],[BFZ:101],[KLD:84],[KLD:84],[EMN:162],[SOI:233],[BFZ:119])

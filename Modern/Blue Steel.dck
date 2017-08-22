@@ -1,0 +1,29 @@
+NAME:Blue Steel
+4 [M15:47] Chief Engineer
+4 [AER:181] Walking Ballista
+4 [ALA:42] Etherium Sculptor
+4 [SOM:33] Grand Architect
+4 [WWK:127] Lodestone Golem
+4 [DST:163] Blinkmoth Nexus
+4 [ALA:49] Master of Etherium
+2 [AKH:237] Throne of the God-Pharaoh
+1 [AVR:226] Cavern of Souls
+4 [EMN:69] Mausoleum Wanderer
+2 [RTR:218] Judge's Familiar
+4 [KLD:235] Smuggler's Copter
+2 [MBS:131] Signal Pest
+16 [AKH:251] Island
+1 [SOK:164] Oboro, Palace in the Clouds
+SB: 2 [LRW:262] Thorn of Amethyst
+SB: 1 [RTR:231] Pithing Needle
+SB: 2 [SOM:48] Trinket Mage
+SB: 1 [WWK:122] Basilisk Collar
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 1 [ORI:229] Hangarback Walker
+SB: 2 [ROE:92] Unified Will
+SB: 1 [KLD:40] Ceremonious Rejection
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 1 [BOK:40] Kira, Great Glass-Spinner
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,90)|([ALA:42],[ALA:42],[ALA:42],[ALA:42],[WWK:127],[WWK:127],[WWK:127],[WWK:127],[ALA:49],[ALA:49],[ALA:49],[ALA:49],[MBS:131],[MBS:131],[AER:181],[AER:181],[AER:181],[AER:181])([KLD:235],[KLD:235],[KLD:235],[KLD:235],[AKH:237],[AKH:237])([M15:47],[M15:47],[M15:47],[M15:47],[SOM:33],[SOM:33],[SOM:33],[SOM:33],[RTR:218],[RTR:218],[EMN:69],[EMN:69],[EMN:69],[EMN:69])([DST:163],[DST:163],[DST:163],[DST:163],[AVR:226],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[SOK:164])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([ORI:229])([WWK:122],[KLD:40],[DKA:149],[DKA:149],[RTR:231],[ALA:218])([LRW:262],[LRW:262],[ROE:92],[ROE:92])([AER:142],[BOK:40],[SOM:48],[SOM:48])

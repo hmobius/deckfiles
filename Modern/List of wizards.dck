@@ -1,0 +1,107 @@
+NAME:Wizards
+1 [THS:57] Omenspeaker
+1 [TSB:36] Willbender
+1 [EVE:22] Glen Elendra Archmage
+1 [TSB:34] Voidmage Prodigy
+1 [FUT:51] Linessa, Zephyr Mage
+1 [FUT:12] Magus of the Moat
+1 [AKH:5] Aven Mindcensor
+1 [SHM:34] Cursecatcher
+1 [ALA:49] Master of Etherium
+1 [TSP:92] Voidmage Husher
+1 [CHK:90] Soratami Savant
+1 [ISD:78] Snapcaster Mage
+1 [MOR:47] Sage of Fables
+1 [ORI:58] Harbinger of the Tides
+1 [MOR:48] Sage's Dousing
+1 [SOI:178] Sanguinary Mage
+1 [M15:73] Paragon of Gathering Mists
+1 [GPT:137] Wee Dragonauts
+1 [ISD:51] Delver of Secrets
+1 [GPT:135] Tibor and Lumia
+1 [GTC:209] Zameck Guildmage
+1 [ARB:109] Sen Triplets
+1 [FUT:46] Venser, Shaper Savant
+1 [THS:199] Prophet of Kruphix
+1 [OGW:159] Stormchaser Mage
+1 [FUT:101] Magus of the Moon
+1 [RTR:163] Goblin Electromancer
+1 [ARB:17] Architects of Will
+1 [MOR:51] Stonybrook Banneret
+1 [ARB:103] Sages of the Anima
+1 [RTR:183] Niv-Mizzet, Dracogenius
+1 [9ED:72] Daring Apprentice
+1 [MOR:55] Vendilion Clique
+1 [MOR:37] Inspired Sprite
+1 [EMN:56] Docent of Perfection
+1 [AKH:148] Soul-Scar Mage
+1 [ORI:64] Mizzium Meddler
+1 [THS:53] Master of Waves
+1 [GTC:176] Master Biomancer
+1 [THS:190] Chronicler of Heroes
+1 [ORI:60] Jace, Vryn's Prodigy
+1 [DTK:76] Silumgar Sorcerer
+SB: 1 [AVR:65] Lunar Mystic
+SB: 1 [MRD:36] Fatespinner
+SB: 1 [SOM:48] Trinket Mage
+SB: 1 [M12:59] Jace's Archivist
+SB: 1 [AER:48] Trophy Mage
+SB: 1 [GPT:63] Smogsteed Rider
+SB: 1 [TSP:74] Sage of Epityr
+SB: 1 [SHM:172] Oona, Queen of the Fae
+SB: 1 [ROE:85] Sea Gate Oracle
+SB: 1 [ALA:26] Sighted-Caste Sorcerer
+SB: 1 [RAV:196] Circu, Dimir Lobotomist
+SB: 1 [SHM:171] Merrow Grimeblotter
+SB: 1 [DST:5] Leonin Battlemage
+SB: 1 [GTC:162] Fathom Mage
+SB: 1 [DTK:84] Youthful Scholar
+SB: 1 [KTK:73] Grim Haruspex
+SB: 1 [MOR:142] Diviner's Wand
+SB: 1 [GPT:116] Goblin Flectomancer
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [ROE:104] Curse of Wizardry
+SB: 1 [KTK:38] Dragon's Eye Savants
+SB: 1 [DST:129] Memnarch
+SB: 1 [M14:123] Xathrid Necromancer
+SB: 1 [ARB:8] Meddling Mage
+SB: 1 [JOU:31] Battlefield Thaumaturge
+SB: 1 [M15:42] Warden of the Beyond
+SB: 1 [FUT:93] Yixlid Jailer
+SB: 1 [M12:62] Lord of the Unreal
+SB: 1 [DTK:33] Sandcrafter Mage
+SB: 1 [AER:28] Baral, Chief of Compliance
+SB: 1 [RTR:6] Azorius Justiciar
+SB: 1 [SHM:75] Puppeteer Clique
+SB: 1 [GPT:41] Vedalken Plotter
+SB: 1 [AVR:42] Alchemist's Apprentice
+SB: 1 [CSP:65] Martyr of Bones
+SB: 1 [TSP:116] Magus of the Mirror
+SB: 1 [M11:120] Viscera Seer
+SB: 1 [RTR:173] Izzet Staticaster
+SB: 1 [ZEN:45] Cosi's Trickster
+SB: 1 [MOR:27] Wandering Graybeard
+SB: 1 [M14:73] Tidebinder Mage
+SB: 1 [BNG:35] Deepwater Hypnotist
+SB: 1 [EVE:108] Noggle Hedge-Mage
+SB: 1 [RAV:242] Boros Guildmage
+SB: 1 [ALA:5] Bant Battlemage
+SB: 1 [FUT:61] Vedalken Aethermage
+SB: 1 [LRW:7] Burrenton Forge-Tender
+SB: 1 [SHM:146] Puresight Merrow
+SB: 1 [PLC:73] Magus of the Coffers
+SB: 2 [ARB:33] Anathemancer
+SB: 1 [OGW:157] Reflector Mage
+SB: 1 [MOR:52] Stream of Unconsciousness
+SB: 1 [TSP:27] Magus of the Disk
+SB: 1 [ARB:132] Esper Stormblade
+SB: 1 [ARB:75] Qasali Pridemage
+SB: 1 [GTC:45] Realmwright
+SB: 1 [ALA:70] Death Baron
+SB: 1 [CSP:135] Zur the Enchanter
+SB: 1 [MRD:275] Wizard Replica
+SB: 1 [M14:43] Archaeomancer
+SB: 1 [JOU:50] Sage of Hours
+SB: 1 [CON:28] Frontline Sage
+LAYOUT MAIN:(1,6)(CMC,false,70)|([AKH:148],[ISD:51],[SHM:34])([RTR:163],[SOI:178],[OGW:159],[ISD:78],[THS:57],[TSB:34],[TSB:36],[ORI:58],[ORI:60],[MOR:51],[GTC:209])([FUT:101],[GPT:137],[ALA:49],[9ED:72],[DTK:76],[ORI:64],[MOR:47],[MOR:48],[MOR:55],[AKH:5],[THS:190])([GPT:135],[M15:73],[ARB:17],[THS:53],[FUT:51],[FUT:46],[CHK:90],[TSP:92],[EVE:22],[MOR:37],[GTC:176],[FUT:12])([ARB:103],[ARB:109],[THS:199],[EMN:56])([RTR:183])
+LAYOUT SIDEBOARD:(1,7)(CMC,false,50)|([ZEN:45],[TSP:74],[MOR:52],[GTC:45],[M11:120],[CSP:65],[LRW:7])([RAV:242],[ARB:33],[KTK:38],[M12:62],[ARB:8],[M14:73],[FUT:61],[BNG:35],[SHM:146],[AER:28],[JOU:31],[JOU:50],[AVR:42],[ARB:75],[ARB:132],[FUT:93],[ALA:26])([GPT:116],[M12:145],[RTR:173],[EVE:108],[M12:59],[MRD:36],[CON:28],[SOM:48],[MRD:275],[OGW:157],[GPT:41],[ROE:85],[AER:48],[KTK:73],[ARB:33],[M14:123],[ALA:70],[M15:42],[ALA:5],[DTK:33],[MOR:142])([RAV:196],[M14:43],[SHM:171],[DTK:84],[AVR:65],[GTC:162],[GPT:63],[ROE:104],[CSP:135],[RTR:6],[DST:5],[TSP:27])([SHM:75],[PLC:73],[MOR:27])([SHM:172],[TSP:116])([DST:129])

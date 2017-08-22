@@ -1,28 +1,28 @@
-NAME:Hate Bears
-2 [KLD:250] Plains
-4 [EVE:6] Flickerwisp
+NAME:Hate Bears June 2017
+4 [MPS:6] Aether Vial
 4 [SOM:14] Leonin Arbiter
-4 [ALA:202] Tidehollow Sculler
-4 [ROE:227] Eldrazi Temple
-1 [OGW:177] Sea Gate Wreckage
-4 [CON:15] Path to Exile
-4 [ISD:240] Ghost Quarter
-2 [EMN:46] Thalia, Heretic Cathar
-4 [DST:91] Aether Vial
-4 [ORI:245] Caves of Koilos
-1 [KLD:256] Swamp
-3 [OGW:13] Eldrazi Displacer
-2 [ALA:218] Relic of Progenitus
-4 [GTC:242] Godless Shrine
-3 [DKA:24] Thalia, Guardian of Thraben
-4 [OGW:9] Thought-Knot Seer
-3 [BFZ:102] Wasteland Strangler
-3 [BFZ:244] Shambling Vent
-SB: 1 [TSP:28] Mangara of Corondor
-SB: 2 [ALA:10] Ethersworn Canonist
-SB: 2 [ARB:85] Zealous Persecution
+1 [CHK:275] Eiganjo Castle
+4 [MM3:3] Blade Splicer
+1 [ONS:59] Weathered Wayfarer
+1 [MBP:32] Mirran Crusader
+4 [MM3:6] Flickerwisp
+4 [EXP:44] Tectonic Edge
+4 [DIS:173] Ghost Quarter
+4 [EXP:40] Horizon Canopy
+1 [M15:225] Phyrexian Revoker
+1 [AVR:226] Cavern of Souls
+4 [MLP:18] Restoration Angel
+4 [MM3:17] Path to Exile
+2 [M13:33] Serra Avenger
+4 [SOI:44] Thraben Inspector
+9 [UNH:136] Plains
+4 [DKA:24] Thalia, Guardian of Thraben
+SB: 1 [MM3:221] Grafdigger's Cage
 SB: 2 [LRW:7] Burrenton Forge-Tender
-SB: 2 [EMN:13] Blessed Alliance
-SB: 2 [WWK:11] Kor Firewalker
-SB: 2 [NPH:159] Spellskite
-SB: 2 [SOI:242] Anguished Unmaking
+SB: 2 [MBP:32] Mirran Crusader
+SB: 2 [M14:35] Silence
+SB: 2 [MM3:25] Stony Silence
+SB: 2 [AKH:210] Dusk // Dawn
+SB: 4 [EMA:231] Relic of Progenitus
+LAYOUT MAIN:(1,5)(CMC,false,100)|([AVR:226],[CHK:275],[DIS:173],[DIS:173],[DIS:173],[DIS:173],[EXP:40],[EXP:40],[EXP:40],[EXP:40],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[UNH:136],[EXP:44],[EXP:44],[EXP:44],[EXP:44])([MPS:6],[MPS:6],[MPS:6],[MPS:6],[MM3:17],[MM3:17],[MM3:17],[MM3:17],[SOI:44],[SOI:44],[SOI:44],[SOI:44],[ONS:59])([SOM:14],[SOM:14],[SOM:14],[SOM:14],[M15:225],[M13:33],[M13:33],[DKA:24],[DKA:24],[DKA:24],[DKA:24])([MM3:3],[MM3:3],[MM3:3],[MM3:3],[MM3:6],[MM3:6],[MM3:6],[MM3:6],[MBP:32])([MLP:18],[MLP:18],[MLP:18],[MLP:18])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,100)|([LRW:7],[LRW:7],[MM3:221],[EMA:231],[EMA:231],[EMA:231],[EMA:231],[M14:35],[M14:35])([MM3:25],[MM3:25])([MBP:32],[MBP:32])([AKH:210],[AKH:210])

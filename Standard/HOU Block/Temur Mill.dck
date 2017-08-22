@@ -1,0 +1,29 @@
+NAME:Temur Mill
+1 [HOU:182] Scavenger Grounds
+4 [KLD:161] Longtusk Cub
+4 [KLD:145] Attune with Aether
+4 [KLD:244] Botanical Sanctum
+4 [KLD:242] Aether Hub
+3 [HOU:35] Fraying Sanity
+2 [KLD:39] Aethersquall Ancient
+3 [HOU:83] Abrade
+3 [AKH:248] Sheltered Thicket
+2 [AKH:149] Sweltering Suns
+2 [HOU:31] Champion of Wits
+4 [AER:135] Rogue Refiner
+4 [HOU:189] Forest
+3 [KLD:147] Bristling Hydra
+4 [KLD:169] Servant of the Conduit
+4 [SOI:88] Startled Awake
+2 [HOU:186] Island
+4 [KLD:117] Harnessed Lightning
+1 [HOU:188] Mountain
+2 [KLD:249] Spirebluff Canal
+SB: 2 [KLD:141] Appetite for the Unnatural
+SB: 2 [HOU:139] The Locust God
+SB: 2 [HOU:97] Hour of Devastation
+SB: 4 [AKH:134] Glorybringer
+SB: 4 [AER:40] Negate
+SB: 1 [AER:96] Release the Gremlins
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,30)|([KLD:39],[KLD:39],[KLD:147],[KLD:147],[KLD:147],[HOU:31],[HOU:31],[KLD:161],[KLD:161],[KLD:161],[KLD:161],[AER:135],[AER:135],[AER:135],[AER:135],[KLD:169],[KLD:169],[KLD:169],[KLD:169])([HOU:35],[HOU:35],[HOU:35])([HOU:83],[HOU:83],[HOU:83],[KLD:117],[KLD:117],[KLD:117],[KLD:117])([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[HOU:189],[HOU:189],[HOU:189],[HOU:189],[HOU:186],[HOU:186],[HOU:188],[HOU:182],[AKH:248],[AKH:248],[AKH:248],[KLD:249],[KLD:249])([KLD:145],[KLD:145],[KLD:145],[KLD:145],[SOI:88],[SOI:88],[SOI:88],[SOI:88],[AKH:149],[AKH:149])
+LAYOUT SIDEBOARD:(1,3)(CARD_TYPE,false,30)|([AKH:134],[AKH:134],[AKH:134],[AKH:134],[HOU:139],[HOU:139])([KLD:141],[KLD:141],[AER:40],[AER:40],[AER:40],[AER:40])([HOU:97],[HOU:97],[AER:96])

@@ -1,0 +1,25 @@
+NAME:PVDDR Ramunap Red
+2 [HOU:182] Scavenger Grounds
+4 [HOU:181] Ramunap Ruins
+4 [KLD:199] Bomat Courier
+4 [SOI:190] Village Messenger
+2 [KLD:110] Chandra, Torch of Defiance
+4 [HOU:83] Abrade
+4 [AKH:249] Sunscorched Desert
+4 [AKH:117] Ahn-Crop Crasher
+4 [SOI:155] Falkenrath Gorger
+3 [AER:87] Kari Zev, Skyship Raider
+4 [AER:98] Shock
+3 [AKH:136] Hazoret the Fervent
+14 [HOU:188] Mountain
+4 [HOU:90] Earthshaker Khenra
+SB: 2 [KLD:110] Chandra, Torch of Defiance
+SB: 2 [HOU:86] Chandra's Defeat
+SB: 2 [HOU:107] Sand Strangler
+SB: 2 [EMN:140] Savage Alliance
+SB: 2 [AKH:134] Glorybringer
+SB: 2 [KLD:124] Pia Nalaar
+SB: 1 [OGW:113] Oath of Chandra
+SB: 2 [AER:142] Aethersphere Harvester
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,10)|([KLD:199],[KLD:199],[KLD:199],[KLD:199])([AKH:117],[AKH:117],[AKH:117],[AKH:117],[HOU:90],[HOU:90],[HOU:90],[HOU:90],[SOI:155],[SOI:155],[SOI:155],[SOI:155],[AKH:136],[AKH:136],[AKH:136],[AER:87],[AER:87],[AER:87],[SOI:190],[SOI:190],[SOI:190],[SOI:190])([AER:98],[AER:98],[AER:98],[AER:98],[HOU:83],[HOU:83],[HOU:83],[HOU:83])([HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:181],[HOU:181],[HOU:181],[HOU:181],[HOU:182],[HOU:182],[AKH:249],[AKH:249],[AKH:249],[AKH:249])([KLD:110],[KLD:110])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,20)|([KLD:110],[KLD:110],[OGW:113],[AER:142],[AER:142],[HOU:86],[HOU:86],[EMN:140],[EMN:140],[AKH:134],[AKH:134],[KLD:124],[KLD:124],[HOU:107],[HOU:107])
