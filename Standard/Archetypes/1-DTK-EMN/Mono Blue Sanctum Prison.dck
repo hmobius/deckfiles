@@ -1,0 +1,18 @@
+4 [ORI:59] Hydrolash
+4 [SOI:58] Engulf the Shore
+4 [SOI:79] Pore Over the Pages
+4 [BFZ:69] Anticipate
+4 [ORI:235] Prism Ring
+4 [SOI:74] Nagging Thoughts
+24 [HOU:186] Island
+3 [ORI:51] Day's Undoing
+4 [BFZ:80] Part the Waterveil
+1 [SOI:83] Rise from the Tides
+4 [ORI:61] Jace's Sanctum
+SB: 4 [SOI:92] Thing in the Ice
+SB: 2 [SOI:68] Invasive Surgery
+SB: 1 [ORI:55] Displacement Wave
+SB: 4 [AER:40] Negate
+SB: 4 [ORI:60] Jace, Vryn's Prodigy
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([ORI:235],[ORI:235],[ORI:235],[ORI:235])([ORI:61],[ORI:61],[ORI:61],[ORI:61])([BFZ:69],[BFZ:69],[BFZ:69],[BFZ:69],[ORI:59],[ORI:59],[ORI:59],[ORI:59],[SOI:58],[SOI:58],[SOI:58],[SOI:58])([HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186])([SOI:74],[SOI:74],[SOI:74],[SOI:74],[ORI:51],[ORI:51],[ORI:51],[SOI:79],[SOI:79],[SOI:79],[SOI:79],[BFZ:80],[BFZ:80],[BFZ:80],[BFZ:80],[SOI:83])
+LAYOUT SIDEBOARD:(1,2)(CMC,false,50)|([SOI:68],[SOI:68])([ORI:60],[ORI:60],[ORI:60],[ORI:60],[SOI:92],[SOI:92],[SOI:92],[SOI:92],[AER:40],[AER:40],[AER:40],[AER:40],[ORI:55])

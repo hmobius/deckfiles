@@ -1,31 +1,27 @@
 NAME:UR Gifts Storm Feb 2017
-4 [AER:28] Baral, Chief of Compliance
-4 [SHM:211] Manamorphose
-3 [RAV:63] Remand
-4 [CHK:163] Desperate Ritual
-3 [KLD:253] Island
-4 [5DN:36] Serum Visions
-1 [KTK:239] Polluted Delta
-1 [ZEN:220] Misty Rainforest
-4 [M11:153] Pyretic Ritual
-3 [RTR:163] Goblin Electromancer
-1 [KTK:233] Flooded Strand
-1 [TSP:152] Empty the Warrens
-4 [CHK:62] Gifts Ungiven
-2 [ISD:155] Past in Flames
-4 [ZEN:223] Scalding Tarn
-3 [DKA:52] Thought Scour
-2 [RTR:247] Steam Vents
-2 [TSP:160] Grapeshot
-1 [KLD:259] Mountain
-4 [9ED:99] Sleight of Hand
-1 [ORI:251] Shivan Reef
-4 [KLD:249] Spirebluff Canal
-SB: 2 [TSP:152] Empty the Warrens
-SB: 2 [DST:21] Echoing Truth
-SB: 1 [GPT:32] Repeal
-SB: 3 [BFZ:76] Dispel
-SB: 4 [M11:149] Lightning Bolt
-SB: 3 [9ED:176] Blood Moon
-LAYOUT MAIN:(1,4)(CARD_TYPE,false,50)|([AER:28],[AER:28],[AER:28],[AER:28],[RTR:163],[RTR:163],[RTR:163])([DKA:52],[DKA:52],[DKA:52],[M11:153],[M11:153],[M11:153],[M11:153],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[RAV:63],[RAV:63],[RAV:63],[CHK:62],[CHK:62],[CHK:62],[CHK:62],[CHK:163],[CHK:163],[CHK:163],[CHK:163])([KLD:249],[KLD:249],[KLD:249],[KLD:249],[ZEN:220],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:247],[RTR:247],[KTK:233],[KTK:239],[KLD:259],[KLD:253],[KLD:253],[KLD:253],[ORI:251])([ISD:155],[ISD:155],[TSP:152],[TSP:160],[TSP:160],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[9ED:99],[9ED:99],[9ED:99],[9ED:99])
-LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BFZ:76],[BFZ:76],[BFZ:76],[TSP:152],[TSP:152],[GPT:32],[DST:21],[DST:21],[9ED:176],[9ED:176],[9ED:176],[M11:149],[M11:149],[M11:149],[M11:149])
+4 Baral, Chief of Compliance
+4 Spirebluff Canal
+3 Goblin Electromancer
+3 Thought Scour
+2 Past in Flames
+4 Pyretic Ritual
+1 Cascade Bluffs
+4 Manamorphose
+3 Grapeshot
+4 Steam Vents
+4 Gifts Ungiven
+4 Desperate Ritual
+3 Peer Through Depths
+4 Serum Visions
+1 Mountain
+4 Island
+4 Shivan Reef
+4 Sleight of Hand
+
+Sideboard
+2 Pieces of the Puzzle
+2 Swan Song
+2 Dismember
+3 Empty the Warrens
+3 Shattering Spree
+3 Lightning Bolt

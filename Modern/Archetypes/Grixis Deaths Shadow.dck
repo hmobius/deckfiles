@@ -1,0 +1,33 @@
+4 [AER:57] Fatal Push
+2 [GTC:249] Watery Grave
+4 [5DN:36] Serum Visions
+4 [KTK:239] Polluted Delta
+2 [ARB:46] Terminate
+3 [KTK:56] Stubborn Denial
+2 [ROE:115] Inquisition of Kozilek
+4 [THS:107] Thoughtseize
+4 [ISD:78] Snapcaster Mage
+4 [KTK:230] Bloodstained Mire
+4 [ZEN:223] Scalding Tarn
+1 [RTR:238] Blood Crypt
+2 [DTK:224] Kolaghan's Command
+2 [FRF:72] Gurmag Angler
+4 [DKA:52] Thought Scour
+1 [RTR:247] Steam Vents
+2 [FRF:87] Tasigur, the Golden Fang
+1 [9ED:99] Sleight of Hand
+1 [HOU:186] Island
+4 [FUT:90] Street Wraith
+4 [WWK:57] Death's Shadow
+1 [HOU:187] Swamp
+SB: 1 [EMN:93] Liliana, the Last Hope
+SB: 2 [SOM:187] Nihil Spellbomb
+SB: 2 [OGW:70] Flaying Tendrils
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [5DN:118] Engineered Explosives
+SB: 2 [KLD:40] Ceremonious Rejection
+SB: 2 [FRF:116] Temur Battle Rage
+SB: 1 [KTK:56] Stubborn Denial
+SB: 2 [ISD:105] Liliana of the Veil
+LAYOUT MAIN:(1,4)(CARD_TYPE,false,70)|([FRF:87],[FRF:87],[FRF:72],[FRF:72],[ISD:78],[ISD:78],[ISD:78],[ISD:78],[WWK:57],[WWK:57],[WWK:57],[WWK:57],[FUT:90],[FUT:90],[FUT:90],[FUT:90])([AER:57],[AER:57],[AER:57],[AER:57],[DTK:224],[DTK:224],[KTK:56],[KTK:56],[KTK:56],[DKA:52],[DKA:52],[DKA:52],[DKA:52],[ARB:46],[ARB:46])([ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[RTR:238],[RTR:247],[GTC:249],[GTC:249],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[KTK:230],[KTK:230],[KTK:230],[KTK:230],[HOU:187],[HOU:186])([ROE:115],[ROE:115],[THS:107],[THS:107],[THS:107],[THS:107],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[9ED:99])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([5DN:118])([KLD:40],[KLD:40],[KTK:56],[SOM:187],[SOM:187])([EMN:85],[EMN:85],[FRF:116],[FRF:116])([EMN:93],[OGW:70],[OGW:70],[ISD:105],[ISD:105])

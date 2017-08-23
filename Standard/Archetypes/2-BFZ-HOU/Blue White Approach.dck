@@ -1,0 +1,30 @@
+1 [BFZ:229] Blighted Cataract
+1 [KLD:36] Aether Meltdown
+3 [KLD:15] Fumigate
+4 [AKH:8] Cast Out
+1 [SOI:69] Jace, Unraveler of Secrets
+3 [AKH:4] Approach of the Second Sun
+4 [HOU:49] Supreme Will
+4 [KLD:49] Glimmer of Genius
+1 [KLD:5] Authority of the Consuls
+1 [BFZ:50] Stasis Snare
+4 [AKH:46] Censor
+3 [AKH:57] Hieroglyphic Illumination
+4 [EMN:13] Blessed Alliance
+4 [AKH:245] Irrigated Farmland
+1 [SOI:13] Descend upon the Sinful
+4 [BFZ:241] Prairie Stream
+1 [SOI:278] Port Town
+8 [HOU:186] Island
+7 [HOU:185] Plains
+1 [AER:40] Negate
+SB: 2 [KLD:67] Torrential Gearhulk
+SB: 2 [KLD:5] Authority of the Consuls
+SB: 4 [EMN:189] Spell Queller
+SB: 1 [EMN:75] Summary Dismissal
+SB: 2 [BFZ:76] Dispel
+SB: 2 [OGW:63] Sphinx of the Final Word
+SB: 1 [OGW:25] Linvala, the Preserver
+SB: 1 [AER:40] Negate
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([KLD:36],[KLD:5],[AKH:8],[AKH:8],[AKH:8],[AKH:8],[BFZ:50])([EMN:13],[EMN:13],[EMN:13],[EMN:13],[AKH:46],[AKH:46],[AKH:46],[AKH:46],[KLD:49],[KLD:49],[KLD:49],[KLD:49],[AKH:57],[AKH:57],[AKH:57],[AER:40],[HOU:49],[HOU:49],[HOU:49],[HOU:49])([BFZ:229],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:186],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[SOI:278],[BFZ:241],[BFZ:241],[BFZ:241],[BFZ:241])([SOI:69])([AKH:4],[AKH:4],[AKH:4],[SOI:13],[KLD:15],[KLD:15],[KLD:15])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([KLD:5],[KLD:5],[BFZ:76],[BFZ:76])([AER:40])([EMN:189],[EMN:189],[EMN:189],[EMN:189])([EMN:75])([OGW:25],[KLD:67],[KLD:67])([OGW:63],[OGW:63])

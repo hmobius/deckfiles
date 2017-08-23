@@ -1,0 +1,27 @@
+1 [M12:39] Sun Titan
+4 [ALA:21] Ranger of Eos
+2 [SHM:275] Mistveil Plains
+1 [WWK:145] Tectonic Edge
+1 [JOU:5] Banishing Light
+4 [M11:28] Serra Ascendant
+4 [10E:61] Wrath of God
+3 [DIS:15] Proclamation of Rebirth
+4 [CON:15] Path to Exile
+4 [CSP:15] Martyr of Sands
+1 [9ED:54] Weathered Wayfarer
+2 [ZEN:213] Emeria, the Sky Ruin
+4 [ISD:240] Ghost Quarter
+4 [CHK:10] Ghostly Prison
+4 [M11:33] Squadron Hawk
+1 [BOK:10] Kami of False Hope
+2 [M13:22] Oblivion Ring
+14 [HOU:185] Plains
+SB: 2 [RTR:231] Pithing Needle
+SB: 2 [TSB:6] Disenchant
+SB: 2 [LRW:7] Burrenton Forge-Tender
+SB: 2 [ISD:25] Nevermore
+SB: 2 [ISD:36] Stony Silence
+SB: 3 [M12:11] Celestial Purge
+SB: 2 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([M11:28],[M11:28],[M11:28],[M11:28],[M11:33],[M11:33],[M11:33],[M11:33],[M12:39],[ALA:21],[ALA:21],[ALA:21],[ALA:21],[CSP:15],[CSP:15],[CSP:15],[CSP:15],[BOK:10],[9ED:54])([JOU:5],[M13:22],[M13:22],[CHK:10],[CHK:10],[CHK:10],[CHK:10])([CON:15],[CON:15],[CON:15],[CON:15])([WWK:145],[ZEN:213],[ZEN:213],[SHM:275],[SHM:275],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185])([DIS:15],[DIS:15],[DIS:15],[10E:61],[10E:61],[10E:61],[10E:61])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([ALA:218],[ALA:218],[LRW:7],[LRW:7],[RTR:231],[RTR:231])([ISD:36],[ISD:36],[M12:11],[M12:11],[M12:11],[TSB:6],[TSB:6])([ISD:25],[ISD:25])

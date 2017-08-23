@@ -1,0 +1,21 @@
+4 [AER:57] Fatal Push
+2 [AKH:6] Binding Mummy
+4 [AKH:88] Dread Wanderer
+4 [AKH:99] Lord of the Accursed
+4 [AKH:98] Liliana's Mastery
+4 [AKH:208] Wayward Servant
+4 [EMN:86] Cryptbreaker
+4 [EMN:87] Dark Salvation
+4 [SOI:107] Diregraf Colossus
+4 [KLD:245] Concealed Courtyard
+6 [HOU:185] Plains
+2 [SOI:242] Anguished Unmaking
+4 [BFZ:244] Shambling Vent
+10 [HOU:187] Swamp
+SB: 4 [KLD:231] Scrapheap Scrounger
+SB: 2 [SOI:12] Declaration in Stone
+SB: 1 [SOI:242] Anguished Unmaking
+SB: 4 [BFZ:29] Gideon, Ally of Zendikar
+SB: 4 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,70)|([AKH:88],[AKH:88],[AKH:88],[AKH:88],[EMN:86],[EMN:86],[EMN:86],[EMN:86],[AKH:208],[AKH:208],[AKH:208],[AKH:208],[AKH:6],[AKH:6],[SOI:107],[SOI:107],[SOI:107],[SOI:107],[AKH:99],[AKH:99],[AKH:99],[AKH:99])([AKH:98],[AKH:98],[AKH:98],[AKH:98])([AER:57],[AER:57],[AER:57],[AER:57],[SOI:242],[SOI:242])([KLD:245],[KLD:245],[KLD:245],[KLD:245],[BFZ:244],[BFZ:244],[BFZ:244],[BFZ:244],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:185],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187],[HOU:187])([EMN:87],[EMN:87],[EMN:87],[EMN:87])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([BFZ:101],[BFZ:101],[BFZ:101],[BFZ:101],[KLD:231],[KLD:231],[KLD:231],[KLD:231],[SOI:12],[SOI:12])([SOI:242])([BFZ:29],[BFZ:29],[BFZ:29],[BFZ:29])
