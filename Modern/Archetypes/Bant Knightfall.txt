@@ -1,0 +1,32 @@
+4 [KTK] Windswept Heath
+1 [RTR] Temple Garden
+1 [WWK] Sejiri Steppe
+2 [RTR] Plains
+2 [ZEN] Misty Rainforest
+1 [RTR] Island
+1 [RTR] Hallowed Fountain
+1 [C15] Ghost Quarter
+1 [ISD] Gavony Township
+4 [RTR] Forest
+4 [KTK] Flooded Strand
+1 [GTC] Breeding Pool
+3 [BFZ] Retreat to Coralhelm
+3 [CMD] Path to Exile
+4 [DTK] Collected Company
+3 [SOI] Tireless Tracker
+3 [EMN] Thalia, Heretic Cathar
+4 [EMN] Spell Queller
+2 [EMN] Selfless Spirit
+1 [ARB] Qasali Pridemage
+4 [CFX] Noble Hierarch
+4 [CFX] Knight of the Reliquary
+2 [SHM] Kitchen Finks
+4 [CN2] Birds of Paradise
+SB:  2 [M15] Phyrexian Revoker
+SB:  3 [MBS] Mirran Crusader
+SB:  1 [SHM] Fracturing Gust
+SB:  3 [M11] Flashfreeze
+SB:  3 [KLD] Ceremonious Rejection
+SB:  1 [C14] Bojuka Bog
+SB:  1 [CMD] Path to Exile
+SB:  1 [ARB] Qasali Pridemage
