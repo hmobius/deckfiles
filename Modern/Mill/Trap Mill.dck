@@ -1,0 +1,29 @@
+4 [RAV:286] Watery Grave
+2 [LRW:272] Shelldock Isle
+4 [AER:57] Fatal Push
+3 [XLN:268] Swamp
+3 [KTK:239] Polluted Delta
+3 [MMA:181] Mind Funeral
+3 [XLN:254] Field of Ruin
+4 [XLN:253] Drowned Catacomb
+3 [XLN:264] Island
+2 [HOU:35] Fraying Sanity
+3 [KTK:233] Flooded Strand
+4 [ZEN:47] Hedron Crab
+4 [M12:80] Visions of Beyond
+1 [ZEN:219] Marsh Flats
+1 [ZEN:109] Ravenous Trap
+4 [ZEN:41] Archive Trap
+2 [ZEN:74] Trapmaker's Snare
+2 [DGM:23] Crypt Incursion
+4 [IMA:200] Glimpse the Unthinkable
+4 [IMA:60] Jace's Phantasm
+SB: 2 [ZEN:57] Mindbreak Trap
+SB: 2 [MM2:55] Remand
+SB: 1 [ZEN:109] Ravenous Trap
+SB: 2 [HOU:60] Bontu's Last Reckoning
+SB: 2 [DGM:23] Crypt Incursion
+SB: 3 [STH:127] Ensnaring Bridge
+SB: 3 [MRD:204] Mesmeric Orb
+LAYOUT MAIN:(1,5)(CMC,false,100)|([XLN:254],[XLN:254],[XLN:254],[ZEN:219],[KTK:233],[KTK:233],[KTK:233],[KTK:239],[KTK:239],[KTK:239],[XLN:253],[XLN:253],[XLN:253],[XLN:253],[RAV:286],[RAV:286],[RAV:286],[RAV:286],[LRW:272],[LRW:272],[XLN:264],[XLN:264],[XLN:264],[XLN:268],[XLN:268],[XLN:268])([IMA:60],[IMA:60],[IMA:60],[IMA:60],[ZEN:47],[ZEN:47],[ZEN:47],[ZEN:47],[AER:57],[AER:57],[AER:57],[AER:57],[M12:80],[M12:80],[M12:80],[M12:80])([ZEN:74],[ZEN:74],[IMA:200],[IMA:200],[IMA:200],[IMA:200])([HOU:35],[HOU:35],[MMA:181],[MMA:181],[MMA:181],[DGM:23],[DGM:23])([ZEN:41],[ZEN:41],[ZEN:41],[ZEN:41],[ZEN:109])
+LAYOUT SIDEBOARD:(2,4)(CMC,false,100)|([MM2:55],[MM2:55])([MRD:204],[MRD:204],[MRD:204])([HOU:60],[HOU:60],[DGM:23],[DGM:23])([ZEN:57],[ZEN:57],[ZEN:109])()([STH:127],[STH:127],[STH:127])()()

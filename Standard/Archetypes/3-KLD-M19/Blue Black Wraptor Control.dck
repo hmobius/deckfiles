@@ -1,0 +1,27 @@
+NAME:Wraptor UB Control
+3 [KLD:67] Torrential Gearhulk
+3 [XLN:129] Vraska's Contempt
+4 [AER:57] Fatal Push
+2 [HOU:180] Ipnu Rivulet
+7 [XLN:268] Swamp
+2 [XLN:254] Field of Ruin
+4 [XLN:253] Drowned Catacomb
+4 [XLN:264] Island
+4 [AKH:52] Essence Scatter
+3 [XLN:74] Search for Azcanta
+4 [AKH:46] Censor
+4 [AKH:57] Hieroglyphic Illumination
+4 [AER:31] Disallow
+2 [HOU:145] The Scarab God
+1 [AKH:284] Submerged Boneyard
+4 [AKH:243] Fetid Pools
+3 [KLD:80] Essence Extraction
+2 [AKH:242] Evolving Wilds
+SB: 3 [XLN:105] Duress
+SB: 2 [HOU:38] Jace's Defeat
+SB: 4 [AER:61] Gifted Aetherborn
+SB: 4 [AER:62] Glint-Sleeve Siphoner
+SB: 1 [AER:40] Negate
+SB: 1 [KLD:80] Essence Extraction
+LAYOUT MAIN:(1,7)(CMC,false,50)|([XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:242],[AKH:242],[AKH:243],[AKH:243],[AKH:243],[AKH:243],[XLN:254],[XLN:254],[HOU:180],[HOU:180],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[AKH:284],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268])([AER:57],[AER:57],[AER:57],[AER:57])([AKH:46],[AKH:46],[AKH:46],[AKH:46],[AKH:52],[AKH:52],[AKH:52],[AKH:52],[XLN:74],[XLN:74],[XLN:74])([AER:31],[AER:31],[AER:31],[AER:31],[KLD:80],[KLD:80],[KLD:80])([AKH:57],[AKH:57],[AKH:57],[AKH:57],[XLN:129],[XLN:129],[XLN:129])([HOU:145],[HOU:145])([KLD:67],[KLD:67],[KLD:67])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([XLN:105],[XLN:105],[XLN:105])([AER:61],[AER:61],[AER:61],[AER:61],[AER:62],[AER:62],[AER:62],[AER:62],[HOU:38],[HOU:38],[AER:40])([KLD:80])

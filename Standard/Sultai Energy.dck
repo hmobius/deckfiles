@@ -1,0 +1,28 @@
+NAME:Sultai Energy
+4 [AER:181] Walking Ballista
+4 [AER:140] Winding Constrictor
+4 [KLD:161] Longtusk Cub
+4 [KLD:243] Blooming Marsh
+4 [XLN:223] Hostage Taker
+4 [AER:57] Fatal Push
+4 [KLD:244] Botanical Sanctum
+4 [KLD:145] Attune with Aether
+4 [KLD:242] Aether Hub
+2 [XLN:268] Swamp
+4 [XLN:276] Forest
+1 [XLN:264] Island
+4 [AER:135] Rogue Refiner
+1 [HOU:145] The Scarab God
+4 [KLD:146] Blossoming Defense
+2 [AKH:243] Fetid Pools
+2 [AER:122] Rishkar, Peema Renegade
+4 [AER:62] Glint-Sleeve Siphoner
+SB: 4 [XLN:105] Duress
+SB: 2 [XLN:129] Vraska's Contempt
+SB: 1 [XLN:81] Spell Pierce
+SB: 1 [HOU:145] The Scarab God
+SB: 1 [XLN:232] Vraska, Relic Seeker
+SB: 4 [XLN:184] Deathgorge Scavenger
+SB: 2 [AER:40] Negate
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AKH:243],[AKH:243],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[KLD:242],[KLD:242],[KLD:242],[KLD:242],[XLN:268],[XLN:268],[XLN:264],[XLN:276],[XLN:276],[XLN:276],[XLN:276],[AER:181],[AER:181],[AER:181],[AER:181])([KLD:146],[KLD:146],[KLD:146],[KLD:146],[AER:57],[AER:57],[AER:57],[AER:57],[KLD:145],[KLD:145],[KLD:145],[KLD:145])([AER:140],[AER:140],[AER:140],[AER:140],[KLD:161],[KLD:161],[KLD:161],[KLD:161],[AER:62],[AER:62],[AER:62],[AER:62])([AER:122],[AER:122],[AER:135],[AER:135],[AER:135],[AER:135])([XLN:223],[XLN:223],[XLN:223],[XLN:223])([HOU:145])
+LAYOUT SIDEBOARD:(1,6)(CMC,false,50)|([XLN:81],[XLN:105],[XLN:105],[XLN:105],[XLN:105])([AER:40],[AER:40])([XLN:184],[XLN:184],[XLN:184],[XLN:184])([XLN:129],[XLN:129])([HOU:145])([XLN:232])

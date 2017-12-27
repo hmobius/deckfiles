@@ -1,0 +1,30 @@
+NAME:Current Blue Black Control
+3 [KLD:67] Torrential Gearhulk
+2 [XLN:65] Opt
+1 [XLN:129] Vraska's Contempt
+4 [AER:57] Fatal Push
+3 [KLD:242] Aether Hub
+6 [XLN:268] Swamp
+2 [HOU:49] Supreme Will
+2 [XLN:130] Walk the Plank
+4 [XLN:253] Drowned Catacomb
+5 [XLN:264] Island
+4 [AKH:52] Essence Scatter
+4 [KLD:49] Glimmer of Genius
+2 [XLN:74] Search for Azcanta
+4 [AKH:46] Censor
+2 [AER:31] Disallow
+3 [HOU:145] The Scarab God
+4 [AKH:243] Fetid Pools
+3 [KLD:80] Essence Extraction
+2 [AKH:242] Evolving Wilds
+SB: 2 [XLN:105] Duress
+SB: 2 [AER:29] Baral's Expertise
+SB: 1 [KLD:85] Harsh Scrutiny
+SB: 2 [HOU:31] Champion of Wits
+SB: 2 [AER:75] Yahenni's Expertise
+SB: 2 [XLN:90] Arguel's Blood Fast
+SB: 2 [AKH:74] Vizier of Many Faces
+SB: 2 [AER:40] Negate
+LAYOUT MAIN:(1,5)(NONE,false,50)|([KLD:242],[KLD:242],[KLD:242],[XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:242],[AKH:242],[AKH:243],[AKH:243],[AKH:243],[AKH:243],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268])([AKH:46],[AKH:46],[AKH:46],[AKH:46],[AER:31],[AER:31],[AKH:52],[AKH:52],[AKH:52],[AKH:52],[HOU:49],[HOU:49])([KLD:80],[KLD:80],[KLD:80],[AER:57],[AER:57],[AER:57],[AER:57],[XLN:130],[XLN:130],[XLN:129])([KLD:49],[KLD:49],[KLD:49],[KLD:49],[XLN:65],[XLN:65],[XLN:74],[XLN:74])([HOU:145],[HOU:145],[HOU:145],[KLD:67],[KLD:67],[KLD:67])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([KLD:85],[XLN:105],[XLN:105])([XLN:90],[XLN:90],[AER:40],[AER:40])([HOU:31],[HOU:31])([AKH:74],[AKH:74],[AER:75],[AER:75])([AER:29],[AER:29])

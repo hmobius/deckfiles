@@ -1,0 +1,31 @@
+NAME:Pirate God
+1 [HOU:182] Scavenger Grounds
+2 [XLN:129] Vraska's Contempt
+4 [AER:57] Fatal Push
+4 [XLN:223] Hostage Taker
+1 [KLD:96] Noxious Gearhulk
+3 [XLN:79] Siren Stormtamer
+5 [XLN:268] Swamp
+1 [XLN:130] Walk the Plank
+4 [XLN:253] Drowned Catacomb
+4 [XLN:264] Island
+4 [XLN:110] Kitesail Freebooter
+1 [AKH:97] Liliana, Death's Majesty
+4 [XLN:62] Lookout's Dispersal
+4 [HOU:31] Champion of Wits
+3 [HOU:179] Ifnir Deadlands
+1 [AKH:113] Trial of Ambition
+3 [HOU:145] The Scarab God
+4 [AER:61] Gifted Aetherborn
+2 [AKH:284] Submerged Boneyard
+4 [AKH:243] Fetid Pools
+1 [AKH:242] Evolving Wilds
+SB: 3 [HOU:62] Doomfall
+SB: 3 [XLN:105] Duress
+SB: 2 [HOU:60] Bontu's Last Reckoning
+SB: 1 [AKH:97] Liliana, Death's Majesty
+SB: 2 [AER:40] Negate
+SB: 3 [KLD:80] Essence Extraction
+SB: 1 [XLN:60] Jace, Cunning Castaway
+LAYOUT MAIN:(1,7)(CMC,false,50)|([XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:242],[AKH:243],[AKH:243],[AKH:243],[AKH:243],[HOU:179],[HOU:179],[HOU:179],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[HOU:182],[AKH:284],[AKH:284],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268])([AER:57],[AER:57],[AER:57],[AER:57],[XLN:79],[XLN:79],[XLN:79])([AER:61],[AER:61],[AER:61],[AER:61],[XLN:110],[XLN:110],[XLN:110],[XLN:110],[AKH:113],[XLN:130])([HOU:31],[HOU:31],[HOU:31],[HOU:31],[XLN:62],[XLN:62],[XLN:62],[XLN:62])([XLN:223],[XLN:223],[XLN:223],[XLN:223],[XLN:129],[XLN:129])([AKH:97],[HOU:145],[HOU:145],[HOU:145])([KLD:96])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([XLN:105],[XLN:105],[XLN:105])([AER:40],[AER:40])([HOU:60],[HOU:60],[HOU:62],[HOU:62],[HOU:62],[KLD:80],[KLD:80],[KLD:80],[XLN:60])([AKH:97])

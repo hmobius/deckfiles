@@ -1,3 +1,23 @@
+KLD - Core 2019
+Ramunap \ Desert Red
+Temur Energy
+Sultai Energy
+Blue Black Control
+Blue White Approach
+
+- Mardu Vehicles
+- Simic Pummeler
+- Azorius God-Pharoah's Gift
+- UR Artificers
+- Mono Black Aggro
+- Mono Black Marionnette
+- Esper \ Abzan Tokens
+- Dimir Midrange
+- Mono-white Vampires
+- Azorius Cycling
+- Grixis Control
+
+
 BFZ - HOU
 Blue Green Paradox Engine
 Blue Black Control Metallurgic Summonings 

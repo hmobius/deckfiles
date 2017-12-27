@@ -1,0 +1,23 @@
+NAME:Mono Blue
+4 [KLD:67] Torrential Gearhulk
+2 [XLN:34] Settle the Wreckage
+2 [XLN:55] Entrancing Melody
+2 [XLN:65] Opt
+4 [XLN:81] Spell Pierce
+2 [HOU:49] Supreme Will
+4 [AKH:52] Essence Scatter
+1 [AKH:49] Curator of Mysteries
+4 [AKH:46] Censor
+4 [AKH:57] Hieroglyphic Illumination
+4 [AKH:245] Irrigated Farmland
+4 [AER:31] Disallow
+2 [XLN:17] Ixalan's Binding
+2 [AKH:257] Plains
+19 [AKH:251] Island
+SB: 4 [XLN:67] Perilous Voyage
+SB: 2 [AKH:4] Approach of the Second Sun
+SB: 2 [XLN:17] Ixalan's Binding
+SB: 3 [AKH:74] Vizier of Many Faces
+SB: 4 [AER:40] Negate
+LAYOUT MAIN:(1,6)(CMC,false,80)|([AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[AKH:251],[AKH:251],[AKH:251],[AKH:251],[AKH:257],[AKH:257])([XLN:65],[XLN:65],[XLN:81],[XLN:81],[XLN:81],[XLN:81])([AKH:52],[AKH:52],[AKH:52],[AKH:52],[AKH:46],[AKH:46],[AKH:46],[AKH:46],[XLN:55],[XLN:55])([AER:31],[AER:31],[AER:31],[AER:31],[HOU:49],[HOU:49])([AKH:57],[AKH:57],[AKH:57],[AKH:57],[AKH:49],[XLN:34],[XLN:34],[XLN:17],[XLN:17])([KLD:67],[KLD:67],[KLD:67],[KLD:67])
+LAYOUT SIDEBOARD:(2,3)(CMC,false,90)|([AER:40],[AER:40],[AER:40],[AER:40])([XLN:17],[XLN:17],[AKH:74],[AKH:74],[AKH:74])([AKH:4],[AKH:4])([XLN:67],[XLN:67],[XLN:67],[XLN:67])()()

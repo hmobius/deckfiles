@@ -1,0 +1,27 @@
+NAME:Simic Pummeler
+1 [AKH:182] Rhonas the Indomitable
+4 [KLD:160] Larger Than Life
+2 [XLN:53] Dive Down
+4 [KLD:161] Longtusk Cub
+1 [XLN:64] One With the Wind
+4 [KLD:210] Electrostatic Pummeler
+4 [KLD:244] Botanical Sanctum
+4 [KLD:145] Attune with Aether
+4 [KLD:242] Aether Hub
+4 [AKH:45] Cartouche of Knowledge
+6 [XLN:276] Forest
+2 [XLN:264] Island
+4 [AER:135] Rogue Refiner
+4 [KLD:146] Blossoming Defense
+4 [KLD:147] Bristling Hydra
+4 [KLD:169] Servant of the Conduit
+4 [HOU:177] Hashep Oasis
+SB: 1 [KLD:41] Confiscation Coup
+SB: 2 [AER:107] Greenbelt Rampager
+SB: 1 [XLN:268] Swamp
+SB: 2 [XLN:81] Spell Pierce
+SB: 2 [AER:142] Aethersphere Harvester
+SB: 3 [AKH:83] Cartouche of Ambition
+SB: 4 [AER:40] Negate
+LAYOUT MAIN:(1,5)(CMC,false,60)|([KLD:242],[KLD:242],[KLD:242],[KLD:242],[KLD:244],[KLD:244],[KLD:244],[KLD:244],[XLN:276],[XLN:276],[XLN:276],[XLN:276],[XLN:276],[XLN:276],[HOU:177],[HOU:177],[HOU:177],[HOU:177],[XLN:264],[XLN:264])([KLD:145],[KLD:145],[KLD:145],[KLD:145],[KLD:146],[KLD:146],[KLD:146],[KLD:146],[XLN:53],[XLN:53])([AKH:45],[AKH:45],[AKH:45],[AKH:45],[KLD:160],[KLD:160],[KLD:160],[KLD:160],[KLD:161],[KLD:161],[KLD:161],[KLD:161],[XLN:64],[KLD:169],[KLD:169],[KLD:169],[KLD:169])([KLD:210],[KLD:210],[KLD:210],[KLD:210],[AKH:182],[AER:135],[AER:135],[AER:135],[AER:135])([KLD:147],[KLD:147],[KLD:147],[KLD:147])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:142],[AER:142],[AKH:83],[AKH:83],[AKH:83],[KLD:41],[AER:107],[AER:107],[AER:40],[AER:40],[AER:40],[AER:40],[XLN:81],[XLN:81],[XLN:268])

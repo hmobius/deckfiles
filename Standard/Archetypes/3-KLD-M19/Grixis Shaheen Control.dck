@@ -1,0 +1,33 @@
+NAME:Shaheen Grixis Control
+4 [KLD:67] Torrential Gearhulk
+2 [XLN:65] Opt
+1 [XLN:129] Vraska's Contempt
+1 [AER:57] Fatal Push
+4 [KLD:242] Aether Hub
+3 [HOU:49] Supreme Will
+1 [XLN:254] Field of Ruin
+2 [XLN:253] Drowned Catacomb
+6 [XLN:264] Island
+1 [AKH:52] Essence Scatter
+4 [KLD:49] Glimmer of Genius
+2 [XLN:74] Search for Azcanta
+4 [XLN:272] Mountain
+2 [HOU:83] Abrade
+3 [AKH:239] Canyon Slough
+4 [AKH:46] Censor
+2 [HOU:97] Hour of Devastation
+2 [AER:31] Disallow
+2 [HOU:145] The Scarab God
+2 [AKH:243] Fetid Pools
+4 [KLD:117] Harnessed Lightning
+4 [KLD:249] Spirebluff Canal
+SB: 1 [HOU:62] Doomfall
+SB: 1 [AER:128] Dark Intimations
+SB: 2 [HOU:86] Chandra's Defeat
+SB: 3 [KLD:223] Multiform Wonder
+SB: 1 [XLN:74] Search for Azcanta
+SB: 1 [AKH:141] Magma Spray
+SB: 3 [AER:40] Negate
+SB: 3 [KLD:190] Whirler Virtuoso
+LAYOUT MAIN:(1,7)(CMC,false,50)|([KLD:242],[KLD:242],[KLD:242],[KLD:242],[AKH:239],[AKH:239],[AKH:239],[XLN:253],[XLN:253],[AKH:243],[AKH:243],[XLN:254],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[KLD:249],[KLD:249],[KLD:249],[KLD:249])([AER:57],[XLN:65],[XLN:65])([HOU:83],[HOU:83],[AKH:46],[AKH:46],[AKH:46],[AKH:46],[AKH:52],[KLD:117],[KLD:117],[KLD:117],[KLD:117],[XLN:74],[XLN:74])([AER:31],[AER:31],[HOU:49],[HOU:49],[HOU:49])([KLD:49],[KLD:49],[KLD:49],[KLD:49],[XLN:129])([HOU:97],[HOU:97],[HOU:145],[HOU:145])([KLD:67],[KLD:67],[KLD:67],[KLD:67])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([HOU:86],[HOU:86],[AKH:141])([AER:40],[AER:40],[AER:40],[XLN:74])([HOU:62],[KLD:190],[KLD:190],[KLD:190])([AER:128],[KLD:223],[KLD:223],[KLD:223])

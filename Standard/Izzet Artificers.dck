@@ -1,0 +1,27 @@
+NAME:Izzet Artificers
+4 [HOU:181] Ramunap Ruins
+4 [AER:181] Walking Ballista
+2 [AER:184] Spire of Industry
+4 [KLD:199] Bomat Courier
+4 [XLN:258] Unclaimed Territory
+3 [AER:26] Aether Swooper
+4 [XLN:264] Island
+6 [XLN:272] Mountain
+4 [KLD:190] Whirler Virtuoso
+1 [HOU:83] Abrade
+2 [AER:81] Freejam Regent
+3 [AER:76] Aether Chaser
+4 [AKH:134] Glorybringer
+1 [KLD:124] Pia Nalaar
+2 [AER:153] Heart of Kiran
+4 [KLD:218] Inventor's Goggles
+4 [AER:130] Maverick Thopterist
+4 [KLD:249] Spirebluff Canal
+SB: 3 [HOU:83] Abrade
+SB: 1 [XLN:81] Spell Pierce
+SB: 2 [HOU:159] Crook of Condemnation
+SB: 1 [AER:153] Heart of Kiran
+SB: 4 [AKH:141] Magma Spray
+SB: 4 [AER:40] Negate
+LAYOUT MAIN:(1,6)(CMC,false,60)|([XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[HOU:181],[HOU:181],[HOU:181],[HOU:181],[AER:184],[AER:184],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[XLN:258],[XLN:258],[XLN:258],[XLN:258],[AER:181],[AER:181],[AER:181],[AER:181])([KLD:199],[KLD:199],[KLD:199],[KLD:199],[KLD:218],[KLD:218],[KLD:218],[KLD:218])([AER:153],[AER:153],[HOU:83],[AER:76],[AER:76],[AER:76],[AER:26],[AER:26],[AER:26])([KLD:124],[KLD:190],[KLD:190],[KLD:190],[KLD:190])([AKH:134],[AKH:134],[AKH:134],[AKH:134],[AER:130],[AER:130],[AER:130],[AER:130])([AER:81],[AER:81])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:153],[HOU:83],[HOU:83],[HOU:83],[HOU:159],[HOU:159],[AKH:141],[AKH:141],[AKH:141],[AKH:141],[AER:40],[AER:40],[AER:40],[AER:40],[XLN:81])

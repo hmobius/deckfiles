@@ -1,0 +1,32 @@
+NAME:Grixis Improvise
+4 [AER:39] Metallic Rebuke
+1 [XLN:248] Sorcerous Spyglass
+4 [AER:173] Renegade Map
+4 [AER:184] Spire of Industry
+4 [AER:57] Fatal Push
+3 [KLD:177] Contraband Kingpin
+3 [XLN:268] Swamp
+1 [XLN:252] Dragonskull Summit
+1 [XLN:264] Island
+3 [XLN:253] Drowned Catacomb
+1 [XLN:272] Mountain
+4 [AER:64] Herald of Anguish
+1 [KLD:247] Inventors' Fair
+1 [HOU:145] The Scarab God
+3 [KLD:201] Cogworker's Puzzleknot
+3 [AER:137] Tezzeret the Schemer
+2 [KLD:124] Pia Nalaar
+1 [AER:142] Aethersphere Harvester
+4 [KLD:229] Prophetic Prism
+4 [AER:130] Maverick Thopterist
+3 [AKH:243] Fetid Pools
+4 [KLD:249] Spirebluff Canal
+1 [AER:176] Servo Schematic
+SB: 1 [XLN:248] Sorcerous Spyglass
+SB: 3 [AER:138] Tezzeret's Touch
+SB: 3 [KLD:231] Scrapheap Scrounger
+SB: 3 [AER:53] Battle at the Bridge
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 4 [AER:40] Negate
+LAYOUT MAIN:(1,7)(CMC,false,50)|([XLN:264],[XLN:272],[XLN:252],[KLD:247],[XLN:268],[XLN:268],[XLN:268],[XLN:253],[XLN:253],[XLN:253],[AKH:243],[AKH:243],[AKH:243],[AER:184],[AER:184],[AER:184],[AER:184],[KLD:249],[KLD:249],[KLD:249],[KLD:249])([AER:173],[AER:173],[AER:173],[AER:173],[AER:57],[AER:57],[AER:57],[AER:57])([XLN:248],[AER:176],[KLD:201],[KLD:201],[KLD:201],[KLD:229],[KLD:229],[KLD:229],[KLD:229],[KLD:177],[KLD:177],[KLD:177])([AER:142],[AER:39],[AER:39],[AER:39],[AER:39],[KLD:124],[KLD:124])([AER:137],[AER:137],[AER:137])([HOU:145],[AER:130],[AER:130],[AER:130],[AER:130])([AER:64],[AER:64],[AER:64],[AER:64])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([AER:53],[AER:53],[AER:53])([KLD:231],[KLD:231],[KLD:231],[AER:40],[AER:40],[AER:40],[AER:40],[XLN:248])([AER:138],[AER:138],[AER:138],[AER:142])

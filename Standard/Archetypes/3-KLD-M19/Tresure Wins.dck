@@ -1,0 +1,28 @@
+NAME:Revel in Riches
+2 [XLN:117] Revel in Riches
+4 [XLN:102] Dire Fleet Hoarder
+4 [AER:57] Fatal Push
+2 [AER:38] Mechanized Production
+6 [XLN:268] Swamp
+3 [HOU:49] Supreme Will
+2 [XLN:220] Deadeye Plunderers
+4 [XLN:253] Drowned Catacomb
+7 [XLN:264] Island
+4 [XLN:250] Treasure Map
+3 [XLN:82] Spell Swindle
+2 [HOU:60] Bontu's Last Reckoning
+3 [AKH:46] Censor
+1 [AER:53] Battle at the Bridge
+3 [KLD:203] Cultivator's Caravan
+3 [HOU:179] Ifnir Deadlands
+2 [AER:137] Tezzeret the Schemer
+1 [KLD:90] Marionette Master
+4 [AKH:243] Fetid Pools
+SB: 3 [XLN:105] Duress
+SB: 1 [HOU:60] Bontu's Last Reckoning
+SB: 2 [XLN:129] Vraska's Contempt
+SB: 3 [KLD:177] Contraband Kingpin
+SB: 3 [XLN:81] Spell Pierce
+SB: 3 [AER:40] Negate
+LAYOUT MAIN:(1,7)(CMC,false,50)|([XLN:253],[XLN:253],[XLN:253],[XLN:253],[AKH:243],[AKH:243],[AKH:243],[AKH:243],[HOU:179],[HOU:179],[HOU:179],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268])([AER:53],[AER:57],[AER:57],[AER:57],[AER:57])([XLN:102],[XLN:102],[XLN:102],[XLN:102],[AKH:46],[AKH:46],[AKH:46],[XLN:250],[XLN:250],[XLN:250],[XLN:250])([HOU:60],[HOU:60],[KLD:203],[KLD:203],[KLD:203],[HOU:49],[HOU:49],[HOU:49])([AER:137],[AER:137],[AER:38],[AER:38])([XLN:220],[XLN:220],[XLN:117],[XLN:117],[XLN:82],[XLN:82],[XLN:82])([KLD:90])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([XLN:105],[XLN:105],[XLN:105],[XLN:81],[XLN:81],[XLN:81])([AER:40],[AER:40],[AER:40],[KLD:177],[KLD:177],[KLD:177])([HOU:60])([XLN:129],[XLN:129])

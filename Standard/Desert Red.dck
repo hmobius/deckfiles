@@ -1,0 +1,31 @@
+NAME:Desert Red
+2 [HOU:182] Scavenger Grounds
+4 [HOU:181] Ramunap Ruins
+4 [XLN:149] Lightning Strike
+4 [KLD:199] Bomat Courier
+3 [KLD:110] Chandra, Torch of Defiance
+3 [XLN:154] Rampaging Ferocidon
+13 [XLN:272] Mountain
+2 [XLN:250] Treasure Map
+3 [HOU:83] Abrade
+3 [AKH:249] Sunscorched Desert
+3 [HOU:107] Sand Strangler
+3 [AKH:134] Glorybringer
+2 [AER:87] Kari Zev, Skyship Raider
+2 [AER:98] Shock
+3 [AKH:148] Soul-Scar Mage
+1 [AKH:136] Hazoret the Fervent
+3 [HOU:175] Dunes of the Dead
+2 [AKH:141] Magma Spray
+SB: 1 [HOU:83] Abrade
+SB: 2 [HOU:86] Chandra's Defeat
+SB: 1 [KLD:110] Chandra, Torch of Defiance
+SB: 2 [AKH:223] Cut // Ribbons
+SB: 1 [AKH:134] Glorybringer
+SB: 1 [AKH:148] Soul-Scar Mage
+SB: 2 [AKH:136] Hazoret the Fervent
+SB: 1 [XLN:154] Rampaging Ferocidon
+SB: 2 [AKH:141] Magma Spray
+SB: 2 [AER:96] Release the Gremlins
+LAYOUT MAIN:(1,6)(CMC,false,60)|([HOU:175],[HOU:175],[HOU:175],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[XLN:272],[HOU:181],[HOU:181],[HOU:181],[HOU:181],[HOU:182],[HOU:182],[AKH:249],[AKH:249],[AKH:249])([KLD:199],[KLD:199],[KLD:199],[KLD:199],[AKH:141],[AKH:141],[AER:98],[AER:98],[AKH:148],[AKH:148],[AKH:148])([HOU:83],[HOU:83],[HOU:83],[AER:87],[AER:87],[XLN:149],[XLN:149],[XLN:149],[XLN:149],[XLN:250],[XLN:250])([XLN:154],[XLN:154],[XLN:154])([KLD:110],[KLD:110],[KLD:110],[AKH:136],[HOU:107],[HOU:107],[HOU:107])([AKH:134],[AKH:134],[AKH:134])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:83],[HOU:86],[HOU:86],[KLD:110],[AKH:223],[AKH:223],[AKH:134],[AKH:136],[AKH:136],[AKH:141],[AKH:141],[XLN:154],[AER:96],[AER:96],[AKH:148])

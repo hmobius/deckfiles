@@ -1,0 +1,26 @@
+NAME:Mono Black Aggro
+4 [AKH:81] Bone Picker
+4 [XLN:128] Vicious Conquistador
+1 [AER:181] Walking Ballista
+2 [XLN:118] Ruin Raider
+4 [AER:57] Fatal Push
+1 [XLN:123] Skulduggery
+15 [XLN:268] Swamp
+4 [KLD:231] Scrapheap Scrounger
+4 [AKH:88] Dread Wanderer
+2 [XLN:130] Walk the Plank
+1 [HOU:57] Ammit Eternal
+1 [AKH:82] Bontu the Glorified
+4 [HOU:179] Ifnir Deadlands
+4 [KLD:95] Night Market Lookout
+1 [AER:142] Aethersphere Harvester
+2 [AER:153] Heart of Kiran
+2 [AER:62] Glint-Sleeve Siphoner
+4 [AKH:111] Supernatural Stamina
+SB: 4 [XLN:105] Duress
+SB: 2 [KLD:85] Harsh Scrutiny
+SB: 4 [XLN:110] Kitesail Freebooter
+SB: 1 [AER:142] Aethersphere Harvester
+SB: 4 [AER:61] Gifted Aetherborn
+LAYOUT MAIN:(1,5)(CMC,false,60)|([HOU:179],[HOU:179],[HOU:179],[HOU:179],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[XLN:268],[AER:181])([AKH:88],[AKH:88],[AKH:88],[AKH:88],[AER:57],[AER:57],[AER:57],[AER:57],[KLD:95],[KLD:95],[KLD:95],[KLD:95],[XLN:123],[AKH:111],[AKH:111],[AKH:111],[AKH:111],[XLN:128],[XLN:128],[XLN:128],[XLN:128])([AER:62],[AER:62],[AER:153],[AER:153],[KLD:231],[KLD:231],[KLD:231],[KLD:231],[XLN:130],[XLN:130])([AER:142],[HOU:57],[AKH:82],[XLN:118],[XLN:118])([AKH:81],[AKH:81],[AKH:81],[AKH:81])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:142],[XLN:105],[XLN:105],[XLN:105],[XLN:105],[AER:61],[AER:61],[AER:61],[AER:61],[KLD:85],[KLD:85],[XLN:110],[XLN:110],[XLN:110],[XLN:110])
